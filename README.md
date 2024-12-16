@@ -34,16 +34,20 @@ git lfs clone https://github.com/stv002/XR_Final.git
 ## Build / Run Instructions
 
 1. Open the cloned project in Unity.
+2. Open the scene **Assets/Scenes/XR_FINAL_DEMO.unity**
+3. Install the package located at: **Assets/External Assets/Magic Lightmap Switcher/Support Packages/URP/URP 14 Support.unitypackage**
+4. Go to **Tools --> Magic Lightmap Switcher --> Prepare Shaders**, and click **Patch Shaders**
+5. Now, once you enter play mode, the correct lightmap will be loaded.
 #### Mac + Non Quest Users
 1. Navigate to File --> Build Settings, and select **Android**.
-2. Select your VR device as the target device (ex. Meta Quest 3).
+2. Select your VR device as the **run device** (ex. Oculus Quest 3).
 3. Click **Build**, then transfer the .apk to your device using any installation tool, or instead click **Build and Run**.
 #### Windows WITH Meta Quest
 Windows users can either follow the same steps as Mac, or instead of building:
 1. Navigate to File --> Build Settings, and select **Windows/Mac/Linux**.
 2. Select **Switch Platform**
 3. Connect your VR headset to your PC via **Meta Quest Link**
-4. Simply enter play mode in Unity!
+4. Simply enter play mode!
 
 ## Known Issues/Limitations
 
