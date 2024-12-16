@@ -1,20 +1,26 @@
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
+/// <summary>
+/// Controls the kinematic state of a Rigidbody based on XRSocketInteractor events.
+/// Not used anymore
+/// </summary>
 public class KinematicControl : MonoBehaviour
 {
-    public XRSocketInteractor socket1;
-    public XRSocketInteractor socket2;
+    public XRSocketInteractor socket1; // First socket interactor
+    public XRSocketInteractor socket2; // Second socket interactor
 
-    public Rigidbody targetRigidbody;
+    public Rigidbody targetRigidbody; // Rigidbody to control kinematic state
 
     private void Start()
     {
+        // If target Rigidbody is not assigned, attempt to find it on the current GameObject
         if (targetRigidbody == null)
         {
             targetRigidbody = GetComponent<Rigidbody>();
             if (targetRigidbody == null)
             {
+                Debug.LogWarning("Rigidbody component not found or assigned.");
                 return;
             }
         }
@@ -38,7 +44,7 @@ public class KinematicControl : MonoBehaviour
 
     private void OnDestroy()
     {
-        // Remove listeners if objects is destroyed
+        // Remove listeners when the object is destroyed
         if (socket1 != null)
         {
             socket1.selectEntered.RemoveListener(OnSocketUpdated);
@@ -62,7 +68,9 @@ public class KinematicControl : MonoBehaviour
         UpdateKinematicState();
     }
 
-    // Set object to kinematic if a socket is filled (otherwise physics go crazy)
+    /// <summary>
+    /// Updates the kinematic state of the Rigidbody based socket connection
+    /// </summary>
     private void UpdateKinematicState()
     {
         bool isEitherSocketFilled = (socket1 != null && socket1.hasSelection) ||

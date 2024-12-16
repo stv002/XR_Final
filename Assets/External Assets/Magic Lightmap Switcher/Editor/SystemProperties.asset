@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8ab7b0de12c0843a0f955937a7c8df, type: 3}
+  m_Name: SystemProperties
+  m_EditorClassIdentifier: 
+  standardRPActive: 0
+  universalRPActive: 1
+  highDefinitionRPActive: 0
+  standardRPPatched: 0
+  universalRPPatched: 1
+  highDefinitionRPPatched: 0
+  clearOriginalLightingData: 0
+  batchByLightmapIndex: 0
+  editorRestarted: 1
+  prevTimeSinceStartup: 0
+  checkForPatchedRoutineInProcess: 0
+  restoring: 0
+  srpPatching: 0
+  waitForRestart: 0
+  srpCoreDirFrom: 
+  srpCoreDirTo: 
+  srpCommonDirFrom: 
+  srpCommonDirTo: 
+  shaderGraphDirFrom: 
+  ShaderGraphDirTo: 
+  VFXGraphDirFrom: 
+  VFXGraphDirTo: 
+  HDRPConfigDirFrom: 
+  HDRPConfigDirTo: 
+  srpVersion: 14.0.11
+  srpReady: 0
+  storePath: /MLS_DATA
+  deferredWarningConfirmed: 0
+  useSwitchingOnly: 0
+  srp_Core_SourcesPath: C:/Users/svick/Desktop/unity cs379/final project stuff/backup/VR
+    Final Project - old retry/Assets/../Packages/com.unity.render-pipelines.core@14.0.11/ShaderLibrary/
+  srp_Core_ModifySourcesPath: C:/Users/svick/Desktop/unity cs379/final project stuff/backup/VR_CurrFinal
+    - Copy (2)/Assets\External Assets\Magic Lightmap Switcher/Editor/Dependent Resources/Shader
+    Sources/SRP/URP 14/Core/
+  SRP__ENTITY_LIGHTING__DEFAULT_SOURCE_FILE: EntityLighting.hlsl
+  SRP__COMMON__DEFAULT_SOURCE_FILE: Common.hlsl
+  srp_URP_SourcesPath: C:/Users/svick/Desktop/unity cs379/final project stuff/backup/VR
+    Final Project - old retry/Assets/../Packages/com.unity.render-pipelines.universal@14.0.11/
+  srp_URP_Common_ModifySourcesPath: C:/Users/svick/Desktop/unity cs379/final project
+    stuff/backup/VR_CurrFinal - Copy (2)/Assets\External Assets\Magic Lightmap Switcher/Editor/Dependent
+    Resources/Shader Sources/SRP/URP 14/Common/
+  srp_URP_Shaders_ModifySourcesPath: C:/Users/svick/Desktop/unity cs379/final project
+    stuff/backup/VR_CurrFinal - Copy (2)/Assets\External Assets\Magic Lightmap Switcher/Editor/Dependent
+    Resources/Shader Sources/SRP/URP 14/
+  URP__SHADOWS__DEFAULT_SOURCE_FILE: Shadows.hlsl
+  URP__LIT__DEFAULT_SOURCE_FILE: Shaders/Lit.shader
+  URP__TERRAIN_LIT__DEFAULT_SOURCE_FILE: Shaders/Terrain/TerrainLit.shader
+  URP__LIT__MODYFIED_SOURCE_FILE: Shaders/Lit.shader
+  URP__TERRAIN_LIT__MODYFIED_SOURCE_FILE: Shaders/TerrainLit.shader
+  URP__LIGHTING__DEFAULT_SOURCE_FILE: GlobalIllumination.hlsl
+  srp_HDRP_SourcesPath: 
+  srp_HDRP_Common_ModifySourcesPath: 
+  srp_HDRP_Shaders_ModifySourcesPath: 
+  HDRP__LIT__DEFAULT_SOURCE_FILE: Runtime/Material/Lit/Lit.shader
+  HDRP__HDRI_SKY__DEFAULT_SOURCE_FILE: Runtime/Sky/HDRISky/HDRISky.shader
+  HDRP__TERRAIN_LIT__DEFAULT_SOURCE_FILE: Runtime/Material/TerrainLit/TerrainLit.shader
+  HDRP__LIGHTING_LOOP_DEF__DEFAULT_SOURCE_FILE: Runtime/Lighting/LightLoop/LightLoopDef.hlsl
+  HDRP__BUILTINGI__DEFAULT_SOURCE_FILE: Runtime/Material/BuiltInGIUtilities.hlsl

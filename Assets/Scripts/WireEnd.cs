@@ -1,15 +1,24 @@
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
+/// <summary>
+/// Represents one end of a wire that can connect to an XRSocketInteractor.
+/// Implements IPowerProvider to determine if it provides power.
+/// </summary>
 public class WireEnd : MonoBehaviour, IPowerProvider
 {
-    public WireEnd otherEnd; // Set this in the inspector or via script on wire initialization
+    [Tooltip("Reference to the other end of the wire.")]
+    public WireEnd otherEnd;
 
-    private IPowerProvider connectedProvider;
-    private XRSocketInteractor currentSocket;
+    [Tooltip("Flag indicating if this end is powered by default.")]
+    public bool isPowered;
+
+    private IPowerProvider connectedProvider; // Holds the power provider connected directly to this end
+    private XRSocketInteractor currentSocket; // Current socket this end is connected to
 
     private void OnEnable()
     {
+        // Listen for grab events on this interactable object
         var grabInteractable = GetComponent<XRGrabInteractable>();
         grabInteractable.selectEntered.AddListener(OnSelectEntered);
         grabInteractable.selectExited.AddListener(OnSelectExited);
@@ -17,17 +26,21 @@ public class WireEnd : MonoBehaviour, IPowerProvider
 
     private void OnDisable()
     {
+        // Clean up event listeners when disabled to prevent memory leaks
         var grabInteractable = GetComponent<XRGrabInteractable>();
         grabInteractable.selectEntered.RemoveListener(OnSelectEntered);
         grabInteractable.selectExited.RemoveListener(OnSelectExited);
     }
 
+    /// <summary>
+    /// Event handler for when this object is grabbed and enters a socket.
+    /// </summary>
     private void OnSelectEntered(SelectEnterEventArgs args)
     {
         if (args.interactorObject is XRSocketInteractor socket)
         {
             currentSocket = socket;
-            // Check if the socket or its parent object has an IPowerProvider
+            // Check if the socket or its parent object has an IPowerProvider interface
             connectedProvider = socket.GetComponentInParent<IPowerProvider>();
 
             // Notify connected objects to update power status if needed
@@ -35,6 +48,9 @@ public class WireEnd : MonoBehaviour, IPowerProvider
         }
     }
 
+    /// <summary>
+    /// Event handler for when this object is released from a socket.
+    /// </summary>
     private void OnSelectExited(SelectExitEventArgs args)
     {
         currentSocket = null;
@@ -44,16 +60,25 @@ public class WireEnd : MonoBehaviour, IPowerProvider
         NotifyConnectionChanged();
     }
 
+    /// <summary>
+    /// Returns whether this end is powered, based on default, connected provider, or other end's power.
+    /// </summary>
     public bool IsPowered()
     {
+        // If this end is powered by default
+        if (isPowered)
+        {
+            return true;
+        }
+
         // If this end is connected to a power provider directly:
         if (connectedProvider != null && connectedProvider.IsPowered())
         {
             return true;
         }
 
-        // Otherwise, see if other end is powered (this covers the case if power is coming from the other side)
-        if (otherEnd != null && otherEnd.connectedProvider != null && otherEnd.connectedProvider.IsPowered())
+        // Otherwise, check if the other end is powered (covers power coming from the other side)
+        if (otherEnd != null && (otherEnd.PoweredByDefault() || (otherEnd.connectedProvider != null && otherEnd.connectedProvider.IsPowered())))
         {
             return true;
         }
@@ -61,18 +86,20 @@ public class WireEnd : MonoBehaviour, IPowerProvider
         return false;
     }
 
+    /// <summary>
+    /// Notifies connected components that the connection status has changed.
+    /// </summary>
     private void NotifyConnectionChanged()
     {
-        // If connected to a component that cares about power states, we can notify it here
-        // Or rely on a separate component to poll. For this example, let's just do a simple broadcast:
+        // Notify the PoweredComponent on this side of the connection
         var component = GetComponentInParent<PoweredComponent>();
         if (component != null)
         {
             component.CheckPower();
         }
 
-        // Notify the other end's parent as well, since a change in this endpoint might affect that:
-        if (otherEnd != null && otherEnd.gameObject != null)
+        // Notify the other end's PoweredComponent as well, as changes here affect it
+        if (otherEnd != null)
         {
             var otherComponent = otherEnd.GetComponentInParent<PoweredComponent>();
             if (otherComponent != null)
@@ -82,8 +109,19 @@ public class WireEnd : MonoBehaviour, IPowerProvider
         }
     }
 
+    /// <summary>
+    /// Checks if this end is currently connected to a socket.
+    /// </summary>
     public bool IsConnected()
     {
         return currentSocket != null;
+    }
+
+    /// <summary>
+    /// Helper method to prevent infinite recursion in IsPowered().
+    /// </summary>
+    public bool PoweredByDefault()
+    {
+        return isPowered;
     }
 }

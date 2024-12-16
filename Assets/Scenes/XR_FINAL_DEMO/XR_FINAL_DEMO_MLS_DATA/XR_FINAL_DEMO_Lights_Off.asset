@@ -1,0 +1,6886 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d30d7fc3fce64943af982260b857a69, type: 3}
+  m_Name: XR_FINAL_DEMO_Lights_Off
+  m_EditorClassIdentifier: 
+  sceneGUID: -66014
+  dataPrefix: XR_FINAL_DEMO
+  dataName: Lights_Off
+  blendingIndex: 1
+  blendingRange: {x: 0, y: 1}
+  startValue: 0
+  sceneLightingData:
+    lightmapName: Lights_Off
+    rendererDatas:
+    - objectId: 7b121630-9abf-4cd0-b555-544ffd21b5bf
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.63666415, z: -0, w: 0.7711413}
+      position: {x: 0.483701, y: 0.05009997, z: -1.4238367}
+      lightmapScaleOffset: {x: 0.0030753282, y: 0.0030753282, z: 0.9607706, w: 0.08817958}
+    - objectId: 3a7635f8-eed8-4f48-a37c-d8def6ab8fae
+      lightmapIndex: 0
+      rotation: {x: -0.07131984, y: -0.6326569, z: 0.0863841, w: 0.7662877}
+      position: {x: 0.469522, y: 1.1115524, z: -1.5013399}
+      lightmapScaleOffset: {x: 0.009123519, y: 0.009123519, z: 0.9879934, w: 0.19250698}
+    - objectId: bcba98f0-9c96-4068-8195-7e35812bfe8b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.63666415, z: -0, w: 0.7711413}
+      position: {x: 0.50879526, y: 0.5613905, z: -1.2976437}
+      lightmapScaleOffset: {x: 0.022260921, y: 0.022260921, z: 0.050336033, w: 0.962181}
+    - objectId: 45e819f1-c4b0-4eac-8548-977cb5cb077a
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.6066737, z: -0.7449999}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.52442586}
+    - objectId: 63fa2d87-8718-46f1-804c-85058a30d35e
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.954987, z: -0.7449999}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.97352743, w: 0.18035571}
+    - objectId: cac0c8c8-8202-48b3-af90-b47ad41dcfa8
+      lightmapIndex: 0
+      rotation: {x: -0.000934073, y: -0.00093407324, z: 0.7071061, w: 0.70710623}
+      position: {x: -2.597, y: 2.9959998, z: 3.2909994}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.109375, w: 0.957923}
+    - objectId: 425d316f-7496-441b-a324-53f29554ee9f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.051964533, z: -0, w: 0.99864894}
+      position: {x: 0.14199948, y: 4.2396736, z: 0.5010004}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.5904163}
+    - objectId: 1da28e4f-412f-4650-8fbb-241ac5afa7ac
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.051964533, z: -0, w: 0.99864894}
+      position: {x: 0.14199948, y: 4.587987, z: 0.5010004}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.07096549}
+    - objectId: 9147535f-9ede-49b0-b79d-790662de1d1b
+      lightmapIndex: 0
+      rotation: {x: -0.6197285, y: -0, z: -0, w: 0.78481627}
+      position: {x: -1.7814996, y: 1.501, z: 3.5819998}
+      lightmapScaleOffset: {x: 0.027421843, y: 0.027421843, z: 0.050232813, w: 0.68562835}
+    - objectId: d524f3c6-d2f5-4ba3-b2cd-878b1288f5ed
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: -9.02}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.551673}
+    - objectId: 9db11c03-d607-4497-8f77-02b6809044f5
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 35.989}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.50089175}
+    - objectId: b51abf36-d557-4435-8657-0d7167a73435
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: -0.7071068, z: 0.00000001545431, w: 0.7071068}
+      position: {x: 13.533029, y: 0.0031530857, z: 10.402715}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.94424313}
+    - objectId: a0b27b16-f1ac-4c67-b746-9416a96f9243
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: -0.7071068, z: 0.00000001545431, w: 0.7071068}
+      position: {x: 7.093027, y: 0.0031530857, z: 13.860715}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.76551956, w: 0.19073623}
+    - objectId: 7e5e146c-8f54-4ea1-af8b-bbc4c30fbd28
+      lightmapIndex: 0
+      rotation: {x: 8.141879e-15, y: 1, z: -0.000000021855694, w: 0.00000037252897}
+      position: {x: -13.106044, y: 0.0031530857, z: 11.219403}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.79825604}
+    - objectId: d98b9c19-c9b7-4e77-be87-cc581e37a1d3
+      lightmapIndex: 0
+      rotation: {x: 8.141879e-15, y: 1, z: -0.000000021855694, w: 0.00000037252897}
+      position: {x: -16.564037, y: 0.0031530857, z: 4.779401}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.86219925, w: 0.19073623}
+    - objectId: e63f81bf-7d8e-4395-a512-af5cd5f1235b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.6853091, z: -0, w: 0.7282523}
+      position: {x: 1.4593198, y: 0.06426573, z: -1.6897383}
+      lightmapScaleOffset: {x: 0.0041004377, y: 0.0041004377, z: 0.57009816, w: 0.34137988}
+    - objectId: 9f4d1591-3e64-40eb-9b14-feadd0f6e877
+      lightmapIndex: 0
+      rotation: {x: -0.48666224, y: -0.48250225, z: 0.5171577, w: 0.51273704}
+      position: {x: 1.4549906, y: 1.1038522, z: -1.7609253}
+      lightmapScaleOffset: {x: 0.011150967, y: 0.011150967, z: 0.9889294, w: 0.032003544}
+    - objectId: 87ec4067-5c37-478a-b49b-121580722d7f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.6853091, z: -0, w: 0.7282523}
+      position: {x: 1.4717809, y: 0.55369055, z: -1.4848394}
+      lightmapScaleOffset: {x: 0.026308361, y: 0.026308361, z: 0.9603059, w: 0.24682635}
+    - objectId: 98524d3e-fa67-457d-8f81-1dfbd36327d6
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 30.98}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.9157512}
+    - objectId: 6d73a8c2-0df4-4787-8b82-296b7c60d8a2
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: -0.7071068, z: 0.00000001545431, w: 0.7071068}
+      position: {x: 2.243956, y: 0.0031530857, z: 10.399404}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.65226895}
+    - objectId: 1396964a-efc3-45c4-ae18-df05b2ab3efa
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: -0.7071068, z: 0.00000001545431, w: 0.7071068}
+      position: {x: -4.196046, y: 0.0031530857, z: 13.857404}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.62695307, w: 0.24316397}
+    - objectId: 8b0a541c-56d2-4fc0-b87e-4df9030f22c1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.2396736, z: 1.2600012}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.5574211}
+    - objectId: 903bc37d-8592-45e3-9b95-cbd4bb1698ae
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.587987, z: 1.2600012}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.9608321, w: 0.18035571}
+    - objectId: 4e79d98e-2e30-4d5d-949b-afef81df2660
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: 0.7071068, z: -0.00000001545431, w: 0.7071068}
+      position: {x: -10.496044, y: 0.0031530857, z: -8.700597}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.89558077}
+    - objectId: 727d6882-2521-41fd-b224-68072f174592
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: 0.7071068, z: -0.00000001545431, w: 0.7071068}
+      position: {x: -4.0560436, y: 0.0031530857, z: -12.158598}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.76551956, w: 0.09439151}
+    - objectId: 324a3df3-bb26-4e6c-805b-cd647e6d054b
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.77, y: 0.011990905, z: 0.8100004}
+      lightmapScaleOffset: {x: 0.04631161, y: 0.04631161, z: 0.19243315, w: 0.44413564}
+    - objectId: 43b0234e-9790-4775-863d-c5387df23699
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.77, y: 0.011990905, z: 0.8100004}
+      lightmapScaleOffset: {x: 0.092638545, y: 0.092638545, z: -0.001852771, w: 0.3466952}
+    - objectId: 41f151fa-9303-43f3-b0a1-f9938e5f8670
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.5, y: 0.0031530857, z: 9.883}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.7495937}
+    - objectId: 397a52a1-19e9-4377-936c-f0a06e28c7ff
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.794, y: 0.0031530857, z: 11.963}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.86219925, w: -0.0019532142}
+    - objectId: 2fefdf05-197c-4b9b-9559-5e630dc066e8
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 16.009998}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.50089175}
+    - objectId: 32790740-2f63-41f8-97a6-071faa3778b1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: 0.70710677, w: 0.7071068}
+      position: {x: -2.674, y: 2.8909998, z: 3.6120005}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.109375, w: 0.9753514}
+    - objectId: 676baac2-473e-454a-97d7-1428e7049b38
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: -9.020001}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.4501105}
+    - objectId: 646bc110-4dd4-445d-8a5e-ab59578ac0ba
+      lightmapIndex: 0
+      rotation: {x: -0.70703316, y: -0.707033, z: 0.010209719, w: 0.010209722}
+      position: {x: -5.509001, y: 2.9959998, z: 3.6540003}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.091796875, w: 0.9753514}
+    - objectId: ba23d134-988d-4e06-b268-b142881f3e87
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 25.998997}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.90714175}
+    - objectId: f2c74b98-2c42-40e6-ad55-ce36d8868193
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: -4.010001}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.60245425}
+    - objectId: e7d67a74-13de-43e1-b8c9-c801c4c1cafe
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: -4.010001}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.348548}
+    - objectId: fb74b0c2-fc69-4c28-85d7-c64421b78c48
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.6066737, z: 1.2600012}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.6069139}
+    - objectId: e721b8ca-00fa-4a0f-94ed-903e668901c8
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.954987, z: 1.2600012}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.081693925}
+    - objectId: fd4041ce-3348-4b12-8344-422fa9d8d1d5
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: 0.7071068, z: -0.00000001545431, w: 0.7071068}
+      position: {x: 0.79999995, y: 0.0031530857, z: -8.7}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.8469184}
+    - objectId: 722fa224-9163-4491-a63b-c42ad1c0be93
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: 0.7071068, z: -0.00000001545431, w: 0.7071068}
+      position: {x: 7.2400007, y: 0.0031530857, z: -12.158001}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.76551956, w: -0.0019532142}
+    - objectId: f2baf139-5041-4448-9b0b-0e5af1a55ace
+      lightmapIndex: 0
+      rotation: {x: -0.3929935, y: 0.5878403, z: 0.58784014, w: 0.39299348}
+      position: {x: -7.596646, y: 0.47000003, z: 1.7185422}
+      lightmapScaleOffset: {x: 0.015230436, y: 0.015230436, z: 0.9659248, w: 0.29277843}
+    - objectId: f34abce8-eb2e-4d98-ac1d-292bc93aecd6
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 10.768, y: -0.018999934, z: 0.9910002}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.80557925}
+    - objectId: 031cd99d-7b92-48f9-81ca-4553368a8252
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 5.999999}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.60245425}
+    - objectId: c58fc4dd-0181-4d69-bf09-adacb3668078
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.1420009, y: 3.6066737, z: 1.8970003}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.5739187}
+    - objectId: 68031e3b-e17a-4d7b-ac1a-f0ea0810d604
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.1420009, y: 3.954987, z: 1.8970003}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98622274, w: 0.18035571}
+    - objectId: 2484693b-fd3b-49a3-a42e-172420b02bdc
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 41}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.4501105}
+    - objectId: 88c2cc47-36d2-4b30-b191-aab4a8e23483
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: 0.7071068, z: -0.00000001545431, w: 0.7071068}
+      position: {x: -15.3860445, y: 0.0031530857, z: -12.158598}
+      lightmapScaleOffset: {x: 0.07651777, y: 0.07651777, z: -0.0015303554, w: 0.51534057}
+    - objectId: 290fb3aa-f1f9-4fb7-91c9-628bb87c0f56
+      lightmapIndex: 0
+      rotation: {x: 0.00000001545431, y: -0.7071068, z: 0.00000001545431, w: 0.7071068}
+      position: {x: -15.466044, y: 0.0031530857, z: 13.857404}
+      lightmapScaleOffset: {x: 0.077521026, y: 0.077521026, z: -0.0015504207, w: 0.4382989}
+    - objectId: ada95faf-d79a-404a-8471-8986cab44286
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 35.989002}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.39932925}
+    - objectId: 7239c41f-b642-41fe-b073-83454eff0e37
+      lightmapIndex: 0
+      rotation: {x: 8.141879e-15, y: 1, z: -0.000000021855694, w: 0.00000037252897}
+      position: {x: -16.564037, y: 0.0031530857, z: 16.099403}
+      lightmapScaleOffset: {x: 0.06949711, y: 0.06949711, z: -0.0013899422, w: 0.5912424}
+    - objectId: 04c76965-27fe-43a6-9fcd-c5fc9b105054
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 46.009}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.86496997}
+    - objectId: 3088687b-1cc6-48fb-a257-8a72fa0fe5b1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.06599927, y: 4.2396736, z: 1.8970003}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.5574211}
+    - objectId: 3fa625c3-2d5c-48dc-bd21-2e191c5d0ddd
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.06599927, y: 4.587987, z: 1.8970003}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.096344724}
+    - objectId: 24afd624-7cc3-4da5-814b-5b3fc4d3ebf6
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.14414294, z: -0, w: 0.9895569}
+      position: {x: -7.7750006, y: 2.9592972, z: 3.2219992}
+      lightmapScaleOffset: {x: 0.012826067, y: 0.012826067, z: 0.9754783, w: 0.27469626}
+    - objectId: cfdcb1a3-46c6-47c0-a861-129df6dbfbb7
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 5.999999}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.66184497}
+    - objectId: 1af4148b-ed5d-46b2-908d-4a09ce8b685e
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 41.000004}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.70401675}
+    - objectId: fceb5149-2efd-4995-ae99-ce9ba366925d
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 25.999}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.8141887}
+    - objectId: c5e98f73-47d9-4409-a090-af8a626f3a1f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 0.9910002}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.551673}
+    - objectId: 95ad2e82-b3d6-4a67-b1d6-e6813841dd3b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.408, y: 4.832, z: 1.8629999}
+      lightmapScaleOffset: {x: 0.022239426, y: 0.022239426, z: 0.05033646, w: 0.93874395}
+    - objectId: 5dbee067-4413-4e52-8fe0-45bf9b29c774
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.2396736, z: -0.1079998}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.5739187}
+    - objectId: 7c03f8a3-bd19-4c9f-ba64-247f91a6f8a6
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.587987, z: -0.1079998}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.060237058}
+    - objectId: 3c1e76df-9431-49fe-8962-43aa0fb3212e
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.2396736, z: -0.7449999}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.5409235}
+    - objectId: a906bf83-f24d-4dc8-a059-9f6462d73a65
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.14399934, y: 4.587987, z: -0.7449999}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.13507682}
+    - objectId: ab3a72f4-ca22-4161-b840-f0583cd73c19
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: -14.021003}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.9149337, w: 0.2890342}
+    - objectId: 877c4716-b082-4fbf-8ac6-cc4073c3dee9
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 11.0009985}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.348548}
+    - objectId: 21c5a95d-db9b-4457-a7d6-66c6182e8e6d
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 16.009998}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.8563605}
+    - objectId: 9989ae82-9f8d-4b08-9bbd-2f4d2d1d8cc9
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.6066737, z: -0.1079998}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.5904163}
+    - objectId: ff2dd48c-59ad-4660-85d9-f5a2381fadd7
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.0640008, y: 3.954987, z: -0.1079998}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.10707316}
+    - objectId: b5717e85-d994-4139-a0cc-3c3af0014915
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 0.9910002}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.76340747}
+    - objectId: 682b2ea7-70b9-4392-bae4-98252ca470e1
+      lightmapIndex: 0
+      rotation: {x: -0.011824495, y: -0.011824495, z: 0.7070078, w: 0.70700794}
+      position: {x: -2.563, y: 2.8909998, z: 3.3730001}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.07409075, w: 0.9800548}
+    - objectId: bed52f24-f366-46e9-b5ce-0c2b57773564
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 20.989998}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.754798}
+    - objectId: 62e2af6d-9fb0-4137-8597-b080738c219b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -9.42, y: 4.9817486, z: 1.074}
+      lightmapScaleOffset: {x: 0.00898449, y: 0.00898449, z: 0.98813224, w: 0.20330517}
+    - objectId: e21b86ef-3e72-4d98-8fe8-caa18fa1f8c2
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -9.42, y: 4.9817486, z: 1.074}
+      lightmapScaleOffset: {x: 0.0059715724, y: 0.0059715724, z: 0.53215224, w: 0.34117413}
+    - objectId: 981f2a4a-9146-4e30-943f-e2ae8b725822
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -9.42, y: 4.9817486, z: 1.074}
+      lightmapScaleOffset: {x: 0.002934801, y: 0.002934801, z: 0.72191024, w: 0.34145933}
+    - objectId: e88e9bc6-532f-4010-8136-2c5dc3599380
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.051964533, z: -0, w: 0.99864894}
+      position: {x: -1.0660007, y: 3.6066737, z: 0.5010004}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.6069139}
+    - objectId: 9c7779b0-5e9a-49ba-b22d-9a4242476ce2
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.051964533, z: -0, w: 0.99864894}
+      position: {x: -1.0660007, y: 3.954987, z: 0.5010004}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.15235205}
+    - objectId: fa0f7fa4-2892-4ddc-8c80-930393d6ed54
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 5.63, y: -0.018999934, z: 0.9910002}
+      lightmapScaleOffset: {x: 0.049804688, y: 0.049804688, z: 0.76747274, w: 0.2890342}
+    - objectId: 99eeae2e-13f3-4e0e-839f-7437f39556dd
+      lightmapIndex: 0
+      rotation: {x: 0.1958662, y: 0.6794385, z: 0.67943823, w: -0.19586611}
+      position: {x: 1.5864096, y: 0.46914124, z: 3.0128746}
+      lightmapScaleOffset: {x: 0.015230436, y: 0.015230436, z: 0.9831148, w: 0.29277843}
+    - objectId: 8877aaf2-c2a2-4436-b499-0eed397b911e
+      lightmapIndex: 0
+      rotation: {x: -0.011824495, y: -0.011824495, z: 0.7070078, w: 0.70700794}
+      position: {x: -2.39, y: 2.8909998, z: 3.038001}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.2109375, w: 0.4918464}
+    - objectId: e5fd1ede-9636-4a8f-aca1-17d19be2d41c
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.012371618, z: -0, w: 0.99992347}
+      position: {x: 0.18899941, y: 4.2396736, z: 2.4910002}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.1930573, w: 0.52442586}
+    - objectId: 8f2f8996-e25b-49fa-a9bb-c3289d9b23ed
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.012371618, z: -0, w: 0.99992347}
+      position: {x: 0.18899941, y: 4.587987, z: 2.4910002}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.16308048}
+    - objectId: 261d3bf0-e236-4032-8d9c-228ae8ceebed
+      lightmapIndex: 0
+      rotation: {x: -0.7067012, y: -0.7067011, z: -0.023947202, w: -0.023947207}
+      position: {x: -5.2890005, y: 3.0240002, z: 2.9450006}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.19335938, w: 0.4918464}
+    - objectId: 3aeefce5-e04a-459d-a1aa-a03a02e39566
+      lightmapIndex: 0
+      rotation: {x: 8.141879e-15, y: 1, z: -0.000000021855694, w: 0.00000037252897}
+      position: {x: -13.106044, y: 0.0031530857, z: -0.13059711}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.19239284, w: 0.34758145}
+    - objectId: c57a0601-31f2-4389-998d-5dc28fc47eec
+      lightmapIndex: 0
+      rotation: {x: 8.141879e-15, y: 1, z: -0.000000021855694, w: 0.00000037252897}
+      position: {x: -16.564037, y: 0.0031530857, z: -6.5705996}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.86219925, w: 0.09439151}
+    - objectId: 2b36815e-aa4a-4574-9922-a0e28228af6f
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.5, y: 0.0031530857, z: -12.47}
+      lightmapScaleOffset: {x: 0.048326924, y: 0.048326924, z: 0.14161159, w: 0.7009313}
+    - objectId: db1582e0-e925-4a0b-bfa8-6d757838bb06
+      lightmapIndex: 0
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      position: {x: 12.794, y: 0.0031530857, z: -10.39}
+      lightmapScaleOffset: {x: 0.0976607, y: 0.0976607, z: 0.5302734, w: 0.24316397}
+    - objectId: 55cfe19b-d96f-44ab-a382-85f114616652
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.794, y: -0.049999952, z: -14.021003}
+      lightmapScaleOffset: {x: 0.047734372, y: 0.047734372, z: 0.19240469, w: 0.39625567}
+    - objectId: d6a7715e-25e3-4412-87ae-e6f3ed67f05a
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.1800001, y: 4.83, z: 0.011000633}
+      lightmapScaleOffset: {x: 0.023237176, y: 0.023237176, z: -0.00046474356, w: 0.96606773}
+    - objectId: 0148d574-a4a3-447e-a7f5-edfcc2f5e253
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 15.782001, y: -0.049999952, z: 46.009003}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.091796875, w: 0.6532355}
+    - objectId: fed6bcfc-c0ed-4202-8ae0-ff9b23df32ba
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 30.980003}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0, w: 0.7126262}
+    - objectId: 497b6303-b427-4e40-bd6d-37303b527790
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.2899997, y: -0.53, z: 0.9000006}
+      lightmapScaleOffset: {x: 0.53422546, y: 0.53422546, z: -0.0021666936, w: -0.0021666936}
+    - objectId: 532d1042-8168-4bfa-ae08-64d1424a59ff
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 11.0009985}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.86415243, w: 0.2890342}
+    - objectId: fd2f806f-7ba2-47de-809e-52ae2ef0781b
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 2.475, y: 2.3589997, z: 3.9070005}
+      lightmapScaleOffset: {x: 0.0030206838, y: 0.0030206838, z: 0.9926444, w: 0.016538484}
+    - objectId: 122b7e07-13fe-43f1-b926-4bfc1281cd69
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 2.475, y: 2.3589997, z: 3.9070005}
+      lightmapScaleOffset: {x: 0.0030206838, y: 0.0030206838, z: 0.9926444, w: 0.016538484}
+    - objectId: bd08e120-3f60-4247-9582-89d02f8b684c
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 2.086, y: 2.3589997, z: 3.9070005}
+      lightmapScaleOffset: {x: 0.0030206838, y: 0.0030206838, z: 0.9926444, w: 0.02141562}
+    - objectId: 4397b6bb-e6ec-4fa3-ba7a-5dcb43011161
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 1.596, y: 2.3589997, z: 3.9082003}
+      lightmapScaleOffset: {x: 0.0050354875, y: 0.0050354875, z: 0.53993833, w: 0.3413612}
+    - objectId: 9ffc27bf-f27e-48c4-bb80-846c33a06642
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 0.82299995, y: 2.3589997, z: 3.908}
+      lightmapScaleOffset: {x: 0.0030513695, y: 0.0030513695, z: 0.9656539, w: 0.08818006}
+    - objectId: 9d456597-f05c-4d68-9447-19c87170990d
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7071065, z: -0, w: 0.7071071}
+      position: {x: 0.21799994, y: 2.3589997, z: 3.9070997}
+      lightmapScaleOffset: {x: 0.0030206838, y: 0.0030206838, z: 0.9926444, w: 0.026292754}
+    - objectId: 10422b31-2b2e-4a4f-bd5a-8870cd6446ac
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+      position: {x: 1.3570001, y: 2.3589997, z: 3.9610014}
+      lightmapScaleOffset: {x: 0.017265625, y: 0.017265625, z: 0.72524065, w: 0.33852187}
+    - objectId: e30ce8c8-acea-4fbb-8e70-f0287b278378
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 20.79, y: -0.049999952, z: 20.989998}
+      lightmapScaleOffset: {x: 0.048828125, y: 0.048828125, z: 0.14257812, w: 0.39932925}
+    - objectId: 6e76075f-088c-4494-8e5f-3d8b31150df7
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.952009, y: 4.833637, z: 1.0517384}
+      lightmapScaleOffset: {x: 0.007889132, y: 0.007889132, z: 0.7441023, w: 0.33882886}
+    - objectId: ad1cbb30-975d-44e1-a4d0-bef4837762be
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071064, z: -0, w: 0.7071072}
+      position: {x: -0.29280043, y: 2.1219997, z: -1.8679991}
+      lightmapScaleOffset: {x: 0.0030448223, y: 0.0030448223, z: 0.97541964, w: 0.08818019}
+    - objectId: 6dc0ae42-3937-4c7c-b00e-37d88f074bec
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7283046, z: -0, w: 0.6852535}
+      position: {x: 2.4456792, y: 0.06326568, z: -1.646738}
+      lightmapScaleOffset: {x: 0.0041004377, y: 0.0041004377, z: 0.57595754, w: 0.34137988}
+    - objectId: 4091f6c2-4757-4f8d-a0df-cea0d692aa97
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7283046, z: -0, w: 0.6852535}
+      position: {x: 2.4500194, y: 1.1028522, z: -1.7179251}
+      lightmapScaleOffset: {x: 0.011150967, y: 0.011150967, z: 0.9889294, w: 0.044597622}
+    - objectId: 2d3b9f54-6f28-477d-8402-46186f053e61
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7283046, z: -0, w: 0.6852535}
+      position: {x: 2.433187, y: 0.5526904, z: -1.4418411}
+      lightmapScaleOffset: {x: 0.026308361, y: 0.026308361, z: 0.9603059, w: 0.2194826}
+    - objectId: 641a3494-7da0-4675-9278-67df33d49048
+      lightmapIndex: 0
+      rotation: {x: -0.011824495, y: -0.011824495, z: 0.7070078, w: 0.70700794}
+      position: {x: -2.5580003, y: 2.8909998, z: 3.2110014}
+      lightmapScaleOffset: {x: 0.015811585, y: 0.015811585, z: 0.091796875, w: 0.957923}
+    - objectId: 4a747fc7-0283-46f8-a626-1be72c58e7d4
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.07596955, z: -0, w: 0.9971102}
+      position: {x: -7.1470003, y: 2.9592972, z: 3.3410006}
+      lightmapScaleOffset: {x: 0.012842724, y: 0.012842724, z: 0.9608321, w: 0.27469626}
+    - objectId: 52460a7f-3ddd-40e5-90f6-1b24002ed5c1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.0008413312, z: -0, w: 0.9999997}
+      position: {x: -1.892, y: -0.0008702278, z: -1.1229992}
+      lightmapScaleOffset: {x: 0.03248555, y: 0.03248555, z: 0.95951974, w: -0.0013123798}
+    - objectId: 93f893c8-6f53-4e0a-8f1b-5fd50c77c50b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.012371618, z: -0, w: 0.99992347}
+      position: {x: -1.0190008, y: 3.6066737, z: 2.4910002}
+      lightmapScaleOffset: {x: 0.015103997, y: 0.015103997, z: 0.20965886, w: 0.5409235}
+    - objectId: afbbf441-f2db-4e93-b10c-774d9364b299
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.012371618, z: -0, w: 0.99992347}
+      position: {x: -1.0190008, y: 3.954987, z: 2.4910002}
+      lightmapScaleOffset: {x: 0.010968282, y: 0.010968282, z: 0.98915243, w: 0.12434839}
+    - objectId: 8e4417c1-c77e-4f49-b9ad-92d4bff45796
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.70710576, z: -0, w: 0.70710784}
+      position: {x: -5.495, y: 0.0039999485, z: -1.6160002}
+      lightmapScaleOffset: {x: 0.043140627, y: 0.043140627, z: 0.8191453, w: 0.28894824}
+    - objectId: 724b1f7f-7b85-46ef-9225-3abfe9b57d34
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071065, z: -0, w: 0.7071071}
+      position: {x: -0.29500055, y: 1.969, z: -1.8839998}
+      lightmapScaleOffset: {x: 0.0040281056, y: 0.0040281056, z: 0.5526207, w: 0.34138134}
+    - objectId: 71efa9eb-75d2-437c-888c-517fd132ee6a
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -1.1800001, y: 4.83, z: 1.9660006}
+      lightmapScaleOffset: {x: 0.023237176, y: 0.023237176, z: 0.023897216, w: 0.96606773}
+    - objectId: e254306b-2076-4677-8ebf-3c7f9af80ad2
+      lightmapIndex: 0
+      rotation: {x: -0.6019557, y: -0, z: -0, w: 0.7985295}
+      position: {x: -1.7814996, y: 1.4540001, z: 3.3669996}
+      lightmapScaleOffset: {x: 0.027421843, y: 0.027421843, z: 0.050232813, w: 0.66129655}
+    - objectId: b18dc330-99ce-4ab3-8254-94f7fee8eabb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.408, y: 4.832, z: -0.123999596}
+      lightmapScaleOffset: {x: 0.022239426, y: 0.022239426, z: 0.05033646, w: 0.91530645}
+    - objectId: a997394e-2d02-4b53-aa3c-c9f9671f8216
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.70710576, z: -0, w: 0.70710784}
+      position: {x: 0.45899987, y: 2.3603, z: 3.9045}
+      lightmapScaleOffset: {x: 0.0030215478, y: 0.0030215478, z: 0.9926444, w: 0.011658319}
+    - objectId: f412c5fc-d85c-415c-b053-6bb826800286
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.01578836, y: 0.01578836, z: 0.06933594, w: 0.6101909}
+    - objectId: d624a292-06f1-401c-b041-03b24111404d
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.00000023841858, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.01580682, y: 0.01580682, z: 0.07409075, w: 0.9626262}
+    - objectId: 475573ec-b850-4550-ab07-37ee2c1fe3b9
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.01578836, y: 0.01578836, z: 0.06933594, w: 0.6277314}
+    - objectId: f2b6aa59-de98-4152-be7e-1f8b12dbb2f3
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.00000023841858, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.01580682, y: 0.01580682, z: 0.07413382, w: 0.9391887}
+    - objectId: 661a5fa4-32c4-4795-8286-63bbc76c9923
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.01580684, y: 0.01580684, z: 0.07413382, w: 0.9157512}
+    - objectId: 4b7a7ab1-8ebd-47dd-b9e5-d46f12882943
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.00000023841858, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.015806818, y: 0.015806818, z: 0.06933594, w: 0.5926323}
+    - objectId: dfbd9e9a-cf4d-41d3-8e2b-4f3eaa4aed21
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -3.9089992, y: 0.8677815, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421875, y: 0.027421875, z: 0.050232813, w: 0.8373537}
+    - objectId: c940da34-216f-4765-9732-a9c6e83331f9
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -3.9089992, y: 0.3511206, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421875, y: 0.027421875, z: 0.050232813, w: 0.8136403}
+    - objectId: 9df112a6-f155-4711-9b48-5dc88e8fae70
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -3.9089992, y: 2, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421875, y: 0.027421875, z: 0.050232813, w: 0.86442155}
+    - objectId: e03f9566-babc-4d86-9736-e823540c1352
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -3.9089992, y: 2.8000002, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421875, y: 0.027421875, z: 0.050232813, w: 0.78657943}
+    - objectId: b6700d8b-f882-40a6-a776-6c0fc1fce699
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -6.9089994, y: 2.8000002, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421808, y: 0.027421808, z: 0.9651665, w: 0.32461858}
+    - objectId: cf7d7bdc-5986-4a9c-8fdb-3920e78bb194
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -6.9089994, y: 2, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421808, y: 0.027421808, z: 0.050232813, w: 0.7120778}
+    - objectId: 68734cf5-f137-49d0-b849-c9ade0ef5ebb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -6.9089994, y: 1.3000003, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421808, y: 0.027421808, z: 0.050232813, w: 0.7357982}
+    - objectId: 06f0d842-f874-4592-b168-540f2fad62b8
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -6.9089994, y: 0.3511206, z: 3.3570013}
+      lightmapScaleOffset: {x: 0.027421808, y: 0.027421808, z: 0.050232813, w: 0.76285905}
+    - objectId: 1420b3a4-96dd-4998-af07-2a9aa66c86f8
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.00000023841858, z: 2.8411055}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.6484852, w: 0.3413811}
+    - objectId: fa05f8dc-8bbc-40e1-a77e-e8622718bbd1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.8135611, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040042, y: 0.004040042, z: 0.64357024, w: 0.3413811}
+    - objectId: f5445ae7-11b8-4bb7-96ba-22d7f626b1fa
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.8135611, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400443, y: 0.0040400443, z: 0.5965629, w: 0.3413811}
+    - objectId: 16f8b157-c5e9-4b4c-b2b8-3a256a10e681
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.8135611, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400443, y: 0.0040400443, z: 0.591648, w: 0.3413811}
+    - objectId: f8224de9-ee60-4430-b286-cad21353ad4e
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.8135611, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040042, y: 0.004040042, z: 0.6730599, w: 0.3413811}
+    - objectId: d9f2f523-98c6-4af0-a0b0-1f5ad140f571
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.3000003, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.004040043, y: 0.004040043, z: 0.61130774, w: 0.3413811}
+    - objectId: ef9a6f86-83b1-4dfb-8510-88542d6c7093
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.3000003, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040400405, y: 0.0040400405, z: 0.6779748, w: 0.3413811}
+    - objectId: ee0818fb-56f7-482f-bb81-d95eb41f60eb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.66814494, w: 0.3413811}
+    - objectId: b8e317b3-27dc-4240-833a-13e56afc2eed
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 1.9457799, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040400405, y: 0.0040400405, z: 0.63374037, w: 0.3413811}
+    - objectId: 3c8f534b-2b9c-4e35-8e2b-5eab61bb091f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 1.9457799, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400433, y: 0.0040400433, z: 0.5818181, w: 0.3413811}
+    - objectId: 10e7f32c-73fe-41bf-b204-bb83de63fab6
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 2.7457795, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.68288976, w: 0.3413811}
+    - objectId: 6a860322-3fcd-49ef-8fd7-424653ff1aa1
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.4089997, y: 2.7457795, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400433, y: 0.0040400433, z: 0.6211376, w: 0.3413811}
+    - objectId: 35e84368-db16-4400-bad9-fd1087a6344a
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 2.7457795, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400433, y: 0.0040400433, z: 0.6288254, w: 0.3413811}
+    - objectId: 89958228-f099-4bae-be40-6cceb262a779
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 2.7457795, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.6878047, w: 0.3413811}
+    - objectId: 895b8403-87d4-4e68-918e-747d2c9af266
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 2.7457795, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040503307, y: 0.0040503307, z: 0.99262387, w: -0.00008100662}
+    - objectId: 631411d6-e113-4e7a-aa09-47eaa3a3b8d7
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 2.7457795, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040503424, y: 0.0040503424, z: 0.7121277, w: 0.3413809}
+    - objectId: e95ee34d-ed7b-4809-85f7-dcdad5164586
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 1.9457799, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400433, y: 0.0040400433, z: 0.58673304, w: 0.3413811}
+    - objectId: db4cfa63-2e74-41a0-b17d-f62a0a426820
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 1.9457799, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.6534001, w: 0.3413811}
+    - objectId: 7cfd1990-d46d-4210-89bf-1e39caf4432e
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 1.9457799, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040503307, y: 0.0040503307, z: 0.75377405, w: 0.33878618}
+    - objectId: e8d11a93-8e99-407d-8de9-6579419497ef
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 1.9457799, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040503424, y: 0.0040503424, z: 0.6975715, w: 0.3413809}
+    - objectId: a364075d-cabe-4dee-a53c-4c10d73e76ec
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 1.2457796, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040400433, y: 0.0040400433, z: 0.6063928, w: 0.3413811}
+    - objectId: 6947832f-73a3-47c0-8eec-52aff15e8bee
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 1.2457796, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.6386553, w: 0.3413811}
+    - objectId: 14484b7a-1192-4631-8472-f65a1c12ed53
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 1.2457796, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040503307, y: 0.0040503307, z: 0.71697974, w: 0.3413809}
+    - objectId: 70519860-6507-42f8-8e1c-c71089fc1276
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 1.2457796, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040503424, y: 0.0040503424, z: 0.69271946, w: 0.3413809}
+    - objectId: 12b3d02d-d08a-44df-9514-264f23c98e17
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.004040041, y: 0.004040041, z: 0.66323, w: 0.3413811}
+    - objectId: da8000af-e4e3-4211-a89c-dccd8d36a388
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.3000003, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040400405, y: 0.0040400405, z: 0.65831506, w: 0.3413811}
+    - objectId: aadd30eb-5698-4b25-abd5-5a6322f9f006
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.3000003, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.004040043, y: 0.004040043, z: 0.60147786, w: 0.3413811}
+    - objectId: dec6a2af-44a7-4b99-8ea5-d2a72076b7ea
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -5.4089994, y: 0.00000023841858, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.004040044, y: 0.004040044, z: 0.6162227, w: 0.3413811}
+    - objectId: d14e52df-f795-4a98-9e88-b3680527cd12
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.3000003, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040503424, y: 0.0040503424, z: 0.7024236, w: 0.3413809}
+    - objectId: 8543252f-ac60-45d4-8a4f-a3177db9a46b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.3000003, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040503307, y: 0.0040503307, z: 0.7586261, w: 0.33878618}
+    - objectId: 3a02f442-911b-46ae-b90e-00c92437f659
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.00000023841858, z: 3.8570013}
+      lightmapScaleOffset: {x: 0.0040503307, y: 0.0040503307, z: 0.99262387, w: 0.0057783686}
+    - objectId: d939f5c3-7fd3-4541-b237-59068a59038c
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.408999, y: 0.00000023841858, z: 2.8570013}
+      lightmapScaleOffset: {x: 0.0040503424, y: 0.0040503424, z: 0.7072756, w: 0.3413809}
+    - objectId: 92366198-a94e-4094-973e-cde49fb145e4
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -6.9400005, y: 4.853, z: -0.881999}
+      lightmapScaleOffset: {x: 0.024244023, y: 0.024244023, z: 0.05029637, w: 0.8881985}
+    - objectId: c3772c1c-52ea-4459-b6d0-f0b2213d635b
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.822652, y: 0.3900541, z: -0.12890244}
+      lightmapScaleOffset: {x: 0.0010243449, y: 0.0010243449, z: 0.6261129, w: 0.34144142}
+    - objectId: 53664fb4-b899-4422-a5d3-cebe7b45f437
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -7.9347887, y: 1.1656739, z: 0.8530493}
+      lightmapScaleOffset: {x: 0.01828125, y: 0.01828125, z: 0.19299375, w: 0.5089092}
+    - objectId: 901077ee-4418-4136-8112-b139249cd807
+      lightmapIndex: 0
+      rotation: {x: -0.0033261501, y: 0.014572911, z: -0.00026602234, w: 0.99988824}
+      position: {x: -8.827091, y: 0.3896085, z: -0.09779549}
+      lightmapScaleOffset: {x: 0.0010243447, y: 0.0010243447, z: 0.75383455, w: 0.3447061}
+    - objectId: c3f104a2-cdd1-4679-95c9-af77d08f771a
+      lightmapIndex: 0
+      rotation: {x: -0.0033261501, y: 0.014572911, z: -0.00026602234, w: 0.99988824}
+      position: {x: -7.942419, y: 1.1639344, z: -0.23690605}
+      lightmapScaleOffset: {x: 0.01828125, y: 0.01828125, z: 0.068970315, w: 0.6449062}
+    - objectId: ea18131d-2a3d-416b-88f2-b45549824c8c
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.238451, y: 1.1656739, z: 0.30900097}
+      lightmapScaleOffset: {x: 0.046358205, y: 0.046358205, z: 0.7246588, w: 0.29106504}
+    - objectId: de44c987-2d35-4705-8ecb-c2d9cd8412be
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.58891505, z: -0, w: 0.808195}
+      position: {x: -7.278102, y: 0.38605416, z: -1.5558186}
+      lightmapScaleOffset: {x: 0.0010243449, y: 0.0010243449, z: 0.6261129, w: 0.34431428}
+    - objectId: d3ae5eec-715d-4e18-9aff-00477154298f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.58891505, z: -0, w: 0.808195}
+      position: {x: -7.9431906, y: 1.1616741, z: -0.40905952}
+      lightmapScaleOffset: {x: 0.01828125, y: 0.01828125, z: 0.212525, w: 0.5089092}
+    - objectId: 3d3c33d7-861a-4134-afe6-9c7c337600f4
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7996841, z: -0, w: 0.60042095}
+      position: {x: -7.5887346, y: 0.38605416, z: -0.6830578}
+      lightmapScaleOffset: {x: 0.0010243447, y: 0.0010243447, z: 0.7586866, w: 0.3447061}
+    - objectId: 6ed4b452-8099-4e9c-998d-a68cc3129da1
+      lightmapIndex: 0
+      rotation: {x: -0, y: 0.7996841, z: -0, w: 0.60042095}
+      position: {x: -7.9431906, y: 1.1616741, z: -1.504653}
+      lightmapScaleOffset: {x: 0.01828125, y: 0.01828125, z: 0.050415624, w: 0.9856981}
+    - objectId: 27a7264c-b48e-4766-b282-7337bbd92bfb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -8.246853, y: 1.1616741, z: -0.9555845}
+      lightmapScaleOffset: {x: 0.04691791, y: 0.04691791, z: 0.7246476, w: 0.24417883}
+    - objectId: 5cb0c88e-bb14-4a80-ada2-f89dadf66ef3
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.0008413312, z: -0, w: 0.9999997}
+      position: {x: -1.892, y: -0.0008702278, z: -1.1229992}
+      lightmapScaleOffset: {x: 0.015635505, y: 0.015635505, z: 0.19270694, w: 0.6230612}
+    - objectId: 26b10db5-68ce-461b-90b1-8cc2f7256a21
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 2.451947, y: 3.658784, z: 1.0331945}
+      lightmapScaleOffset: {x: 0.027291827, y: 0.027291827, z: 0.96028626, w: 0.05969122}
+    - objectId: af469a9b-917a-4c3b-a83d-9e0b19a3e360
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 1.1628625, y: 2.511901, z: 1.0312471}
+      lightmapScaleOffset: {x: 0.027270582, y: 0.027270582, z: 0.96028674, w: 0.03168115}
+    - objectId: 5beb94de-4b7e-4406-a3ce-9ddfdbca783f
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -0.3584764, y: 3.595388, z: 1.0241327}
+      lightmapScaleOffset: {x: 0.025690347, y: 0.025690347, z: 0.9608321, w: 0.19268945}
+    - objectId: f2bb5926-6542-44da-8122-94d78843e976
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 1.7419713, y: 3.595387, z: 1.0331945}
+      lightmapScaleOffset: {x: 0.027291618, y: 0.027291618, z: 0.96028626, w: 0.15180622}
+    - objectId: b38b04c4-72ba-4178-a07f-4bc36c2567f0
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 1.0319955, y: 3.595387, z: 1.0331945}
+      lightmapScaleOffset: {x: 0.02729162, y: 0.02729162, z: 0.96028626, w: 0.12380256}
+    - objectId: 71d97c04-1aeb-42b7-992a-7e49af329db2
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: 0.32201982, y: 3.595387, z: 1.0331945}
+      lightmapScaleOffset: {x: 0.027291622, y: 0.027291622, z: 0.96028626, w: 0.095798895}
+    - objectId: fb1eadab-c62c-4285-a18a-c8d24fdc0fe2
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      position: {x: -2.9517343, y: 0, z: 1.0312471}
+      lightmapScaleOffset: {x: 0.25277486, y: 0.25277486, z: 0.5271711, w: -0.005055498}
+    - objectId: 3c8de88f-4179-4305-b244-096fd9cd51f4
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+      position: {x: -0.9900005, y: 2.2080002, z: -1.8689995}
+      lightmapScaleOffset: {x: 0.017265625, y: 0.017265625, z: 0.81888527, w: 0.33361074}
+    - objectId: ba9872e7-7dc3-472f-ae91-1ea469c9bee7
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071064, z: -0, w: 0.7071072}
+      position: {x: -1.6900003, y: 3.051, z: -1.8679991}
+      lightmapScaleOffset: {x: 0.0030448223, y: 0.0030448223, z: 0.9890915, w: 0.1177407}
+    - objectId: d9d686c8-5730-4faa-8cea-3984d201a978
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
+      position: {x: -0.9900005, y: 3.1350002, z: -1.8689995}
+      lightmapScaleOffset: {x: 0.017265625, y: 0.017265625, z: 0.83743995, w: 0.33361074}
+    - objectId: 9831b360-82ca-4471-abad-4e22c62ada67
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071064, z: -0, w: 0.7071072}
+      position: {x: -0.2928002, y: 3.051, z: -1.8679991}
+      lightmapScaleOffset: {x: 0.0030448223, y: 0.0030448223, z: 0.98030245, w: 0.08818019}
+    - objectId: 92463568-289a-4e22-a6e0-1fcb60f409cb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071065, z: -0, w: 0.7071071}
+      position: {x: -1.6922004, y: 3.021, z: -1.8839998}
+      lightmapScaleOffset: {x: 0.0040281056, y: 0.0040281056, z: 0.5467944, w: 0.34138134}
+    - objectId: 821f9be4-3cf1-4e34-bb08-cef68f0187fb
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071064, z: -0, w: 0.7071072}
+      position: {x: -1.6900003, y: 2.124, z: -1.8679991}
+      lightmapScaleOffset: {x: 0.0030448223, y: 0.0030448223, z: 0.9705368, w: 0.08818019}
+    - objectId: c11e9fb0-5256-4dfd-81df-490211e8884c
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071065, z: -0, w: 0.7071071}
+      position: {x: -1.6922004, y: 1.969, z: -1.8839998}
+      lightmapScaleOffset: {x: 0.0040281056, y: 0.0040281056, z: 0.558447, w: 0.34138134}
+    - objectId: d83b173f-f7ec-440c-8242-e98241e49c91
+      lightmapIndex: 0
+      rotation: {x: -0, y: -0.7071065, z: -0, w: 0.7071071}
+      position: {x: -0.2950003, y: 3.021, z: -1.8839998}
+      lightmapScaleOffset: {x: 0.0040281056, y: 0.0040281056, z: 0.5642733, w: 0.34138134}
+    terrainDatas:
+    - objectId: d4acaff6-b290-46b0-8c3d-0f1dcd7fa5c4
+      lightmapIndex: 0
+      lightmapOffsetScale: {x: 0.25, y: 0.25, z: 0.2421875, w: 0.348548}
+    lightSourceDatas:
+    - name: s
+      instanceID: 46266
+      lightUID: 80e548b3-d9fe-4f0a-9051-59766b220ebb
+      position: {x: 1.0520449, y: 1.8866837, z: 3.2527623}
+      rotation: {x: -0.7949558, y: -0.53930366, z: 0.24279453, w: 0.13508448}
+      intensity: 0
+      color: {r: 0.96765494, g: 0.83771795, b: 0.546425, a: 1}
+      temperature: 6570
+      range: 2.11
+      spotAngle: 30
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: s
+      instanceID: 46298
+      lightUID: e7f5db8e-a345-493c-a128-fa9bd007f159
+      position: {x: -7.743163, y: 1.887542, z: 1.1514226}
+      rotation: {x: -0.6981996, y: -0.4510181, z: -0.45102215, w: -0.32508314}
+      intensity: 0
+      color: {r: 0.96765494, g: 0.83771795, b: 0.546425, a: 1}
+      temperature: 6570
+      range: 2.11
+      spotAngle: 30
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: s
+      instanceID: 46370
+      lightUID: 99793dba-4b38-4b81-9304-695094a934e6
+      position: {x: -7.4220867, y: 1.8894823, z: 1.9276596}
+      rotation: {x: -0.6981996, y: -0.4510181, z: -0.45102215, w: -0.32508314}
+      intensity: 0
+      color: {r: 0.96765494, g: 0.83771795, b: 0.546425, a: 1}
+      temperature: 6570
+      range: 2.11
+      spotAngle: 30
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Spot Light (2)
+      instanceID: 46442
+      lightUID: d3138824-3e27-4934-b104-c7f3876e9355
+      position: {x: -7.830908, y: 1.89202, z: 1.1877166}
+      rotation: {x: -0.6981996, y: -0.4510181, z: -0.45102215, w: -0.32508314}
+      intensity: 0
+      color: {r: 1, g: 0.8721759, b: 0.5862533, a: 1}
+      temperature: 6570
+      range: 8.35
+      spotAngle: 128.27255
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Point Light
+      instanceID: 46684
+      lightUID: 888435ed-f505-4bf8-8315-31642dd67c73
+      position: {x: -9.42, y: 4.4347486, z: 1.074}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      intensity: 0
+      color: {r: 1, g: 1, b: 1, a: 1}
+      temperature: 6570
+      range: 3.2
+      spotAngle: 30
+      shadowType: 0
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Directional Light
+      instanceID: 46730
+      lightUID: 89eb88e8-4e5f-4866-9b4d-3edab496d668
+      position: {x: 0.37548542, y: 6.769141, z: 0.8600899}
+      rotation: {x: 0.47920722, y: -0.28132564, z: 0.1856935, w: 0.8103915}
+      intensity: 0.05
+      color: {r: 0.72506726, g: 0.72506726, b: 0.72506726, a: 1}
+      temperature: 9188
+      range: 10
+      spotAngle: 30
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Spot Light (1)
+      instanceID: 47334
+      lightUID: b3aaddf6-f7e7-4e11-9653-ff68a33d2ab8
+      position: {x: -7.5098314, y: 1.8939602, z: 1.9639536}
+      rotation: {x: -0.6981996, y: -0.4510181, z: -0.45102215, w: -0.32508314}
+      intensity: 0
+      color: {r: 1, g: 0.8721759, b: 0.5862533, a: 1}
+      temperature: 6570
+      range: 8.35
+      spotAngle: 128.27255
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Spot Light
+      instanceID: 47584
+      lightUID: 18a8663a-185d-4bf3-bf8a-26958a4fc8e9
+      position: {x: -9.42, y: 4.4347486, z: 1.0740014}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      intensity: 0
+      color: {r: 1, g: 1, b: 1, a: 1}
+      temperature: 6570
+      range: 9.7
+      spotAngle: 139.62672
+      shadowType: 0
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Spot Light (2)
+      instanceID: 47636
+      lightUID: 1bdf6fce-5fcf-4aae-b4cf-a12d5a803ba9
+      position: {x: 1.1025915, y: 1.8911612, z: 3.3331456}
+      rotation: {x: -0.7949558, y: -0.53930366, z: 0.24279453, w: 0.13508448}
+      intensity: 0
+      color: {r: 1, g: 0.8721759, b: 0.5862533, a: 1}
+      temperature: 6570
+      range: 8.35
+      spotAngle: 128.27255
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: s
+      instanceID: 47732
+      lightUID: 5253be0a-eea9-4344-8098-4e07adc3ebcb
+      position: {x: 1.7631607, y: 1.8886235, z: 2.805606}
+      rotation: {x: -0.7949558, y: -0.53930366, z: 0.24279453, w: 0.13508448}
+      intensity: 0
+      color: {r: 0.96765494, g: 0.83771795, b: 0.546425, a: 1}
+      temperature: 6570
+      range: 2.11
+      spotAngle: 30
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    - name: Spot Light (1)
+      instanceID: 48076
+      lightUID: 25e70999-8679-47a2-90d2-c332d4b52c7e
+      position: {x: 1.8137064, y: 1.8931015, z: 2.8859892}
+      rotation: {x: -0.7949558, y: -0.53930366, z: 0.24279453, w: 0.13508448}
+      intensity: 0
+      color: {r: 1, g: 0.8721759, b: 0.5862533, a: 1}
+      temperature: 6570
+      range: 8.35
+      spotAngle: 128.27255
+      shadowType: 2
+      shadowStrength: 1
+      areaSize: {x: 1, y: 1}
+      enableTime: 0
+      disableTime: 0
+    customBlendableDatas: []
+    lightmapsLight:
+    - {fileID: 2800000, guid: 4f44039d155fb3f42a8a61b494fe5ff3, type: 3}
+    lightmapsDirectional:
+    - {fileID: 2800000, guid: 4b8f53762163bcc469aa26caad8eea67, type: 3}
+    lightmapsShadowmask:
+    - {fileID: 0}
+    skyboxSettings:
+      enabled: 0
+      tintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+      skyboxTexture: {fileID: 8900000, guid: 354036e57ae357148aed267204ce73a7, type: 3}
+      exposure: 0.95
+    reflectionProbes:
+      name:
+      - MLS_Reflection Probe::0
+      cubeReflectionTexture:
+      - {fileID: 8900000, guid: 260eebd778762e54ba6c8193fb4397a1, type: 3}
+    skyboxReflectionTexture:
+    - {fileID: 8900000, guid: 6cf6256ea012b7d4cbd5701d8ca18231, type: 3}
+    lightProbes:
+    - coefficients:
+      - 0.013288635
+      - 0.006070223
+      - 0.0016507792
+      - 0.000056722536
+      - -0.00016506293
+      - 0.0004939608
+      - 0.00056550204
+      - 0.00030266456
+      - 0.0004382771
+      - 0.017634628
+      - 0.008092945
+      - 0.0016927593
+      - 0.0001814212
+      - -0.00020243606
+      - 0.00049409556
+      - 0.00064724026
+      - 0.00040911458
+      - 0.000569931
+      - 0.023717346
+      - 0.012348326
+      - 0.0019717983
+      - 0.00017614721
+      - -0.00019005292
+      - 0.000567756
+      - 0.0007857481
+      - 0.00051196205
+      - 0.00081617216
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012757675
+      - 0.005797377
+      - 0.0011474988
+      - -0.0004106709
+      - -0.00014013148
+      - 0.00029533484
+      - 0.0006110237
+      - 0.0002885911
+      - 0.00032381457
+      - 0.017052667
+      - 0.007837515
+      - 0.0011724097
+      - -0.0005903243
+      - -0.0002203672
+      - 0.00030633344
+      - 0.0007145655
+      - 0.00043434763
+      - 0.00040234643
+      - 0.022989891
+      - 0.0121068405
+      - 0.0013665489
+      - -0.0010014974
+      - -0.00027901735
+      - 0.0003606515
+      - 0.0008654786
+      - 0.0006214283
+      - 0.0005829507
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009151625
+      - 0.004198205
+      - 0.0004906491
+      - 0.0009943271
+      - 0.00014001555
+      - 0.00021328725
+      - 0.00023062297
+      - 0.00006357689
+      - -0.00005527423
+      - 0.012067563
+      - 0.0054708677
+      - 0.00030538338
+      - 0.0014971992
+      - 0.00023929912
+      - 0.00017790077
+      - 0.0002576589
+      - 0.00012483251
+      - -0.00009877925
+      - 0.01552656
+      - 0.008461689
+      - 0.00011636633
+      - 0.0021897154
+      - 0.00039918115
+      - 0.00017811179
+      - 0.00029914582
+      - 0.000221161
+      - -0.00017105087
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0100016985
+      - 0.004490398
+      - 0.0010056585
+      - 0.0008013787
+      - 0.000008036741
+      - 0.00033732408
+      - 0.00027647463
+      - 0.00009356282
+      - -0.000011306628
+      - 0.013197507
+      - 0.005819121
+      - 0.00093645824
+      - 0.0013003047
+      - 0.000081936545
+      - 0.00033778368
+      - 0.0003128032
+      - 0.00015587713
+      - -0.000040070077
+      - 0.01695101
+      - 0.009026996
+      - 0.0009743959
+      - 0.0019674357
+      - 0.00022331407
+      - 0.00037320872
+      - 0.00037124223
+      - 0.0002602699
+      - -0.00008982592
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0030763685
+      - 0.00011846167
+      - -0.000652847
+      - 0.0022118208
+      - 0.00013361327
+      - -0.00002593449
+      - -0.000035799072
+      - -0.00024363202
+      - 0.00018733487
+      - 0.004034014
+      - 0.00011994813
+      - -0.00085474184
+      - 0.0029498306
+      - 0.00020216708
+      - -0.000023989169
+      - -0.000045034834
+      - -0.0003298023
+      - 0.00026055318
+      - 0.005622474
+      - 0.0002040853
+      - -0.0011576393
+      - 0.0040409635
+      - 0.00032018987
+      - -0.00003700502
+      - -0.00006126036
+      - -0.00044400035
+      - 0.00035680374
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0037258815
+      - 0.000098701465
+      - 0.0006670972
+      - 0.0027218785
+      - 0.00017354233
+      - 0.0000026879272
+      - -0.000047086658
+      - 0.0002269297
+      - 0.00023634416
+      - 0.004872595
+      - 0.000069265174
+      - 0.00081832084
+      - 0.0036285778
+      - 0.00024638764
+      - 0.0000009083916
+      - -0.000059343358
+      - 0.0002856138
+      - 0.00032379344
+      - 0.0066950866
+      - 0.00014361339
+      - 0.0010335265
+      - 0.0049479627
+      - 0.00037599594
+      - -0.0000025989575
+      - -0.000077904995
+      - 0.00037004543
+      - 0.0004375951
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0023848005
+      - 0.0004192446
+      - -0.0008309916
+      - 0.001434984
+      - 0.00033755545
+      - -0.00017812575
+      - 0.000017221719
+      - -0.00051366084
+      - 0.000114912335
+      - 0.0033858703
+      - 0.00062951865
+      - -0.001129844
+      - 0.002031219
+      - 0.00052694906
+      - -0.00024973028
+      - 0.000018286437
+      - -0.0007113924
+      - 0.00015908467
+      - 0.005039736
+      - 0.0009968316
+      - -0.0015894483
+      - 0.002989283
+      - 0.00083003007
+      - -0.00035818433
+      - 0.00001526922
+      - -0.0010109635
+      - 0.00021940272
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0030757012
+      - 0.00048033145
+      - 0.0008729339
+      - 0.002092723
+      - 0.0004680173
+      - 0.0001440875
+      - -0.000060417588
+      - 0.00034435556
+      - 0.00018265998
+      - 0.004208903
+      - 0.0006287432
+      - 0.0010234339
+      - 0.0028303473
+      - 0.00066151907
+      - 0.00016058508
+      - -0.00007837993
+      - 0.0004038282
+      - 0.0002480065
+      - 0.0061143544
+      - 0.0009174549
+      - 0.0012435452
+      - 0.003991508
+      - 0.0009669866
+      - 0.00018886352
+      - -0.00010611592
+      - 0.0005120976
+      - 0.00033384198
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0001878466
+      - -0.0000255083
+      - -0.000045794302
+      - 0.00015570091
+      - -0.00012366143
+      - 0.00003696281
+      - -0.000025782732
+      - -0.0000007073343
+      - 0.000040619263
+      - 0.00024291527
+      - -0.00003137347
+      - -0.00005926391
+      - 0.00020946392
+      - -0.00016075393
+      - 0.000047939102
+      - -0.0000329988
+      - -0.000007617031
+      - 0.000049857455
+      - 0.00033743796
+      - -0.000047912537
+      - -0.00009178864
+      - 0.00029100187
+      - -0.00022970124
+      - 0.00007079042
+      - -0.000044257384
+      - -0.000016879838
+      - 0.00006338187
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00022332033
+      - -0.0000253579
+      - 0.000038575654
+      - 0.00014144111
+      - -0.00015345642
+      - 0.000002428659
+      - -0.000009352959
+      - -0.0000050172057
+      - 0.000052635452
+      - 0.00029602635
+      - -0.00003605534
+      - 0.000052376938
+      - 0.00019042933
+      - -0.00020358476
+      - -0.0000028365298
+      - -0.000009738586
+      - 0.0000047576423
+      - 0.00006265198
+      - 0.0004083898
+      - -0.00005264959
+      - 0.000086681
+      - 0.00026134992
+      - -0.00027397607
+      - -0.000020505026
+      - -0.000005192742
+      - 0.000039733757
+      - 0.00007489154
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00051538635
+      - 0.0000575895
+      - -0.00010496612
+      - 0.00044321548
+      - 0.000054869575
+      - -0.0000026457355
+      - -0.00001757011
+      - -0.000036251276
+      - 0.000051525974
+      - 0.0007010057
+      - 0.000080244645
+      - -0.00013683314
+      - 0.00059943093
+      - 0.000077514145
+      - -0.000004161347
+      - -0.000024101244
+      - -0.000047823974
+      - 0.00006976822
+      - 0.0010155471
+      - 0.00011881732
+      - -0.00019127804
+      - 0.0008629755
+      - 0.000115870826
+      - -0.000008142649
+      - -0.000034661945
+      - -0.00007008253
+      - 0.000100644174
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00073571975
+      - 0.000055782115
+      - 0.00003237687
+      - 0.0005866004
+      - 0.00007033749
+      - 0.000006427111
+      - -0.000024638111
+      - 0.000018852465
+      - 0.00006614597
+      - 0.0009705374
+      - 0.0000762711
+      - 0.00004838967
+      - 0.00078580255
+      - 0.0000918051
+      - 0.000009002864
+      - -0.000032481683
+      - 0.000025014688
+      - 0.00008853837
+      - 0.0013727433
+      - 0.00011660614
+      - 0.000071063165
+      - 0.0011165548
+      - 0.00013089954
+      - 0.00001271924
+      - -0.00004547836
+      - 0.000032773398
+      - 0.00012515178
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00014393407
+      - 0.000001039983
+      - -0.000033328954
+      - 0.00012967759
+      - -0.000008236867
+      - 0.000027676595
+      - -0.000023354707
+      - -0.000013383224
+      - 0.000035857505
+      - 0.00019500703
+      - 0.0000000743408
+      - -0.000051272076
+      - 0.00017766745
+      - -0.000016557547
+      - 0.000033347304
+      - -0.000030865845
+      - -0.0000214883
+      - 0.00004546977
+      - 0.00027823457
+      - 0.000000036583344
+      - -0.00008268685
+      - 0.00024719964
+      - -0.000037202728
+      - 0.000034834266
+      - -0.00004051986
+      - -0.000026340485
+      - 0.000053315896
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00016385803
+      - -0.0000118746775
+      - 0.00007255037
+      - 0.0001555499
+      - -0.000039150105
+      - -0.000009095743
+      - -0.000015958954
+      - 0.000039763894
+      - 0.000044755237
+      - 0.00021526887
+      - -0.000023969531
+      - 0.00010020145
+      - 0.00020679997
+      - -0.000060221824
+      - -0.000013779511
+      - -0.000019742407
+      - 0.000059560134
+      - 0.000057804256
+      - 0.00030385825
+      - -0.0000402577
+      - 0.00014654004
+      - 0.0002868377
+      - -0.00009958196
+      - -0.000008613504
+      - -0.000027273592
+      - 0.000083342005
+      - 0.000072298666
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0004152993
+      - 0.00006916285
+      - -0.00010396402
+      - 0.00051435287
+      - 0.0002537878
+      - -0.000060031278
+      - -0.00009162493
+      - -0.00013541365
+      - 0.0002405018
+      - 0.00054264977
+      - 0.00009232634
+      - -0.00013342795
+      - 0.00067647576
+      - 0.00032912404
+      - -0.00007266354
+      - -0.00011961461
+      - -0.00016903844
+      - 0.0003169281
+      - 0.00074286904
+      - 0.0001312949
+      - -0.00017881123
+      - 0.00092750986
+      - 0.00044741278
+      - -0.00009697598
+      - -0.00016238428
+      - -0.00021946068
+      - 0.0004330624
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00013238098
+      - -0.000009152007
+      - 0.000045867397
+      - 0.00012108306
+      - 0.000060059483
+      - -0.000017889446
+      - -0.000022340235
+      - 0.00003369771
+      - 0.0000461887
+      - 0.00018448873
+      - -0.000010608971
+      - 0.000059159847
+      - 0.00017802305
+      - 0.00008286507
+      - -0.000022288288
+      - -0.00003184482
+      - 0.00004581051
+      - 0.0000665624
+      - 0.00027224098
+      - -0.000013673147
+      - 0.000075441996
+      - 0.00027402877
+      - 0.00011666442
+      - -0.000030595096
+      - -0.000047448124
+      - 0.000053298325
+      - 0.000101187696
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0019548493
+      - -0.00006525874
+      - -0.00025972904
+      - 0.0015229421
+      - 0.000043511784
+      - -0.000035037247
+      - -0.000036621055
+      - -0.00013491444
+      - 0.00015729156
+      - 0.0025451155
+      - -0.00012746493
+      - -0.00031334028
+      - 0.0019659013
+      - 0.000051895844
+      - -0.000039749226
+      - -0.00004402423
+      - -0.00016906927
+      - 0.00020398932
+      - 0.0035560569
+      - -0.00019929773
+      - -0.0004010105
+      - 0.0026938813
+      - 0.00007562009
+      - -0.000057709563
+      - -0.000053685922
+      - -0.00021958887
+      - 0.00027516705
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0016617486
+      - -0.0001658975
+      - 0.00015329184
+      - 0.0012050224
+      - -0.0000026988155
+      - -0.0000036762663
+      - -0.000023923662
+      - 0.00012400749
+      - 0.00010933284
+      - 0.002170871
+      - -0.00025749143
+      - 0.00021909211
+      - 0.0015934508
+      - -0.0000056776926
+      - -0.000006689821
+      - -0.000032046213
+      - 0.0001632071
+      - 0.00014870251
+      - 0.003011844
+      - -0.00036366563
+      - 0.00029768894
+      - 0.0021898136
+      - 0.0000011666931
+      - -0.000009418059
+      - -0.00004381714
+      - 0.00021336254
+      - 0.00020194594
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0017229456
+      - 0.00029651393
+      - -0.00034273765
+      - 0.0011753595
+      - 0.00020994617
+      - -0.000065379325
+      - -0.000019649418
+      - -0.00016232705
+      - 0.00010840708
+      - 0.0023928646
+      - 0.00039676932
+      - -0.00046673117
+      - 0.0016400163
+      - 0.0002960592
+      - -0.000085397645
+      - -0.000027588054
+      - -0.00021708074
+      - 0.00014742286
+      - 0.0035649634
+      - 0.0005898462
+      - -0.0006830908
+      - 0.0024170731
+      - 0.00044586486
+      - -0.0001225664
+      - -0.000041354706
+      - -0.00031073985
+      - 0.00020705479
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0022430897
+      - 0.00044446552
+      - 0.00040317656
+      - 0.0017135652
+      - 0.00025398817
+      - 0.0000825102
+      - -0.000045689354
+      - 0.00020846433
+      - 0.0001595678
+      - 0.0030298894
+      - 0.00059744506
+      - 0.0005226435
+      - 0.0023186128
+      - 0.00035620044
+      - 0.00010679699
+      - -0.00006316545
+      - 0.00026691254
+      - 0.00021580017
+      - 0.004322375
+      - 0.0008482633
+      - 0.0007265193
+      - 0.003274224
+      - 0.00051993853
+      - 0.00014692135
+      - -0.0000923444
+      - 0.00035983673
+      - 0.00029675907
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0007354716
+      - -0.00010546115
+      - -0.00009291922
+      - 0.0006223441
+      - -0.00002878676
+      - 0.0000047502217
+      - -0.00002004216
+      - -0.000014315912
+      - 0.000063252235
+      - 0.0009731796
+      - -0.00015703947
+      - -0.00013401844
+      - 0.0008119038
+      - -0.000041936284
+      - 0.000008734778
+      - -0.000024775884
+      - -0.00001958098
+      - 0.00008128044
+      - 0.0013224806
+      - -0.00021873545
+      - -0.00019528276
+      - 0.0010781706
+      - -0.000057046396
+      - 0.000014117443
+      - -0.00003110352
+      - -0.000024888668
+      - 0.000106837
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0010042427
+      - -0.00008259556
+      - 0.000093880764
+      - 0.00083752495
+      - 0.00000920441
+      - -0.000002335695
+      - -0.000031331274
+      - 0.000057779544
+      - 0.00009581273
+      - 0.001310622
+      - -0.0001128007
+      - 0.00012752326
+      - 0.0010915273
+      - 0.000009960279
+      - -0.0000052140645
+      - -0.000039760027
+      - 0.00007741886
+      - 0.00012480345
+      - 0.0018031598
+      - -0.00015667162
+      - 0.00017642076
+      - 0.0014872834
+      - 0.000012529359
+      - -0.0000096292515
+      - -0.000053152897
+      - 0.00010954238
+      - 0.00016910568
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0010139365
+      - 0.00014219992
+      - -0.00016009223
+      - 0.00072547933
+      - 0.00011472148
+      - -0.000018436056
+      - -0.000026942987
+      - -0.000059205868
+      - 0.000071408336
+      - 0.0013650999
+      - 0.00018401668
+      - -0.00021062724
+      - 0.00097449427
+      - 0.00015464255
+      - -0.000023088485
+      - -0.000035850095
+      - -0.000078249956
+      - 0.000096598305
+      - 0.001957553
+      - 0.00026933814
+      - -0.00030749993
+      - 0.0013943093
+      - 0.00022454289
+      - -0.000034840177
+      - -0.000051130864
+      - -0.000115841875
+      - 0.00013811482
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00096378627
+      - 0.00013775741
+      - 0.00008723367
+      - 0.00063405005
+      - 0.00009120637
+      - 0.000011853842
+      - -0.000020681486
+      - 0.000052685762
+      - 0.000059407048
+      - 0.0013329902
+      - 0.00018614072
+      - 0.00011926463
+      - 0.0008814506
+      - 0.00012567324
+      - 0.000014674838
+      - -0.000027732734
+      - 0.00006978543
+      - 0.000082432205
+      - 0.0019145731
+      - 0.00027748864
+      - 0.00017708963
+      - 0.0012729508
+      - 0.0001823799
+      - 0.000019062074
+      - -0.00003962859
+      - 0.00009943135
+      - 0.00011752607
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0005432675
+      - 0.000033698736
+      - 0.00020011837
+      - 0.00067183655
+      - -0.000029553381
+      - -0.000030203335
+      - -0.00008454392
+      - 0.00019615024
+      - 0.00028783453
+      - 0.00070354616
+      - 0.000040728253
+      - 0.00025984566
+      - 0.0008655815
+      - -0.000031464264
+      - -0.000033264212
+      - -0.00010712817
+      - 0.00025660978
+      - 0.0003782156
+      - 0.0009544661
+      - 0.000040746836
+      - 0.00034402622
+      - 0.0011575861
+      - -0.000031418094
+      - -0.000024051396
+      - -0.00013692708
+      - 0.0003547746
+      - 0.00051142415
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0002753158
+      - -0.000024455898
+      - -0.00011542659
+      - 0.00035718086
+      - -0.000078486344
+      - 0.000019450734
+      - -0.000050255912
+      - -0.00013586236
+      - 0.00012235966
+      - 0.00035131135
+      - -0.00002705178
+      - -0.00015202652
+      - 0.00044087262
+      - -0.000114702496
+      - 0.000022292488
+      - -0.000062983265
+      - -0.00017994911
+      - 0.0001442973
+      - 0.00048160533
+      - -0.00003708715
+      - -0.00021034724
+      - 0.0005969339
+      - -0.00016810611
+      - 0.000030006564
+      - -0.00008671397
+      - -0.0002531844
+      - 0.000187879
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00017555787
+      - -0.000053753283
+      - -0.000024536042
+      - 0.000095268784
+      - -0.00000011225518
+      - -0.000012076052
+      - -0.000030592815
+      - -0.000037970225
+      - 0.00007021218
+      - 0.00021994837
+      - -0.000067484696
+      - -0.0000334354
+      - 0.00010112029
+      - 0.0000041750436
+      - -0.000011831852
+      - -0.000036637026
+      - -0.00005001546
+      - 0.00008239537
+      - 0.00028567095
+      - -0.0000922942
+      - -0.000047023066
+      - 0.00010985571
+      - 0.000009017817
+      - -0.000011848637
+      - -0.000047911682
+      - -0.0000655513
+      - 0.00010061118
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00025310487
+      - -0.00000217227
+      - 0.000085538704
+      - 0.00030224293
+      - 0.000066001514
+      - -0.000029605482
+      - -0.00005114629
+      - 0.000048258225
+      - 0.00014880906
+      - 0.00032846912
+      - 0.000007321961
+      - 0.00012362044
+      - 0.00039911762
+      - 0.00008518658
+      - -0.000038711136
+      - -0.000065673565
+      - 0.00005804862
+      - 0.00019323983
+      - 0.0004561625
+      - 0.000010318929
+      - 0.0001769236
+      - 0.00055957166
+      - 0.0001219097
+      - -0.00005623982
+      - -0.00008901638
+      - 0.00007846564
+      - 0.0002670001
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0003351637
+      - 0.00007730894
+      - 0.000014793981
+      - 0.00048042394
+      - 0.00019643366
+      - 0.000019403391
+      - -0.00008877273
+      - -0.00001825235
+      - 0.00020703918
+      - 0.00046511294
+      - 0.00011269962
+      - 0.000017851042
+      - 0.0006875281
+      - 0.00028059114
+      - 0.000017829454
+      - -0.000124792
+      - -0.00002152188
+      - 0.0002921397
+      - 0.0006797241
+      - 0.00017232205
+      - 0.000022397939
+      - 0.0010255043
+      - 0.0004208725
+      - 0.000020438614
+      - -0.00018366116
+      - -0.00002738989
+      - 0.00043134383
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00041987904
+      - 0.000015249458
+      - 0.00010900599
+      - 0.0005533544
+      - -0.000028052596
+      - -0.000027275391
+      - -0.00003276507
+      - 0.00022414944
+      - 0.00021177877
+      - 0.0005443572
+      - 0.000013300956
+      - 0.00015988953
+      - 0.00074153044
+      - -0.000030134937
+      - -0.000037610353
+      - -0.000043192158
+      - 0.00028841672
+      - 0.00027408169
+      - 0.00074102427
+      - 0.000024328443
+      - 0.00020459993
+      - 0.0010046742
+      - -0.000034429573
+      - -0.000071586655
+      - -0.000056511322
+      - 0.00036451526
+      - 0.00036269196
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00034514486
+      - -0.000028982604
+      - 0.000016622142
+      - 0.00039475193
+      - -0.00005559113
+      - -0.000027508946
+      - -0.00005522128
+      - 0.000099820165
+      - 0.00017890932
+      - 0.0004629536
+      - -0.00004544176
+      - 0.000023548371
+      - 0.00051294995
+      - -0.00007477237
+      - -0.000033951215
+      - -0.00007015648
+      - 0.00012456138
+      - 0.00023686065
+      - 0.00064856437
+      - -0.00007326077
+      - 0.000037789945
+      - 0.00068572187
+      - -0.000099498066
+      - -0.000046376932
+      - -0.00009410506
+      - 0.00014267741
+      - 0.00032780273
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00018530064
+      - -0.00002985142
+      - -0.00000081516794
+      - 0.00019193598
+      - -0.00004363976
+      - -0.00003245908
+      - -0.000033418502
+      - 0.000024687466
+      - 0.00004028691
+      - 0.0002404622
+      - -0.000039625786
+      - 0.000001815739
+      - 0.00024312409
+      - -0.000055102235
+      - -0.000043190525
+      - -0.00004262411
+      - 0.00002826401
+      - 0.000050213723
+      - 0.00031625066
+      - -0.00005021444
+      - 0.0000071586383
+      - 0.00030275006
+      - -0.0000650097
+      - -0.00006244653
+      - -0.00005511532
+      - 0.000037927664
+      - 0.000060020295
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00023734446
+      - -0.0001186879
+      - 0.000019578782
+      - 0.00019591127
+      - -0.00017374757
+      - -0.000021971277
+      - -0.00003515822
+      - 0.00005290721
+      - 0.000056117788
+      - 0.00031042474
+      - -0.00015584099
+      - 0.0000365283
+      - 0.00025639846
+      - -0.00023281458
+      - -0.000034864534
+      - -0.00004542308
+      - 0.00007119609
+      - 0.00006769536
+      - 0.00042331146
+      - -0.00022053381
+      - 0.00005623208
+      - 0.0003302985
+      - -0.0003166983
+      - -0.000046866942
+      - -0.00006499963
+      - 0.00009036677
+      - 0.00008227291
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00067712076
+      - -0.000037869984
+      - 0.0001004041
+      - 0.0005869002
+      - -0.00001033504
+      - 0.000000773143
+      - -0.00002043877
+      - 0.000076131706
+      - 0.00007235373
+      - 0.00089469156
+      - -0.000051586667
+      - 0.00014187704
+      - 0.00078426924
+      - -0.000015165185
+      - 0.000000056612304
+      - -0.000026411944
+      - 0.00010249031
+      - 0.000094200586
+      - 0.0012237432
+      - -0.00007692298
+      - 0.00020684022
+      - 0.0010682519
+      - -0.000023073413
+      - -0.0000010855083
+      - -0.000034968078
+      - 0.00014157426
+      - 0.00012559789
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008233482
+      - 0.0028357918
+      - 0.0010170839
+      - 0.003470585
+      - 0.0019897001
+      - 0.000780224
+      - 0.0005983357
+      - 0.000088817455
+      - 0.00006201718
+      - 0.010597903
+      - 0.003998986
+      - 0.0009027732
+      - 0.004884814
+      - 0.0028591393
+      - 0.00082179304
+      - 0.0006794964
+      - 0.00013583335
+      - 0.00008993501
+      - 0.014285036
+      - 0.006131825
+      - 0.0009629745
+      - 0.006931647
+      - 0.0043018903
+      - 0.0010179492
+      - 0.00077731727
+      - 0.00020776599
+      - 0.00011657275
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008249653
+      - 0.0025941986
+      - -0.0003054212
+      - 0.0036800508
+      - 0.002250851
+      - -0.00025946298
+      - 0.0005103071
+      - 0.00021431233
+      - 0.00007133096
+      - 0.010689779
+      - 0.0036652049
+      - -0.00053460215
+      - 0.00500996
+      - 0.0030928412
+      - -0.000364862
+      - 0.00059153495
+      - 0.00025347242
+      - 0.00007999387
+      - 0.014576375
+      - 0.0056786826
+      - -0.0007010322
+      - 0.0069755926
+      - 0.00454177
+      - -0.00043658496
+      - 0.00069559354
+      - 0.00032633016
+      - 0.00007790782
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0095212
+      - 0.0031275894
+      - 0.00025124158
+      - 0.004951188
+      - 0.0013726661
+      - 0.0003393044
+      - 0.0005341403
+      - -0.00035663493
+      - 0.00017105104
+      - 0.012447219
+      - 0.0042661834
+      - 0.000060596474
+      - 0.006834797
+      - 0.0019990888
+      - 0.00035020482
+      - 0.00064001256
+      - -0.00046031876
+      - 0.0002350454
+      - 0.01673582
+      - 0.006432563
+      - -0.00020883372
+      - 0.0094588855
+      - 0.0030842584
+      - 0.00048490806
+      - 0.0007580855
+      - -0.00063269644
+      - 0.0003060691
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0097264815
+      - 0.0029788234
+      - 0.0005074343
+      - 0.0054992586
+      - 0.0014936955
+      - 0.000009444615
+      - 0.0006076506
+      - 0.00026620866
+      - 0.00026810303
+      - 0.012831698
+      - 0.0041686227
+      - 0.00027111315
+      - 0.0075530307
+      - 0.002150845
+      - -0.000043688397
+      - 0.0007348599
+      - 0.00030033485
+      - 0.00036272898
+      - 0.017452834
+      - 0.0063385665
+      - 0.00010134672
+      - 0.010380232
+      - 0.0032599333
+      - -0.00010682931
+      - 0.00090156734
+      - 0.00036990945
+      - 0.0004583104
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008186458
+      - 0.0035645552
+      - 0.0016008876
+      - 0.00009527778
+      - -0.00005173434
+      - 0.00040123804
+      - 0.0002683088
+      - -0.000048674643
+      - -0.00010789723
+      - 0.010961098
+      - 0.0046944097
+      - 0.0016702639
+      - 0.00034879282
+      - -0.000011296648
+      - 0.00040998074
+      - 0.00030207212
+      - 0.000010381686
+      - -0.00017276767
+      - 0.013972853
+      - 0.007585791
+      - 0.0017807068
+      - 0.0007601637
+      - 0.00006214845
+      - 0.00044340323
+      - 0.00035257995
+      - 0.00008449293
+      - -0.00026038848
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012684487
+      - 0.0054971823
+      - 0.0007234467
+      - -0.0013152157
+      - -0.00037675037
+      - 0.00016732613
+      - 0.0005010224
+      - -0.0002883528
+      - 0.0002294185
+      - 0.016921721
+      - 0.007391811
+      - 0.00078163383
+      - -0.0016421973
+      - -0.00046187357
+      - 0.00015899469
+      - 0.00058822986
+      - -0.0003622642
+      - 0.00028624525
+      - 0.02269645
+      - 0.011330804
+      - 0.0009061156
+      - -0.0022895792
+      - -0.0005439552
+      - 0.0001975601
+      - 0.0007089348
+      - -0.0004809018
+      - 0.00043250842
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008693415
+      - 0.0039811986
+      - 0.00096203294
+      - 0.0005802352
+      - 0.0000043249906
+      - 0.00032659006
+      - 0.0003156752
+      - -0.00023729581
+      - -0.000070155904
+      - 0.011470003
+      - 0.005239955
+      - 0.0008504997
+      - 0.0009099592
+      - 0.000052833475
+      - 0.00029769377
+      - 0.00036275198
+      - -0.00026491447
+      - -0.000125926
+      - 0.014799007
+      - 0.008143373
+      - 0.00074581796
+      - 0.0014443238
+      - 0.00015249172
+      - 0.0002710442
+      - 0.0004307383
+      - -0.00027586648
+      - -0.00022631817
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012243991
+      - 0.00518664
+      - 0.00066061184
+      - -0.0014660928
+      - -0.0004508217
+      - 0.00046627678
+      - 0.00046389698
+      - -0.0005077585
+      - 0.0002118574
+      - 0.016422698
+      - 0.0070350636
+      - 0.00036942423
+      - -0.0017995966
+      - -0.00055848353
+      - 0.00045463812
+      - 0.00054351694
+      - -0.00066707074
+      - 0.000271055
+      - 0.022161731
+      - 0.010849296
+      - 0.000013548513
+      - -0.0023862177
+      - -0.00070556503
+      - 0.00045378925
+      - 0.00065249257
+      - -0.00092421647
+      - 0.0004068948
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009006669
+      - 0.004128727
+      - 0.0008161131
+      - 0.00066159654
+      - 0.000031736494
+      - 0.00034910944
+      - 0.0003409927
+      - -0.00025778404
+      - -0.00008671733
+      - 0.011949975
+      - 0.005390324
+      - 0.0005259033
+      - 0.0011452596
+      - 0.000118939766
+      - 0.00027371134
+      - 0.00038763802
+      - -0.00033284334
+      - -0.00013327757
+      - 0.015283665
+      - 0.008453232
+      - 0.00005981532
+      - 0.0019108725
+      - 0.00028408962
+      - 0.00015164554
+      - 0.00045548478
+      - -0.00044095248
+      - -0.00020019842
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012326062
+      - 0.005270786
+      - 0.0007366317
+      - -0.001034916
+      - -0.00039057113
+      - 0.00041400347
+      - 0.0005162415
+      - -0.00066135
+      - 0.00027484467
+      - 0.016609157
+      - 0.0071770125
+      - 0.00025138693
+      - -0.001178118
+      - -0.00046457115
+      - 0.00035195437
+      - 0.0006150328
+      - -0.00084853004
+      - 0.00034990552
+      - 0.022502506
+      - 0.011143864
+      - -0.00032921604
+      - -0.0015309816
+      - -0.0005514379
+      - 0.00027068544
+      - 0.00075873703
+      - -0.001128186
+      - 0.00051407766
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008386161
+      - 0.003697675
+      - 0.0005567135
+      - 0.00068028516
+      - 0.000029549814
+      - 0.0002075585
+      - 0.00024784904
+      - -0.0005016341
+      - -0.000018445176
+      - 0.011234391
+      - 0.004936988
+      - 0.00044582578
+      - 0.0011330437
+      - 0.00013365874
+      - 0.00017655993
+      - 0.0002648984
+      - -0.0006023564
+      - -0.00006204842
+      - 0.014400745
+      - 0.00794911
+      - 0.00037226788
+      - 0.0019159475
+      - 0.0003187148
+      - 0.00014012937
+      - 0.00028390178
+      - -0.0007358541
+      - -0.00012209208
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013511257
+      - 0.0058708983
+      - 0.0009823171
+      - -0.0007999949
+      - -0.000320924
+      - 0.0003371324
+      - 0.0005806781
+      - -0.00042335887
+      - 0.00028564798
+      - 0.01788622
+      - 0.0078041153
+      - 0.0006884045
+      - -0.0009810643
+      - -0.00039669612
+      - 0.00028084885
+      - 0.000672647
+      - -0.0006052899
+      - 0.00036547187
+      - 0.02397509
+      - 0.011919723
+      - 0.0004780015
+      - -0.001400088
+      - -0.0004687664
+      - 0.00024980496
+      - 0.00082398974
+      - -0.00087562186
+      - 0.0005405839
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008186016
+      - 0.0036660081
+      - 0.0009318363
+      - -0.0014189301
+      - -0.00033029373
+      - 0.00026819666
+      - 0.00020448079
+      - -0.0001534629
+      - -0.0000875488
+      - 0.010919247
+      - 0.0048378273
+      - 0.00095341285
+      - -0.0019045275
+      - -0.0004455507
+      - 0.00027396576
+      - 0.00022436562
+      - -0.00016621416
+      - -0.00012969188
+      - 0.013990167
+      - 0.007550777
+      - 0.0009188228
+      - -0.0026921055
+      - -0.0006341852
+      - 0.00029528138
+      - 0.00025029143
+      - -0.00018964769
+      - -0.00019699613
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0124173965
+      - 0.0052530924
+      - 0.0014681116
+      - -0.0018959504
+      - -0.0003941438
+      - 0.0004575171
+      - 0.00044055135
+      - -0.0004172172
+      - 0.00024796542
+      - 0.016593257
+      - 0.007146154
+      - 0.0014338951
+      - -0.002353564
+      - -0.00041544612
+      - 0.00045380657
+      - 0.0005139027
+      - -0.0005738794
+      - 0.00030062362
+      - 0.022406746
+      - 0.010930791
+      - 0.0013734063
+      - -0.002902794
+      - -0.00054939336
+      - 0.00046472682
+      - 0.00062865135
+      - -0.0008003441
+      - 0.00041622907
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008548894
+      - 0.0036522544
+      - 0.00090605253
+      - -0.0017318524
+      - -0.00044610846
+      - 0.00039805708
+      - 0.00025584962
+      - -0.00027702336
+      - -0.00008094917
+      - 0.01141966
+      - 0.004815326
+      - 0.00091341673
+      - -0.0023637519
+      - -0.0005919773
+      - 0.0004113184
+      - 0.0002848686
+      - -0.00033429964
+      - -0.00012796679
+      - 0.014752454
+      - 0.0077302447
+      - 0.00083008164
+      - -0.0033313776
+      - -0.00086086156
+      - 0.00045147334
+      - 0.00034113624
+      - -0.0004147511
+      - -0.00019182885
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013670403
+      - 0.0061053527
+      - 0.0006974043
+      - -0.0012213313
+      - -0.0001103118
+      - 0.000509092
+      - 0.0007720249
+      - -0.00020283191
+      - 0.0002938685
+      - 0.018057594
+      - 0.008254942
+      - 0.0005911036
+      - -0.0015887746
+      - -0.0000630179
+      - 0.0005091117
+      - 0.0009196881
+      - -0.00033877874
+      - 0.00034873767
+      - 0.024361704
+      - 0.012502079
+      - 0.00039711097
+      - -0.0019056058
+      - -0.00009580549
+      - 0.00064900384
+      - 0.0011463325
+      - -0.0005348582
+      - 0.00045712417
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00876062
+      - 0.0038361237
+      - 0.0014479768
+      - -0.0018971096
+      - -0.00043272393
+      - 0.0003913144
+      - 0.00018581121
+      - -0.00010681068
+      - -0.000037996575
+      - 0.011676255
+      - 0.0049914443
+      - 0.0015123055
+      - -0.0025814383
+      - -0.00057448255
+      - 0.0004184579
+      - 0.00020280678
+      - -0.00008401965
+      - -0.00007109971
+      - 0.0149284415
+      - 0.007882476
+      - 0.0017649581
+      - -0.003543982
+      - -0.0008056638
+      - 0.00045018995
+      - 0.00022543888
+      - -0.00005481264
+      - -0.00012323867
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009962321
+      - 0.004314614
+      - 0.0014512588
+      - -0.0020848427
+      - -0.00069299666
+      - 0.00018883921
+      - 0.00054097985
+      - -0.00023098881
+      - -0.00010881414
+      - 0.012786462
+      - 0.005572439
+      - 0.0012928825
+      - -0.0026973754
+      - -0.00088433287
+      - 0.0001336458
+      - 0.0005883607
+      - -0.00022465586
+      - -0.00017065344
+      - 0.016321873
+      - 0.008500358
+      - 0.0016383906
+      - -0.003614839
+      - -0.0012167484
+      - -0.00008253962
+      - 0.0006691075
+      - -0.00023823127
+      - -0.00025251278
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.010417771
+      - 0.0048201075
+      - 0.0007450293
+      - -0.002658809
+      - -0.0017269773
+      - 0.00084894645
+      - 0.001195515
+      - -0.0000711049
+      - -0.0005385059
+      - 0.013468866
+      - 0.006661103
+      - 0.00052478065
+      - -0.0035303412
+      - -0.0022519352
+      - 0.00079704705
+      - 0.0013862163
+      - 0.000064030966
+      - -0.00080929266
+      - 0.018116912
+      - 0.0100373505
+      - 0.0003179711
+      - -0.004994787
+      - -0.003184933
+      - 0.00074800395
+      - 0.0016212418
+      - 0.00023776619
+      - -0.0012980845
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.010115859
+      - 0.004466457
+      - 0.0007980475
+      - -0.0017137899
+      - -0.0009689849
+      - 0.00056540687
+      - 0.00073004555
+      - -0.00007096266
+      - -0.00017264002
+      - 0.01303943
+      - 0.00616034
+      - 0.0005829226
+      - -0.002371461
+      - -0.0013187398
+      - 0.0004521697
+      - 0.00079390453
+      - 0.000012137085
+      - -0.000249327
+      - 0.01748929
+      - 0.009267042
+      - 0.0004219536
+      - -0.0033828204
+      - -0.0019078144
+      - 0.00043496958
+      - 0.0008720271
+      - 0.00013631827
+      - -0.0003969654
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013641119
+      - 0.006205462
+      - 0.00042510114
+      - -0.0007075535
+      - -0.000066776985
+      - 0.00014780951
+      - 0.0005558582
+      - 0.00004727332
+      - 0.0004653591
+      - 0.018156521
+      - 0.00835115
+      - 0.000091165966
+      - -0.0009659428
+      - -0.000014416452
+      - 0.00008070891
+      - 0.0006510945
+      - 0.000028420607
+      - 0.0005894002
+      - 0.024583645
+      - 0.012702436
+      - -0.00020592801
+      - -0.0011491838
+      - -0.000059334754
+      - -0.000059518865
+      - 0.000810897
+      - 0.000011759508
+      - 0.00083305675
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013382651
+      - 0.00617609
+      - 0.0010519163
+      - -0.0003878347
+      - -0.000040974992
+      - 0.00026721694
+      - 0.0006403964
+      - -0.00008685707
+      - 0.00034386496
+      - 0.01764785
+      - 0.00831302
+      - 0.0006819492
+      - -0.00061384204
+      - 0.0000074814047
+      - 0.00017289248
+      - 0.00074866717
+      - -0.000117350864
+      - 0.0004291961
+      - 0.023784073
+      - 0.0124560315
+      - 0.0006504327
+      - -0.0008525318
+      - -0.000030333542
+      - -0.000041810647
+      - 0.0008962105
+      - -0.00021920084
+      - 0.00058461865
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012801197
+      - 0.0057113245
+      - 0.00088073657
+      - -0.0016002366
+      - -0.00040718427
+      - 0.0005598567
+      - 0.00075515156
+      - 0.00013345925
+      - 0.0003357052
+      - 0.017065592
+      - 0.007998605
+      - 0.0007130288
+      - -0.001915026
+      - -0.00036650023
+      - 0.0005557605
+      - 0.0009065524
+      - 0.00019495685
+      - 0.0004113847
+      - 0.023348166
+      - 0.012131462
+      - 0.00061945396
+      - -0.0021527377
+      - -0.00032363698
+      - 0.00052605575
+      - 0.0010813586
+      - 0.0002742783
+      - 0.00050165475
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.01431315
+      - 0.006333683
+      - 0.0011386336
+      - -0.0011904661
+      - -0.00015032031
+      - 0.00068020343
+      - 0.00088360027
+      - 0.00021684392
+      - 0.00042887477
+      - 0.018712921
+      - 0.008582341
+      - 0.0010027474
+      - -0.0014369041
+      - -0.00006363295
+      - 0.00064573635
+      - 0.0010403461
+      - 0.00027719743
+      - 0.0005341202
+      - 0.025163587
+      - 0.012718627
+      - 0.0006703944
+      - -0.0016385955
+      - -0.000007210272
+      - 0.0007349663
+      - 0.0012311036
+      - 0.00043880433
+      - 0.00068338733
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009163372
+      - 0.0041153566
+      - 0.00042268354
+      - 0.000052907937
+      - -0.00005721299
+      - 0.000110448076
+      - 0.00017594673
+      - 0.0004900353
+      - 0.000048705006
+      - 0.012252568
+      - 0.005403411
+      - 0.0005044384
+      - 0.000085430205
+      - -0.00007189396
+      - 0.00013165515
+      - 0.0001846437
+      - 0.0006940785
+      - 0.00003562221
+      - 0.015801078
+      - 0.008639708
+      - 0.00058065035
+      - 0.00019331895
+      - -0.00012740283
+      - 0.0002249235
+      - 0.00019963841
+      - 0.000959958
+      - 0.000035005294
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.01292686
+      - 0.005469795
+      - 0.0021779465
+      - -0.0014894435
+      - -0.00029994262
+      - 0.000584073
+      - 0.00039971864
+      - 0.0005886855
+      - 0.000391992
+      - 0.017217608
+      - 0.007288999
+      - 0.0024984763
+      - -0.0020196142
+      - -0.00039239455
+      - 0.000660577
+      - 0.00043994442
+      - 0.00086243346
+      - 0.0005170008
+      - 0.023049643
+      - 0.011175399
+      - 0.002973894
+      - -0.0027679077
+      - -0.00056111056
+      - 0.0008263692
+      - 0.0005141859
+      - 0.0011934827
+      - 0.00074295746
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008356817
+      - 0.0036447505
+      - 0.001381441
+      - -0.0008206111
+      - -0.00024196076
+      - 0.00045149293
+      - 0.00018317813
+      - 0.00044047888
+      - 0.000016287338
+      - 0.011216536
+      - 0.004798693
+      - 0.0016925371
+      - -0.001104914
+      - -0.00032339522
+      - 0.0005638692
+      - 0.00020082688
+      - 0.0006377294
+      - 0.0000034409593
+      - 0.01450761
+      - 0.0077128895
+      - 0.0021482466
+      - -0.0013050721
+      - -0.0004958837
+      - 0.00074081385
+      - 0.00022428903
+      - 0.0009077716
+      - -0.0000040637087
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012200582
+      - 0.0050865924
+      - 0.002406282
+      - -0.0020468328
+      - -0.0005169113
+      - 0.00049998274
+      - 0.00042818754
+      - 0.0007434595
+      - 0.0003776232
+      - 0.016070671
+      - 0.006719194
+      - 0.0029610186
+      - -0.0029049222
+      - -0.00069543323
+      - 0.000583934
+      - 0.0004818175
+      - 0.0010497844
+      - 0.0004784976
+      - 0.021316132
+      - 0.010182474
+      - 0.0038977969
+      - -0.0040546125
+      - -0.0010534542
+      - 0.0008169066
+      - 0.0005678571
+      - 0.0014042095
+      - 0.0006668442
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008679469
+      - 0.0038781825
+      - 0.00051264174
+      - -0.0007639038
+      - -0.00029987335
+      - 0.00013797964
+      - 0.00016675456
+      - -0.00059318455
+      - 0.000059964084
+      - 0.011635893
+      - 0.0051374394
+      - 0.00026260238
+      - -0.0008488432
+      - -0.0003347975
+      - 0.000051314146
+      - 0.00016440313
+      - -0.00080498186
+      - 0.000056370685
+      - 0.015170086
+      - 0.008178901
+      - -0.000032913198
+      - -0.00088789396
+      - -0.00040840564
+      - -0.00009607733
+      - 0.00015940107
+      - -0.0011086166
+      - 0.00005658404
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009833919
+      - 0.00442764
+      - 0.000524557
+      - -0.0010718902
+      - -0.00040294745
+      - 0.00021592657
+      - 0.0003469053
+      - -0.0007007167
+      - -0.000013023018
+      - 0.0127452295
+      - 0.005688208
+      - 0.000013868897
+      - -0.0013963473
+      - -0.0005202552
+      - 0.00010230018
+      - 0.00038020307
+      - -0.0008962269
+      - -0.000029280836
+      - 0.016303765
+      - 0.008598854
+      - -0.00049214443
+      - -0.0017790579
+      - -0.0007386349
+      - -0.000042890115
+      - 0.00043086094
+      - -0.0011840529
+      - -0.000062332445
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008206728
+      - 0.0036302556
+      - 0.0011116405
+      - -0.0021935303
+      - -0.00060854404
+      - 0.00029415294
+      - 0.0003118622
+      - -0.00021854434
+      - -0.00010644988
+      - 0.010770227
+      - 0.004691104
+      - 0.0010244941
+      - -0.0028947063
+      - -0.00079465506
+      - 0.00026540825
+      - 0.0003726909
+      - -0.00025147534
+      - -0.00017118461
+      - 0.01370583
+      - 0.0073081036
+      - 0.0008822059
+      - -0.0036705013
+      - -0.001138122
+      - 0.00021896168
+      - 0.00045356806
+      - -0.00029747278
+      - -0.00025166804
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008690501
+      - 0.0038336287
+      - 0.001585639
+      - -0.0015886967
+      - -0.00046341354
+      - 0.00039612595
+      - 0.00040715814
+      - 0.000115495124
+      - -0.000063478314
+      - 0.011387421
+      - 0.004944342
+      - 0.0017696325
+      - -0.0022112315
+      - -0.0006429548
+      - 0.00045400695
+      - 0.00048046163
+      - 0.0001773371
+      - -0.00011346008
+      - 0.014546197
+      - 0.007625295
+      - 0.0021166666
+      - -0.0028146654
+      - -0.0009689407
+      - 0.0005677612
+      - 0.000580506
+      - 0.00029181255
+      - -0.00018011591
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013144353
+      - 0.005438887
+      - -0.00011472753
+      - -0.002293062
+      - -0.0005136416
+      - 0.00009126557
+      - 0.0004242928
+      - -0.0008987631
+      - 0.00042931558
+      - 0.017520146
+      - 0.007262191
+      - -0.0007036124
+      - -0.0030148728
+      - -0.0006418548
+      - -0.000009656573
+      - 0.00047976658
+      - -0.0012274795
+      - 0.0005596705
+      - 0.023526296
+      - 0.011119081
+      - -0.0013992954
+      - -0.004024556
+      - -0.00085337285
+      - -0.00017127459
+      - 0.000569111
+      - -0.001670236
+      - 0.00079700124
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.011907991
+      - 0.004790929
+      - 0.000015247786
+      - -0.0028051003
+      - -0.00062486646
+      - 0.00018792051
+      - 0.00040853216
+      - -0.0009064129
+      - 0.0003165147
+      - 0.015919665
+      - 0.006452513
+      - -0.00064596557
+      - -0.003681324
+      - -0.000778328
+      - 0.00008467711
+      - 0.0004799764
+      - -0.0012245864
+      - 0.0004051696
+      - 0.021474458
+      - 0.009984342
+      - -0.0013447386
+      - -0.004849749
+      - -0.0010771268
+      - -0.00009072224
+      - 0.0005835937
+      - -0.0016664529
+      - 0.00058296055
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.010643091
+      - 0.004445663
+      - 0.0015829104
+      - -0.0031723934
+      - -0.0006919167
+      - 0.00047650246
+      - 0.00041676825
+      - -0.00061685516
+      - 0.00006026314
+      - 0.014057053
+      - 0.0058713686
+      - 0.0015560162
+      - -0.004365355
+      - -0.0009191389
+      - 0.0004883515
+      - 0.0005038895
+      - -0.0007738983
+      - 0.000067479596
+      - 0.018750278
+      - 0.008866804
+      - 0.0015622624
+      - -0.0059315804
+      - -0.0013586157
+      - 0.0004964175
+      - 0.00061077427
+      - -0.0009843796
+      - 0.00012529023
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.011044244
+      - 0.0048385076
+      - 0.0015962243
+      - -0.0035974083
+      - -0.0007815596
+      - 0.00051802467
+      - 0.00035961493
+      - 0.00007842011
+      - 0.000097957425
+      - 0.014351565
+      - 0.0062660086
+      - 0.0016179065
+      - -0.0048636654
+      - -0.0010062909
+      - 0.00053912937
+      - 0.00041887263
+      - 0.00016167163
+      - 0.000110921814
+      - 0.018943483
+      - 0.009269482
+      - 0.0017337842
+      - -0.006494373
+      - -0.0014423357
+      - 0.00061510084
+      - 0.0004999224
+      - 0.00024805643
+      - 0.00016886514
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0084088715
+      - 0.0032358812
+      - -0.0029892903
+      - 0.001009487
+      - 0.000057661528
+      - -0.00074723864
+      - -0.0000101286105
+      - 0.00015273751
+      - 0.00039825993
+      - 0.011535707
+      - 0.0045865173
+      - -0.0042674546
+      - 0.0014421484
+      - 0.00011528609
+      - -0.001003189
+      - -0.000058323545
+      - 0.00020451161
+      - 0.00051863195
+      - 0.015928814
+      - 0.0074792844
+      - -0.0057548885
+      - 0.002148211
+      - 0.00022610574
+      - -0.0014752665
+      - -0.00010461773
+      - 0.00026392948
+      - 0.00070643757
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0070158266
+      - 0.0028585398
+      - -0.0026404858
+      - 0.00018145448
+      - 0.00003498612
+      - -0.0007107811
+      - -0.0000058367727
+      - 0.00015516598
+      - 0.00019534283
+      - 0.00963602
+      - 0.0038749948
+      - -0.003629626
+      - 0.00021973754
+      - 0.000054534936
+      - -0.000980809
+      - -0.00004587522
+      - 0.00021111415
+      - 0.00025034073
+      - 0.012714102
+      - 0.0064250887
+      - -0.0048851105
+      - 0.00027834674
+      - 0.00009117333
+      - -0.0013876737
+      - -0.00010020143
+      - 0.00026974842
+      - 0.00032916875
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009311496
+      - 0.004194107
+      - 0.00045449013
+      - 0.00036426846
+      - 0.00012776582
+      - -0.0000033002154
+      - 0.00025721177
+      - 0.00045626488
+      - 0.00004364083
+      - 0.0124221975
+      - 0.005540498
+      - 0.0002603471
+      - 0.00057568523
+      - 0.00020490485
+      - -0.00008933304
+      - 0.0002765205
+      - 0.00064899906
+      - 0.000034471934
+      - 0.016159564
+      - 0.008737181
+      - 0.00013188977
+      - 0.00089641806
+      - 0.00033151617
+      - -0.00020404514
+      - 0.00029822215
+      - 0.00093184115
+      - 0.000010891106
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012459041
+      - 0.005660228
+      - 0.000069211346
+      - 0.0006588316
+      - -0.00007833088
+      - 0.00018248864
+      - 0.0004699
+      - 0.00071991934
+      - 0.0003901754
+      - 0.016646527
+      - 0.0075828615
+      - -0.00048031402
+      - 0.0010591651
+      - 0.00000001601581
+      - 0.00008182743
+      - 0.00053478935
+      - 0.0010333215
+      - 0.0004887138
+      - 0.022288678
+      - 0.011612717
+      - -0.0009730274
+      - 0.0016339441
+      - 0.00017111997
+      - -0.00013891676
+      - 0.0006530778
+      - 0.0014755198
+      - 0.0006801557
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012562969
+      - 0.0050450405
+      - 0.00062812003
+      - 0.0022795808
+      - 0.00042224338
+      - 0.000021372765
+      - 0.000595611
+      - 0.00076493644
+      - 0.00039536718
+      - 0.016583543
+      - 0.0068031843
+      - 0.00018234909
+      - 0.003377232
+      - 0.00070389186
+      - -0.000118704294
+      - 0.00069946103
+      - 0.0010591208
+      - 0.0004936106
+      - 0.022243641
+      - 0.010312029
+      - -0.00000931298
+      - 0.0048433896
+      - 0.001137779
+      - -0.0004465967
+      - 0.0008451869
+      - 0.0014840555
+      - 0.000665298
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009638159
+      - 0.0041917325
+      - 0.0007725132
+      - 0.00012600375
+      - 0.00006753564
+      - -0.00010326803
+      - 0.00048354088
+      - 0.0005574844
+      - -0.000056012872
+      - 0.0127039375
+      - 0.005657118
+      - 0.00044142266
+      - 0.00041581254
+      - 0.00021818586
+      - -0.00024526127
+      - 0.0005473704
+      - 0.0007563998
+      - -0.00010498391
+      - 0.016804878
+      - 0.008778945
+      - 0.00031532708
+      - 0.0008534321
+      - 0.00044105464
+      - -0.00060028164
+      - 0.0006364076
+      - 0.0010654287
+      - -0.00017650408
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0121400915
+      - 0.0050547067
+      - 0.0010299388
+      - 0.0024907412
+      - 0.00056545454
+      - 0.0005208727
+      - 0.00092297257
+      - 0.0004442019
+      - 0.00005180932
+      - 0.016042948
+      - 0.0069619045
+      - 0.0007483647
+      - 0.0038443939
+      - 0.0010347319
+      - 0.00046669078
+      - 0.0011335491
+      - 0.0006514553
+      - 0.00006200953
+      - 0.021678144
+      - 0.010432364
+      - 0.00045006015
+      - 0.0055628847
+      - 0.0017700209
+      - 0.0003097922
+      - 0.0013767125
+      - 0.0009649623
+      - 0.000053120715
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.011295182
+      - 0.004953997
+      - 0.0015145926
+      - 0.0020888567
+      - 0.0012780601
+      - 0.0012344306
+      - 0.0016373985
+      - -0.000113062866
+      - -0.00039602077
+      - 0.014450341
+      - 0.0066904076
+      - 0.0012027409
+      - 0.0031050534
+      - 0.0021008283
+      - 0.0011343503
+      - 0.0018591403
+      - 0.000025546236
+      - -0.000566961
+      - 0.019279974
+      - 0.009861206
+      - 0.0010998469
+      - 0.004612517
+      - 0.0033547299
+      - 0.0011648462
+      - 0.002179814
+      - 0.00022990619
+      - -0.00089836685
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009691095
+      - 0.0042572697
+      - 0.0015908501
+      - 0.001684592
+      - 0.0007043019
+      - 0.0013858703
+      - 0.00083051994
+      - -0.0006721435
+      - -0.00019165764
+      - 0.012691044
+      - 0.0060348054
+      - 0.0015643268
+      - 0.0027374336
+      - 0.0013666769
+      - 0.0014316287
+      - 0.0009889619
+      - -0.000751173
+      - -0.0003009088
+      - 0.01719251
+      - 0.009256105
+      - 0.0016250686
+      - 0.0043264083
+      - 0.0024090842
+      - 0.0016284818
+      - 0.0011780146
+      - -0.00085407903
+      - -0.0005100584
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.011670612
+      - 0.00482067
+      - 0.0020718302
+      - 0.0029809845
+      - 0.00071434694
+      - 0.0012167953
+      - 0.000830935
+      - -0.0013091507
+      - 0.00031130982
+      - 0.01532102
+      - 0.0066275815
+      - 0.0022822556
+      - 0.004238893
+      - 0.0011607026
+      - 0.0013147976
+      - 0.0010035307
+      - -0.0016250871
+      - 0.00035462307
+      - 0.020743934
+      - 0.010133235
+      - 0.0024267915
+      - 0.0059611346
+      - 0.0019059738
+      - 0.0016424138
+      - 0.0012026352
+      - -0.002123365
+      - 0.0004485849
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012819083
+      - 0.0052990355
+      - 0.0022666997
+      - 0.0016424181
+      - 0.00018792902
+      - 0.0010313584
+      - 0.0004903029
+      - -0.0010460458
+      - 0.00041669823
+      - 0.017003382
+      - 0.0070976485
+      - 0.0025457405
+      - 0.0024707196
+      - 0.0003765351
+      - 0.0011003078
+      - 0.000568419
+      - -0.001348395
+      - 0.00052763993
+      - 0.022938188
+      - 0.010902015
+      - 0.0027406649
+      - 0.0035873635
+      - 0.0006877952
+      - 0.0013994257
+      - 0.00069229316
+      - -0.0017541763
+      - 0.0007505756
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.008619322
+      - 0.0036724478
+      - 0.0011499397
+      - 0.0001353004
+      - 0.00012045831
+      - 0.0004548888
+      - 0.00020985665
+      - -0.0005461894
+      - -0.0000031674435
+      - 0.011730171
+      - 0.0049371915
+      - 0.0013093262
+      - 0.00033976272
+      - 0.00023273879
+      - 0.0005121764
+      - 0.0002172183
+      - -0.00071084447
+      - -0.000012090475
+      - 0.015336725
+      - 0.008167979
+      - 0.0013973492
+      - 0.0006412194
+      - 0.00039925904
+      - 0.00065141957
+      - 0.00023278315
+      - -0.0009628052
+      - -0.000020461046
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.014336057
+      - 0.0061157835
+      - 0.0013401888
+      - 0.0003298324
+      - 0.000012972184
+      - 0.0004782763
+      - 0.00051893346
+      - -0.0005427503
+      - 0.0004537703
+      - 0.018975642
+      - 0.008109214
+      - 0.0014763947
+      - 0.0004135597
+      - 0.000060741677
+      - 0.0005258045
+      - 0.00057731237
+      - -0.0007382428
+      - 0.0005853174
+      - 0.025290191
+      - 0.012347338
+      - 0.0017349441
+      - 0.00065273046
+      - 0.000088621855
+      - 0.0006871166
+      - 0.00068910193
+      - -0.0009969177
+      - 0.0008319355
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00872467
+      - 0.00387296
+      - 0.00052117155
+      - -0.00109114
+      - -0.000266302
+      - 0.00026763734
+      - 0.00012915151
+      - -0.00023392153
+      - -0.0000630322
+      - 0.011975758
+      - 0.0051754606
+      - 0.0005689385
+      - -0.0013567625
+      - -0.00030136417
+      - 0.00029362924
+      - 0.00013262073
+      - -0.000300004
+      - -0.000094407915
+      - 0.015495149
+      - 0.008461771
+      - 0.0006214088
+      - -0.0017110769
+      - -0.0003460943
+      - 0.00033169094
+      - 0.00014212319
+      - -0.00040220894
+      - -0.00013723836
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009592741
+      - 0.0043241284
+      - 0.0011612448
+      - -0.0009916126
+      - -0.00020368963
+      - 0.00034177926
+      - 0.0002337485
+      - 0.00015602652
+      - 0.0000022052843
+      - 0.01286739
+      - 0.0057204026
+      - 0.0010908988
+      - -0.0011768239
+      - -0.0002060446
+      - 0.00033592092
+      - 0.00024521546
+      - 0.0002503946
+      - -0.000013229704
+      - 0.016723575
+      - 0.009094484
+      - 0.0011762236
+      - -0.001484051
+      - -0.0001955403
+      - 0.0003411182
+      - 0.00026929443
+      - 0.00040424307
+      - -0.000044269967
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.014102383
+      - 0.0063037584
+      - -0.000044398654
+      - 0.0008428924
+      - 0.00014177091
+      - 0.000052717005
+      - 0.00064867566
+      - 0.00043249092
+      - 0.0005400488
+      - 0.018675826
+      - 0.008402889
+      - -0.00055798306
+      - 0.0011064394
+      - 0.00024858784
+      - -0.000036269128
+      - 0.0007382792
+      - 0.00061712
+      - 0.00068983744
+      - 0.024911745
+      - 0.0127681345
+      - -0.000910462
+      - 0.0015857555
+      - 0.00039869433
+      - -0.00021291718
+      - 0.00088300416
+      - 0.00082169403
+      - 0.0009582201
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013058273
+      - 0.0058118706
+      - 0.0015172295
+      - 0.0007137096
+      - 0.0000050121816
+      - 0.00047141267
+      - 0.00075250317
+      - 0.000034410405
+      - 0.0004062091
+      - 0.0173629
+      - 0.007918119
+      - 0.0011873639
+      - 0.0010874686
+      - 0.00014273135
+      - 0.00039418376
+      - 0.0008969374
+      - 0.00016082956
+      - 0.00049034925
+      - 0.023471966
+      - 0.012104186
+      - 0.0011291107
+      - 0.0018264145
+      - 0.0004043374
+      - 0.000120036086
+      - 0.0010927758
+      - 0.00031373266
+      - 0.00064133067
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.010019917
+      - 0.0044639143
+      - 0.0013834299
+      - -0.0017655923
+      - -0.0005117962
+      - 0.00028545578
+      - 0.0004437295
+      - 0.00022152707
+      - -0.000015728945
+      - 0.013388567
+      - 0.006055752
+      - 0.0013022604
+      - -0.0020515798
+      - -0.00051163416
+      - 0.0002705963
+      - 0.0005084965
+      - 0.00040709495
+      - -0.000041386797
+      - 0.017719112
+      - 0.009449746
+      - 0.0016339808
+      - -0.0023368737
+      - -0.00047729118
+      - 0.00008224539
+      - 0.000614271
+      - 0.00065480906
+      - -0.00009921259
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012472133
+      - 0.00519977
+      - 0.0012245654
+      - 0.0003390626
+      - 0.000020139247
+      - 0.0005692301
+      - 0.00082377926
+      - -0.00016814006
+      - 0.00026564402
+      - 0.016536145
+      - 0.0072364886
+      - 0.0009859856
+      - 0.00068481494
+      - 0.0001699741
+      - 0.000515202
+      - 0.000986143
+      - -0.00016023334
+      - 0.00032186424
+      - 0.02246442
+      - 0.011027211
+      - 0.0008523836
+      - 0.0011869072
+      - 0.00038093474
+      - 0.00042562533
+      - 0.001153451
+      - -0.00012026822
+      - 0.00041179964
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.010495042
+      - 0.0045208135
+      - 0.00066765805
+      - -0.00033375536
+      - -0.0003314223
+      - 0.0008439686
+      - 0.0013421294
+      - -0.00034139436
+      - -0.00041715932
+      - 0.013689453
+      - 0.0064177644
+      - 0.00039381013
+      - -0.00021775084
+      - -0.0000939463
+      - 0.0007514855
+      - 0.0015288787
+      - -0.00031861512
+      - -0.00064636505
+      - 0.018618183
+      - 0.009908747
+      - 0.00019142148
+      - -0.000050052604
+      - 0.00031775402
+      - 0.00069239794
+      - 0.0017915427
+      - -0.0003059745
+      - -0.001064802
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.01037726
+      - 0.0047377036
+      - 0.00014386725
+      - -0.0006910504
+      - -0.00041728365
+      - 0.0004272426
+      - 0.0011114724
+      - -0.0006648005
+      - -0.00043495384
+      - 0.01345055
+      - 0.0066616
+      - -0.00008426488
+      - -0.0008012855
+      - -0.00038908407
+      - 0.00036582106
+      - 0.0013046383
+      - -0.00086556026
+      - -0.00063986133
+      - 0.01809172
+      - 0.010088581
+      - -0.0003889034
+      - -0.0008988763
+      - -0.00034225665
+      - 0.00035673872
+      - 0.0015324672
+      - -0.0011213953
+      - -0.001008868
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.01258823
+      - 0.005141675
+      - 0.0010764027
+      - 0.0003847737
+      - 0.00020584866
+      - 0.0007445698
+      - 0.0007444896
+      - -0.00023972071
+      - 0.00022216933
+      - 0.016648369
+      - 0.0071219085
+      - 0.0008557487
+      - 0.00064980856
+      - 0.00034571884
+      - 0.0007153174
+      - 0.0008832154
+      - -0.00034293387
+      - 0.00027452514
+      - 0.022518007
+      - 0.010877117
+      - 0.0004755181
+      - 0.0010548412
+      - 0.00054425147
+      - 0.0008590058
+      - 0.0010468006
+      - -0.0004885166
+      - 0.0003524343
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013067813
+      - 0.0053055747
+      - 0.0013767785
+      - 0.00014809094
+      - -0.000024896657
+      - 0.00063720846
+      - 0.00060807023
+      - -0.000903441
+      - 0.00042135236
+      - 0.017442068
+      - 0.0072634495
+      - 0.0014579566
+      - 0.0004044005
+      - 0.00007991719
+      - 0.0006484083
+      - 0.00068928534
+      - -0.0012248959
+      - 0.0005482307
+      - 0.023613133
+      - 0.011294881
+      - 0.001453602
+      - 0.0009015056
+      - 0.00018615017
+      - 0.0008467169
+      - 0.0008210199
+      - -0.0016428776
+      - 0.0007870066
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009799474
+      - 0.004322867
+      - 0.00061965606
+      - -0.0008492808
+      - -0.00023616402
+      - 0.00028376785
+      - 0.0002958525
+      - -0.00048264183
+      - -0.000039781644
+      - 0.013155224
+      - 0.0057476875
+      - 0.0005548469
+      - -0.0010665598
+      - -0.00026298073
+      - 0.00028493206
+      - 0.00032600132
+      - -0.0006320785
+      - -0.00006986472
+      - 0.01715756
+      - 0.009162424
+      - 0.0003970809
+      - -0.001420495
+      - -0.00030267844
+      - 0.00035425255
+      - 0.0003750841
+      - -0.0008384138
+      - -0.0001201385
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.00956698
+      - 0.0041875564
+      - 0.0003399136
+      - 0.00066419854
+      - 0.00023386026
+      - 0.00018341752
+      - 0.00021880417
+      - -0.00035437194
+      - 0.00005884509
+      - 0.01298338
+      - 0.005596284
+      - 0.00029699874
+      - 0.0008598274
+      - 0.00031863147
+      - 0.00020621093
+      - 0.00023032096
+      - -0.0005151637
+      - 0.00007202749
+      - 0.016947873
+      - 0.009070039
+      - 0.00033230748
+      - 0.0011315416
+      - 0.00045084578
+      - 0.00025040488
+      - 0.00025184735
+      - -0.00074901147
+      - 0.00008212557
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.013350285
+      - 0.005566797
+      - 0.0022332561
+      - 0.0009573782
+      - 0.000025087438
+      - 0.00067941245
+      - 0.0003767624
+      - -0.00042198022
+      - 0.00044378464
+      - 0.017713653
+      - 0.00736507
+      - 0.0026097589
+      - 0.0012728097
+      - 0.00006224568
+      - 0.0007691367
+      - 0.00041513296
+      - -0.0006248266
+      - 0.0005627544
+      - 0.023589391
+      - 0.011295095
+      - 0.0031176568
+      - 0.0016699425
+      - 0.00013505651
+      - 0.00096447987
+      - 0.00049021526
+      - -0.0008723563
+      - 0.0007899611
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.007685212
+      - 0.00334977
+      - -0.0011457939
+      - 0.000014038963
+      - 0.000060532886
+      - -0.000352268
+      - 0.00005223718
+      - 0.00053082884
+      - 0.00010533631
+      - 0.010710411
+      - 0.0046498496
+      - -0.0015384018
+      - 0.00020143054
+      - 0.00014155291
+      - -0.0004664563
+      - 0.000038240698
+      - 0.0007019718
+      - 0.00012309455
+      - 0.0144114895
+      - 0.0076154987
+      - -0.0019041598
+      - 0.0004130261
+      - 0.00024432185
+      - -0.000646988
+      - 0.00002310302
+      - 0.0009821745
+      - 0.00013690323
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.011800361
+      - 0.004709995
+      - -0.0019173356
+      - 0.0015027614
+      - 0.00016968371
+      - -0.00058301433
+      - 0.00024707898
+      - 0.0007768505
+      - 0.00055025425
+      - 0.015951866
+      - 0.006497753
+      - -0.0027587772
+      - 0.002111416
+      - 0.00026175604
+      - -0.00077236193
+      - 0.00025999546
+      - 0.0010364887
+      - 0.0007088351
+      - 0.02166047
+      - 0.010183987
+      - -0.0036685227
+      - 0.0028203283
+      - 0.000434162
+      - -0.0011050077
+      - 0.00029948904
+      - 0.0013902382
+      - 0.0009615558
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.0074774637
+      - 0.0031981415
+      - 0.0027097897
+      - -0.00011889333
+      - -0.00004014275
+      - 0.00061814836
+      - -0.000015696327
+      - -0.00024611107
+      - 0.00017698295
+      - 0.010133734
+      - 0.0042688074
+      - 0.0034486938
+      - -0.00004753825
+      - 0.0000027264678
+      - 0.0007696147
+      - -0.000066046596
+      - -0.0003017394
+      - 0.00023755064
+      - 0.013517234
+      - 0.006791065
+      - 0.004322989
+      - 0.000052148454
+      - 0.000043991524
+      - 0.0010733829
+      - -0.00014159063
+      - -0.00040509988
+      - 0.00032206858
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.009923745
+      - 0.0038901875
+      - 0.0039756326
+      - 0.000344961
+      - -0.00012284692
+      - 0.00089351257
+      - 0.000036739973
+      - -0.00042001976
+      - 0.00037135935
+      - 0.013265964
+      - 0.005252559
+      - 0.0051454226
+      - 0.0005255071
+      - -0.00012217538
+      - 0.0010861235
+      - -0.000010183291
+      - -0.00053684425
+      - 0.0004888478
+      - 0.017961806
+      - 0.0081798015
+      - 0.0066433996
+      - 0.000755929
+      - -0.00010708668
+      - 0.0014864657
+      - -0.000057112393
+      - -0.0006985384
+      - 0.0006824553
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.007922665
+      - 0.0033321965
+      - 0.0012714581
+      - 0.0004005968
+      - 0.00006948367
+      - 0.00042055963
+      - 0.00008542416
+      - -0.00042334854
+      - 0.00008112549
+      - 0.010920647
+      - 0.0045257355
+      - 0.0015031141
+      - 0.00070147053
+      - 0.00014718928
+      - 0.0005129832
+      - 0.000072191615
+      - -0.00058038166
+      - 0.000090538735
+      - 0.014335739
+      - 0.007599012
+      - 0.0018883904
+      - 0.0010047328
+      - 0.00028156248
+      - 0.00066589244
+      - 0.000051305593
+      - -0.000797402
+      - 0.00010980757
+      position: {x: 0, y: 0, z: 0}
+    - coefficients:
+      - 0.012324264
+      - 0.005113675
+      - 0.0021117565
+      - 0.000920415
+      - 0.000053907293
+      - 0.00060434925
+      - 0.0003838841
+      - -0.0008845879
+      - 0.0003917363
+      - 0.016450087
+      - 0.006850857
+      - 0.0026292698
+      - 0.001405747
+      - 0.0001275562
+      - 0.0007201982
+      - 0.00040932125
+      - -0.0011940147
+      - 0.00052523427
+      - 0.02214825
+      - 0.010582369
+      - 0.003364972
+      - 0.0019479593
+      - 0.0002700473
+      - 0.0010051313
+      - 0.00048038227
+      - -0.0015886095
+      - 0.0007580445
+      position: {x: 0, y: 0, z: 0}
+    lightProbes1D:
+    - 0.013288635
+    - 0.006070223
+    - 0.0016507792
+    - 0.000056722536
+    - -0.00016506293
+    - 0.0004939608
+    - 0.00056550204
+    - 0.00030266456
+    - 0.0004382771
+    - 0.017634628
+    - 0.008092945
+    - 0.0016927593
+    - 0.0001814212
+    - -0.00020243606
+    - 0.00049409556
+    - 0.00064724026
+    - 0.00040911458
+    - 0.000569931
+    - 0.023717346
+    - 0.012348326
+    - 0.0019717983
+    - 0.00017614721
+    - -0.00019005292
+    - 0.000567756
+    - 0.0007857481
+    - 0.00051196205
+    - 0.00081617216
+    - 0.012757675
+    - 0.005797377
+    - 0.0011474988
+    - -0.0004106709
+    - -0.00014013148
+    - 0.00029533484
+    - 0.0006110237
+    - 0.0002885911
+    - 0.00032381457
+    - 0.017052667
+    - 0.007837515
+    - 0.0011724097
+    - -0.0005903243
+    - -0.0002203672
+    - 0.00030633344
+    - 0.0007145655
+    - 0.00043434763
+    - 0.00040234643
+    - 0.022989891
+    - 0.0121068405
+    - 0.0013665489
+    - -0.0010014974
+    - -0.00027901735
+    - 0.0003606515
+    - 0.0008654786
+    - 0.0006214283
+    - 0.0005829507
+    - 0.009151625
+    - 0.004198205
+    - 0.0004906491
+    - 0.0009943271
+    - 0.00014001555
+    - 0.00021328725
+    - 0.00023062297
+    - 0.00006357689
+    - -0.00005527423
+    - 0.012067563
+    - 0.0054708677
+    - 0.00030538338
+    - 0.0014971992
+    - 0.00023929912
+    - 0.00017790077
+    - 0.0002576589
+    - 0.00012483251
+    - -0.00009877925
+    - 0.01552656
+    - 0.008461689
+    - 0.00011636633
+    - 0.0021897154
+    - 0.00039918115
+    - 0.00017811179
+    - 0.00029914582
+    - 0.000221161
+    - -0.00017105087
+    - 0.0100016985
+    - 0.004490398
+    - 0.0010056585
+    - 0.0008013787
+    - 0.000008036741
+    - 0.00033732408
+    - 0.00027647463
+    - 0.00009356282
+    - -0.000011306628
+    - 0.013197507
+    - 0.005819121
+    - 0.00093645824
+    - 0.0013003047
+    - 0.000081936545
+    - 0.00033778368
+    - 0.0003128032
+    - 0.00015587713
+    - -0.000040070077
+    - 0.01695101
+    - 0.009026996
+    - 0.0009743959
+    - 0.0019674357
+    - 0.00022331407
+    - 0.00037320872
+    - 0.00037124223
+    - 0.0002602699
+    - -0.00008982592
+    - 0.0030763685
+    - 0.00011846167
+    - -0.000652847
+    - 0.0022118208
+    - 0.00013361327
+    - -0.00002593449
+    - -0.000035799072
+    - -0.00024363202
+    - 0.00018733487
+    - 0.004034014
+    - 0.00011994813
+    - -0.00085474184
+    - 0.0029498306
+    - 0.00020216708
+    - -0.000023989169
+    - -0.000045034834
+    - -0.0003298023
+    - 0.00026055318
+    - 0.005622474
+    - 0.0002040853
+    - -0.0011576393
+    - 0.0040409635
+    - 0.00032018987
+    - -0.00003700502
+    - -0.00006126036
+    - -0.00044400035
+    - 0.00035680374
+    - 0.0037258815
+    - 0.000098701465
+    - 0.0006670972
+    - 0.0027218785
+    - 0.00017354233
+    - 0.0000026879272
+    - -0.000047086658
+    - 0.0002269297
+    - 0.00023634416
+    - 0.004872595
+    - 0.000069265174
+    - 0.00081832084
+    - 0.0036285778
+    - 0.00024638764
+    - 0.0000009083916
+    - -0.000059343358
+    - 0.0002856138
+    - 0.00032379344
+    - 0.0066950866
+    - 0.00014361339
+    - 0.0010335265
+    - 0.0049479627
+    - 0.00037599594
+    - -0.0000025989575
+    - -0.000077904995
+    - 0.00037004543
+    - 0.0004375951
+    - 0.0023848005
+    - 0.0004192446
+    - -0.0008309916
+    - 0.001434984
+    - 0.00033755545
+    - -0.00017812575
+    - 0.000017221719
+    - -0.00051366084
+    - 0.000114912335
+    - 0.0033858703
+    - 0.00062951865
+    - -0.001129844
+    - 0.002031219
+    - 0.00052694906
+    - -0.00024973028
+    - 0.000018286437
+    - -0.0007113924
+    - 0.00015908467
+    - 0.005039736
+    - 0.0009968316
+    - -0.0015894483
+    - 0.002989283
+    - 0.00083003007
+    - -0.00035818433
+    - 0.00001526922
+    - -0.0010109635
+    - 0.00021940272
+    - 0.0030757012
+    - 0.00048033145
+    - 0.0008729339
+    - 0.002092723
+    - 0.0004680173
+    - 0.0001440875
+    - -0.000060417588
+    - 0.00034435556
+    - 0.00018265998
+    - 0.004208903
+    - 0.0006287432
+    - 0.0010234339
+    - 0.0028303473
+    - 0.00066151907
+    - 0.00016058508
+    - -0.00007837993
+    - 0.0004038282
+    - 0.0002480065
+    - 0.0061143544
+    - 0.0009174549
+    - 0.0012435452
+    - 0.003991508
+    - 0.0009669866
+    - 0.00018886352
+    - -0.00010611592
+    - 0.0005120976
+    - 0.00033384198
+    - 0.0001878466
+    - -0.0000255083
+    - -0.000045794302
+    - 0.00015570091
+    - -0.00012366143
+    - 0.00003696281
+    - -0.000025782732
+    - -0.0000007073343
+    - 0.000040619263
+    - 0.00024291527
+    - -0.00003137347
+    - -0.00005926391
+    - 0.00020946392
+    - -0.00016075393
+    - 0.000047939102
+    - -0.0000329988
+    - -0.000007617031
+    - 0.000049857455
+    - 0.00033743796
+    - -0.000047912537
+    - -0.00009178864
+    - 0.00029100187
+    - -0.00022970124
+    - 0.00007079042
+    - -0.000044257384
+    - -0.000016879838
+    - 0.00006338187
+    - 0.00022332033
+    - -0.0000253579
+    - 0.000038575654
+    - 0.00014144111
+    - -0.00015345642
+    - 0.000002428659
+    - -0.000009352959
+    - -0.0000050172057
+    - 0.000052635452
+    - 0.00029602635
+    - -0.00003605534
+    - 0.000052376938
+    - 0.00019042933
+    - -0.00020358476
+    - -0.0000028365298
+    - -0.000009738586
+    - 0.0000047576423
+    - 0.00006265198
+    - 0.0004083898
+    - -0.00005264959
+    - 0.000086681
+    - 0.00026134992
+    - -0.00027397607
+    - -0.000020505026
+    - -0.000005192742
+    - 0.000039733757
+    - 0.00007489154
+    - 0.00051538635
+    - 0.0000575895
+    - -0.00010496612
+    - 0.00044321548
+    - 0.000054869575
+    - -0.0000026457355
+    - -0.00001757011
+    - -0.000036251276
+    - 0.000051525974
+    - 0.0007010057
+    - 0.000080244645
+    - -0.00013683314
+    - 0.00059943093
+    - 0.000077514145
+    - -0.000004161347
+    - -0.000024101244
+    - -0.000047823974
+    - 0.00006976822
+    - 0.0010155471
+    - 0.00011881732
+    - -0.00019127804
+    - 0.0008629755
+    - 0.000115870826
+    - -0.000008142649
+    - -0.000034661945
+    - -0.00007008253
+    - 0.000100644174
+    - 0.00073571975
+    - 0.000055782115
+    - 0.00003237687
+    - 0.0005866004
+    - 0.00007033749
+    - 0.000006427111
+    - -0.000024638111
+    - 0.000018852465
+    - 0.00006614597
+    - 0.0009705374
+    - 0.0000762711
+    - 0.00004838967
+    - 0.00078580255
+    - 0.0000918051
+    - 0.000009002864
+    - -0.000032481683
+    - 0.000025014688
+    - 0.00008853837
+    - 0.0013727433
+    - 0.00011660614
+    - 0.000071063165
+    - 0.0011165548
+    - 0.00013089954
+    - 0.00001271924
+    - -0.00004547836
+    - 0.000032773398
+    - 0.00012515178
+    - 0.00014393407
+    - 0.000001039983
+    - -0.000033328954
+    - 0.00012967759
+    - -0.000008236867
+    - 0.000027676595
+    - -0.000023354707
+    - -0.000013383224
+    - 0.000035857505
+    - 0.00019500703
+    - 0.0000000743408
+    - -0.000051272076
+    - 0.00017766745
+    - -0.000016557547
+    - 0.000033347304
+    - -0.000030865845
+    - -0.0000214883
+    - 0.00004546977
+    - 0.00027823457
+    - 0.000000036583344
+    - -0.00008268685
+    - 0.00024719964
+    - -0.000037202728
+    - 0.000034834266
+    - -0.00004051986
+    - -0.000026340485
+    - 0.000053315896
+    - 0.00016385803
+    - -0.0000118746775
+    - 0.00007255037
+    - 0.0001555499
+    - -0.000039150105
+    - -0.000009095743
+    - -0.000015958954
+    - 0.000039763894
+    - 0.000044755237
+    - 0.00021526887
+    - -0.000023969531
+    - 0.00010020145
+    - 0.00020679997
+    - -0.000060221824
+    - -0.000013779511
+    - -0.000019742407
+    - 0.000059560134
+    - 0.000057804256
+    - 0.00030385825
+    - -0.0000402577
+    - 0.00014654004
+    - 0.0002868377
+    - -0.00009958196
+    - -0.000008613504
+    - -0.000027273592
+    - 0.000083342005
+    - 0.000072298666
+    - 0.0004152993
+    - 0.00006916285
+    - -0.00010396402
+    - 0.00051435287
+    - 0.0002537878
+    - -0.000060031278
+    - -0.00009162493
+    - -0.00013541365
+    - 0.0002405018
+    - 0.00054264977
+    - 0.00009232634
+    - -0.00013342795
+    - 0.00067647576
+    - 0.00032912404
+    - -0.00007266354
+    - -0.00011961461
+    - -0.00016903844
+    - 0.0003169281
+    - 0.00074286904
+    - 0.0001312949
+    - -0.00017881123
+    - 0.00092750986
+    - 0.00044741278
+    - -0.00009697598
+    - -0.00016238428
+    - -0.00021946068
+    - 0.0004330624
+    - 0.00013238098
+    - -0.000009152007
+    - 0.000045867397
+    - 0.00012108306
+    - 0.000060059483
+    - -0.000017889446
+    - -0.000022340235
+    - 0.00003369771
+    - 0.0000461887
+    - 0.00018448873
+    - -0.000010608971
+    - 0.000059159847
+    - 0.00017802305
+    - 0.00008286507
+    - -0.000022288288
+    - -0.00003184482
+    - 0.00004581051
+    - 0.0000665624
+    - 0.00027224098
+    - -0.000013673147
+    - 0.000075441996
+    - 0.00027402877
+    - 0.00011666442
+    - -0.000030595096
+    - -0.000047448124
+    - 0.000053298325
+    - 0.000101187696
+    - 0.0019548493
+    - -0.00006525874
+    - -0.00025972904
+    - 0.0015229421
+    - 0.000043511784
+    - -0.000035037247
+    - -0.000036621055
+    - -0.00013491444
+    - 0.00015729156
+    - 0.0025451155
+    - -0.00012746493
+    - -0.00031334028
+    - 0.0019659013
+    - 0.000051895844
+    - -0.000039749226
+    - -0.00004402423
+    - -0.00016906927
+    - 0.00020398932
+    - 0.0035560569
+    - -0.00019929773
+    - -0.0004010105
+    - 0.0026938813
+    - 0.00007562009
+    - -0.000057709563
+    - -0.000053685922
+    - -0.00021958887
+    - 0.00027516705
+    - 0.0016617486
+    - -0.0001658975
+    - 0.00015329184
+    - 0.0012050224
+    - -0.0000026988155
+    - -0.0000036762663
+    - -0.000023923662
+    - 0.00012400749
+    - 0.00010933284
+    - 0.002170871
+    - -0.00025749143
+    - 0.00021909211
+    - 0.0015934508
+    - -0.0000056776926
+    - -0.000006689821
+    - -0.000032046213
+    - 0.0001632071
+    - 0.00014870251
+    - 0.003011844
+    - -0.00036366563
+    - 0.00029768894
+    - 0.0021898136
+    - 0.0000011666931
+    - -0.000009418059
+    - -0.00004381714
+    - 0.00021336254
+    - 0.00020194594
+    - 0.0017229456
+    - 0.00029651393
+    - -0.00034273765
+    - 0.0011753595
+    - 0.00020994617
+    - -0.000065379325
+    - -0.000019649418
+    - -0.00016232705
+    - 0.00010840708
+    - 0.0023928646
+    - 0.00039676932
+    - -0.00046673117
+    - 0.0016400163
+    - 0.0002960592
+    - -0.000085397645
+    - -0.000027588054
+    - -0.00021708074
+    - 0.00014742286
+    - 0.0035649634
+    - 0.0005898462
+    - -0.0006830908
+    - 0.0024170731
+    - 0.00044586486
+    - -0.0001225664
+    - -0.000041354706
+    - -0.00031073985
+    - 0.00020705479
+    - 0.0022430897
+    - 0.00044446552
+    - 0.00040317656
+    - 0.0017135652
+    - 0.00025398817
+    - 0.0000825102
+    - -0.000045689354
+    - 0.00020846433
+    - 0.0001595678
+    - 0.0030298894
+    - 0.00059744506
+    - 0.0005226435
+    - 0.0023186128
+    - 0.00035620044
+    - 0.00010679699
+    - -0.00006316545
+    - 0.00026691254
+    - 0.00021580017
+    - 0.004322375
+    - 0.0008482633
+    - 0.0007265193
+    - 0.003274224
+    - 0.00051993853
+    - 0.00014692135
+    - -0.0000923444
+    - 0.00035983673
+    - 0.00029675907
+    - 0.0007354716
+    - -0.00010546115
+    - -0.00009291922
+    - 0.0006223441
+    - -0.00002878676
+    - 0.0000047502217
+    - -0.00002004216
+    - -0.000014315912
+    - 0.000063252235
+    - 0.0009731796
+    - -0.00015703947
+    - -0.00013401844
+    - 0.0008119038
+    - -0.000041936284
+    - 0.000008734778
+    - -0.000024775884
+    - -0.00001958098
+    - 0.00008128044
+    - 0.0013224806
+    - -0.00021873545
+    - -0.00019528276
+    - 0.0010781706
+    - -0.000057046396
+    - 0.000014117443
+    - -0.00003110352
+    - -0.000024888668
+    - 0.000106837
+    - 0.0010042427
+    - -0.00008259556
+    - 0.000093880764
+    - 0.00083752495
+    - 0.00000920441
+    - -0.000002335695
+    - -0.000031331274
+    - 0.000057779544
+    - 0.00009581273
+    - 0.001310622
+    - -0.0001128007
+    - 0.00012752326
+    - 0.0010915273
+    - 0.000009960279
+    - -0.0000052140645
+    - -0.000039760027
+    - 0.00007741886
+    - 0.00012480345
+    - 0.0018031598
+    - -0.00015667162
+    - 0.00017642076
+    - 0.0014872834
+    - 0.000012529359
+    - -0.0000096292515
+    - -0.000053152897
+    - 0.00010954238
+    - 0.00016910568
+    - 0.0010139365
+    - 0.00014219992
+    - -0.00016009223
+    - 0.00072547933
+    - 0.00011472148
+    - -0.000018436056
+    - -0.000026942987
+    - -0.000059205868
+    - 0.000071408336
+    - 0.0013650999
+    - 0.00018401668
+    - -0.00021062724
+    - 0.00097449427
+    - 0.00015464255
+    - -0.000023088485
+    - -0.000035850095
+    - -0.000078249956
+    - 0.000096598305
+    - 0.001957553
+    - 0.00026933814
+    - -0.00030749993
+    - 0.0013943093
+    - 0.00022454289
+    - -0.000034840177
+    - -0.000051130864
+    - -0.000115841875
+    - 0.00013811482
+    - 0.00096378627
+    - 0.00013775741
+    - 0.00008723367
+    - 0.00063405005
+    - 0.00009120637
+    - 0.000011853842
+    - -0.000020681486
+    - 0.000052685762
+    - 0.000059407048
+    - 0.0013329902
+    - 0.00018614072
+    - 0.00011926463
+    - 0.0008814506
+    - 0.00012567324
+    - 0.000014674838
+    - -0.000027732734
+    - 0.00006978543
+    - 0.000082432205
+    - 0.0019145731
+    - 0.00027748864
+    - 0.00017708963
+    - 0.0012729508
+    - 0.0001823799
+    - 0.000019062074
+    - -0.00003962859
+    - 0.00009943135
+    - 0.00011752607
+    - 0.0005432675
+    - 0.000033698736
+    - 0.00020011837
+    - 0.00067183655
+    - -0.000029553381
+    - -0.000030203335
+    - -0.00008454392
+    - 0.00019615024
+    - 0.00028783453
+    - 0.00070354616
+    - 0.000040728253
+    - 0.00025984566
+    - 0.0008655815
+    - -0.000031464264
+    - -0.000033264212
+    - -0.00010712817
+    - 0.00025660978
+    - 0.0003782156
+    - 0.0009544661
+    - 0.000040746836
+    - 0.00034402622
+    - 0.0011575861
+    - -0.000031418094
+    - -0.000024051396
+    - -0.00013692708
+    - 0.0003547746
+    - 0.00051142415
+    - 0.0002753158
+    - -0.000024455898
+    - -0.00011542659
+    - 0.00035718086
+    - -0.000078486344
+    - 0.000019450734
+    - -0.000050255912
+    - -0.00013586236
+    - 0.00012235966
+    - 0.00035131135
+    - -0.00002705178
+    - -0.00015202652
+    - 0.00044087262
+    - -0.000114702496
+    - 0.000022292488
+    - -0.000062983265
+    - -0.00017994911
+    - 0.0001442973
+    - 0.00048160533
+    - -0.00003708715
+    - -0.00021034724
+    - 0.0005969339
+    - -0.00016810611
+    - 0.000030006564
+    - -0.00008671397
+    - -0.0002531844
+    - 0.000187879
+    - 0.00017555787
+    - -0.000053753283
+    - -0.000024536042
+    - 0.000095268784
+    - -0.00000011225518
+    - -0.000012076052
+    - -0.000030592815
+    - -0.000037970225
+    - 0.00007021218
+    - 0.00021994837
+    - -0.000067484696
+    - -0.0000334354
+    - 0.00010112029
+    - 0.0000041750436
+    - -0.000011831852
+    - -0.000036637026
+    - -0.00005001546
+    - 0.00008239537
+    - 0.00028567095
+    - -0.0000922942
+    - -0.000047023066
+    - 0.00010985571
+    - 0.000009017817
+    - -0.000011848637
+    - -0.000047911682
+    - -0.0000655513
+    - 0.00010061118
+    - 0.00025310487
+    - -0.00000217227
+    - 0.000085538704
+    - 0.00030224293
+    - 0.000066001514
+    - -0.000029605482
+    - -0.00005114629
+    - 0.000048258225
+    - 0.00014880906
+    - 0.00032846912
+    - 0.000007321961
+    - 0.00012362044
+    - 0.00039911762
+    - 0.00008518658
+    - -0.000038711136
+    - -0.000065673565
+    - 0.00005804862
+    - 0.00019323983
+    - 0.0004561625
+    - 0.000010318929
+    - 0.0001769236
+    - 0.00055957166
+    - 0.0001219097
+    - -0.00005623982
+    - -0.00008901638
+    - 0.00007846564
+    - 0.0002670001
+    - 0.0003351637
+    - 0.00007730894
+    - 0.000014793981
+    - 0.00048042394
+    - 0.00019643366
+    - 0.000019403391
+    - -0.00008877273
+    - -0.00001825235
+    - 0.00020703918
+    - 0.00046511294
+    - 0.00011269962
+    - 0.000017851042
+    - 0.0006875281
+    - 0.00028059114
+    - 0.000017829454
+    - -0.000124792
+    - -0.00002152188
+    - 0.0002921397
+    - 0.0006797241
+    - 0.00017232205
+    - 0.000022397939
+    - 0.0010255043
+    - 0.0004208725
+    - 0.000020438614
+    - -0.00018366116
+    - -0.00002738989
+    - 0.00043134383
+    - 0.00041987904
+    - 0.000015249458
+    - 0.00010900599
+    - 0.0005533544
+    - -0.000028052596
+    - -0.000027275391
+    - -0.00003276507
+    - 0.00022414944
+    - 0.00021177877
+    - 0.0005443572
+    - 0.000013300956
+    - 0.00015988953
+    - 0.00074153044
+    - -0.000030134937
+    - -0.000037610353
+    - -0.000043192158
+    - 0.00028841672
+    - 0.00027408169
+    - 0.00074102427
+    - 0.000024328443
+    - 0.00020459993
+    - 0.0010046742
+    - -0.000034429573
+    - -0.000071586655
+    - -0.000056511322
+    - 0.00036451526
+    - 0.00036269196
+    - 0.00034514486
+    - -0.000028982604
+    - 0.000016622142
+    - 0.00039475193
+    - -0.00005559113
+    - -0.000027508946
+    - -0.00005522128
+    - 0.000099820165
+    - 0.00017890932
+    - 0.0004629536
+    - -0.00004544176
+    - 0.000023548371
+    - 0.00051294995
+    - -0.00007477237
+    - -0.000033951215
+    - -0.00007015648
+    - 0.00012456138
+    - 0.00023686065
+    - 0.00064856437
+    - -0.00007326077
+    - 0.000037789945
+    - 0.00068572187
+    - -0.000099498066
+    - -0.000046376932
+    - -0.00009410506
+    - 0.00014267741
+    - 0.00032780273
+    - 0.00018530064
+    - -0.00002985142
+    - -0.00000081516794
+    - 0.00019193598
+    - -0.00004363976
+    - -0.00003245908
+    - -0.000033418502
+    - 0.000024687466
+    - 0.00004028691
+    - 0.0002404622
+    - -0.000039625786
+    - 0.000001815739
+    - 0.00024312409
+    - -0.000055102235
+    - -0.000043190525
+    - -0.00004262411
+    - 0.00002826401
+    - 0.000050213723
+    - 0.00031625066
+    - -0.00005021444
+    - 0.0000071586383
+    - 0.00030275006
+    - -0.0000650097
+    - -0.00006244653
+    - -0.00005511532
+    - 0.000037927664
+    - 0.000060020295
+    - 0.00023734446
+    - -0.0001186879
+    - 0.000019578782
+    - 0.00019591127
+    - -0.00017374757
+    - -0.000021971277
+    - -0.00003515822
+    - 0.00005290721
+    - 0.000056117788
+    - 0.00031042474
+    - -0.00015584099
+    - 0.0000365283
+    - 0.00025639846
+    - -0.00023281458
+    - -0.000034864534
+    - -0.00004542308
+    - 0.00007119609
+    - 0.00006769536
+    - 0.00042331146
+    - -0.00022053381
+    - 0.00005623208
+    - 0.0003302985
+    - -0.0003166983
+    - -0.000046866942
+    - -0.00006499963
+    - 0.00009036677
+    - 0.00008227291
+    - 0.00067712076
+    - -0.000037869984
+    - 0.0001004041
+    - 0.0005869002
+    - -0.00001033504
+    - 0.000000773143
+    - -0.00002043877
+    - 0.000076131706
+    - 0.00007235373
+    - 0.00089469156
+    - -0.000051586667
+    - 0.00014187704
+    - 0.00078426924
+    - -0.000015165185
+    - 0.000000056612304
+    - -0.000026411944
+    - 0.00010249031
+    - 0.000094200586
+    - 0.0012237432
+    - -0.00007692298
+    - 0.00020684022
+    - 0.0010682519
+    - -0.000023073413
+    - -0.0000010855083
+    - -0.000034968078
+    - 0.00014157426
+    - 0.00012559789
+    - 0.008233482
+    - 0.0028357918
+    - 0.0010170839
+    - 0.003470585
+    - 0.0019897001
+    - 0.000780224
+    - 0.0005983357
+    - 0.000088817455
+    - 0.00006201718
+    - 0.010597903
+    - 0.003998986
+    - 0.0009027732
+    - 0.004884814
+    - 0.0028591393
+    - 0.00082179304
+    - 0.0006794964
+    - 0.00013583335
+    - 0.00008993501
+    - 0.014285036
+    - 0.006131825
+    - 0.0009629745
+    - 0.006931647
+    - 0.0043018903
+    - 0.0010179492
+    - 0.00077731727
+    - 0.00020776599
+    - 0.00011657275
+    - 0.008249653
+    - 0.0025941986
+    - -0.0003054212
+    - 0.0036800508
+    - 0.002250851
+    - -0.00025946298
+    - 0.0005103071
+    - 0.00021431233
+    - 0.00007133096
+    - 0.010689779
+    - 0.0036652049
+    - -0.00053460215
+    - 0.00500996
+    - 0.0030928412
+    - -0.000364862
+    - 0.00059153495
+    - 0.00025347242
+    - 0.00007999387
+    - 0.014576375
+    - 0.0056786826
+    - -0.0007010322
+    - 0.0069755926
+    - 0.00454177
+    - -0.00043658496
+    - 0.00069559354
+    - 0.00032633016
+    - 0.00007790782
+    - 0.0095212
+    - 0.0031275894
+    - 0.00025124158
+    - 0.004951188
+    - 0.0013726661
+    - 0.0003393044
+    - 0.0005341403
+    - -0.00035663493
+    - 0.00017105104
+    - 0.012447219
+    - 0.0042661834
+    - 0.000060596474
+    - 0.006834797
+    - 0.0019990888
+    - 0.00035020482
+    - 0.00064001256
+    - -0.00046031876
+    - 0.0002350454
+    - 0.01673582
+    - 0.006432563
+    - -0.00020883372
+    - 0.0094588855
+    - 0.0030842584
+    - 0.00048490806
+    - 0.0007580855
+    - -0.00063269644
+    - 0.0003060691
+    - 0.0097264815
+    - 0.0029788234
+    - 0.0005074343
+    - 0.0054992586
+    - 0.0014936955
+    - 0.000009444615
+    - 0.0006076506
+    - 0.00026620866
+    - 0.00026810303
+    - 0.012831698
+    - 0.0041686227
+    - 0.00027111315
+    - 0.0075530307
+    - 0.002150845
+    - -0.000043688397
+    - 0.0007348599
+    - 0.00030033485
+    - 0.00036272898
+    - 0.017452834
+    - 0.0063385665
+    - 0.00010134672
+    - 0.010380232
+    - 0.0032599333
+    - -0.00010682931
+    - 0.00090156734
+    - 0.00036990945
+    - 0.0004583104
+    - 0.008186458
+    - 0.0035645552
+    - 0.0016008876
+    - 0.00009527778
+    - -0.00005173434
+    - 0.00040123804
+    - 0.0002683088
+    - -0.000048674643
+    - -0.00010789723
+    - 0.010961098
+    - 0.0046944097
+    - 0.0016702639
+    - 0.00034879282
+    - -0.000011296648
+    - 0.00040998074
+    - 0.00030207212
+    - 0.000010381686
+    - -0.00017276767
+    - 0.013972853
+    - 0.007585791
+    - 0.0017807068
+    - 0.0007601637
+    - 0.00006214845
+    - 0.00044340323
+    - 0.00035257995
+    - 0.00008449293
+    - -0.00026038848
+    - 0.012684487
+    - 0.0054971823
+    - 0.0007234467
+    - -0.0013152157
+    - -0.00037675037
+    - 0.00016732613
+    - 0.0005010224
+    - -0.0002883528
+    - 0.0002294185
+    - 0.016921721
+    - 0.007391811
+    - 0.00078163383
+    - -0.0016421973
+    - -0.00046187357
+    - 0.00015899469
+    - 0.00058822986
+    - -0.0003622642
+    - 0.00028624525
+    - 0.02269645
+    - 0.011330804
+    - 0.0009061156
+    - -0.0022895792
+    - -0.0005439552
+    - 0.0001975601
+    - 0.0007089348
+    - -0.0004809018
+    - 0.00043250842
+    - 0.008693415
+    - 0.0039811986
+    - 0.00096203294
+    - 0.0005802352
+    - 0.0000043249906
+    - 0.00032659006
+    - 0.0003156752
+    - -0.00023729581
+    - -0.000070155904
+    - 0.011470003
+    - 0.005239955
+    - 0.0008504997
+    - 0.0009099592
+    - 0.000052833475
+    - 0.00029769377
+    - 0.00036275198
+    - -0.00026491447
+    - -0.000125926
+    - 0.014799007
+    - 0.008143373
+    - 0.00074581796
+    - 0.0014443238
+    - 0.00015249172
+    - 0.0002710442
+    - 0.0004307383
+    - -0.00027586648
+    - -0.00022631817
+    - 0.012243991
+    - 0.00518664
+    - 0.00066061184
+    - -0.0014660928
+    - -0.0004508217
+    - 0.00046627678
+    - 0.00046389698
+    - -0.0005077585
+    - 0.0002118574
+    - 0.016422698
+    - 0.0070350636
+    - 0.00036942423
+    - -0.0017995966
+    - -0.00055848353
+    - 0.00045463812
+    - 0.00054351694
+    - -0.00066707074
+    - 0.000271055
+    - 0.022161731
+    - 0.010849296
+    - 0.000013548513
+    - -0.0023862177
+    - -0.00070556503
+    - 0.00045378925
+    - 0.00065249257
+    - -0.00092421647
+    - 0.0004068948
+    - 0.009006669
+    - 0.004128727
+    - 0.0008161131
+    - 0.00066159654
+    - 0.000031736494
+    - 0.00034910944
+    - 0.0003409927
+    - -0.00025778404
+    - -0.00008671733
+    - 0.011949975
+    - 0.005390324
+    - 0.0005259033
+    - 0.0011452596
+    - 0.000118939766
+    - 0.00027371134
+    - 0.00038763802
+    - -0.00033284334
+    - -0.00013327757
+    - 0.015283665
+    - 0.008453232
+    - 0.00005981532
+    - 0.0019108725
+    - 0.00028408962
+    - 0.00015164554
+    - 0.00045548478
+    - -0.00044095248
+    - -0.00020019842
+    - 0.012326062
+    - 0.005270786
+    - 0.0007366317
+    - -0.001034916
+    - -0.00039057113
+    - 0.00041400347
+    - 0.0005162415
+    - -0.00066135
+    - 0.00027484467
+    - 0.016609157
+    - 0.0071770125
+    - 0.00025138693
+    - -0.001178118
+    - -0.00046457115
+    - 0.00035195437
+    - 0.0006150328
+    - -0.00084853004
+    - 0.00034990552
+    - 0.022502506
+    - 0.011143864
+    - -0.00032921604
+    - -0.0015309816
+    - -0.0005514379
+    - 0.00027068544
+    - 0.00075873703
+    - -0.001128186
+    - 0.00051407766
+    - 0.008386161
+    - 0.003697675
+    - 0.0005567135
+    - 0.00068028516
+    - 0.000029549814
+    - 0.0002075585
+    - 0.00024784904
+    - -0.0005016341
+    - -0.000018445176
+    - 0.011234391
+    - 0.004936988
+    - 0.00044582578
+    - 0.0011330437
+    - 0.00013365874
+    - 0.00017655993
+    - 0.0002648984
+    - -0.0006023564
+    - -0.00006204842
+    - 0.014400745
+    - 0.00794911
+    - 0.00037226788
+    - 0.0019159475
+    - 0.0003187148
+    - 0.00014012937
+    - 0.00028390178
+    - -0.0007358541
+    - -0.00012209208
+    - 0.013511257
+    - 0.0058708983
+    - 0.0009823171
+    - -0.0007999949
+    - -0.000320924
+    - 0.0003371324
+    - 0.0005806781
+    - -0.00042335887
+    - 0.00028564798
+    - 0.01788622
+    - 0.0078041153
+    - 0.0006884045
+    - -0.0009810643
+    - -0.00039669612
+    - 0.00028084885
+    - 0.000672647
+    - -0.0006052899
+    - 0.00036547187
+    - 0.02397509
+    - 0.011919723
+    - 0.0004780015
+    - -0.001400088
+    - -0.0004687664
+    - 0.00024980496
+    - 0.00082398974
+    - -0.00087562186
+    - 0.0005405839
+    - 0.008186016
+    - 0.0036660081
+    - 0.0009318363
+    - -0.0014189301
+    - -0.00033029373
+    - 0.00026819666
+    - 0.00020448079
+    - -0.0001534629
+    - -0.0000875488
+    - 0.010919247
+    - 0.0048378273
+    - 0.00095341285
+    - -0.0019045275
+    - -0.0004455507
+    - 0.00027396576
+    - 0.00022436562
+    - -0.00016621416
+    - -0.00012969188
+    - 0.013990167
+    - 0.007550777
+    - 0.0009188228
+    - -0.0026921055
+    - -0.0006341852
+    - 0.00029528138
+    - 0.00025029143
+    - -0.00018964769
+    - -0.00019699613
+    - 0.0124173965
+    - 0.0052530924
+    - 0.0014681116
+    - -0.0018959504
+    - -0.0003941438
+    - 0.0004575171
+    - 0.00044055135
+    - -0.0004172172
+    - 0.00024796542
+    - 0.016593257
+    - 0.007146154
+    - 0.0014338951
+    - -0.002353564
+    - -0.00041544612
+    - 0.00045380657
+    - 0.0005139027
+    - -0.0005738794
+    - 0.00030062362
+    - 0.022406746
+    - 0.010930791
+    - 0.0013734063
+    - -0.002902794
+    - -0.00054939336
+    - 0.00046472682
+    - 0.00062865135
+    - -0.0008003441
+    - 0.00041622907
+    - 0.008548894
+    - 0.0036522544
+    - 0.00090605253
+    - -0.0017318524
+    - -0.00044610846
+    - 0.00039805708
+    - 0.00025584962
+    - -0.00027702336
+    - -0.00008094917
+    - 0.01141966
+    - 0.004815326
+    - 0.00091341673
+    - -0.0023637519
+    - -0.0005919773
+    - 0.0004113184
+    - 0.0002848686
+    - -0.00033429964
+    - -0.00012796679
+    - 0.014752454
+    - 0.0077302447
+    - 0.00083008164
+    - -0.0033313776
+    - -0.00086086156
+    - 0.00045147334
+    - 0.00034113624
+    - -0.0004147511
+    - -0.00019182885
+    - 0.013670403
+    - 0.0061053527
+    - 0.0006974043
+    - -0.0012213313
+    - -0.0001103118
+    - 0.000509092
+    - 0.0007720249
+    - -0.00020283191
+    - 0.0002938685
+    - 0.018057594
+    - 0.008254942
+    - 0.0005911036
+    - -0.0015887746
+    - -0.0000630179
+    - 0.0005091117
+    - 0.0009196881
+    - -0.00033877874
+    - 0.00034873767
+    - 0.024361704
+    - 0.012502079
+    - 0.00039711097
+    - -0.0019056058
+    - -0.00009580549
+    - 0.00064900384
+    - 0.0011463325
+    - -0.0005348582
+    - 0.00045712417
+    - 0.00876062
+    - 0.0038361237
+    - 0.0014479768
+    - -0.0018971096
+    - -0.00043272393
+    - 0.0003913144
+    - 0.00018581121
+    - -0.00010681068
+    - -0.000037996575
+    - 0.011676255
+    - 0.0049914443
+    - 0.0015123055
+    - -0.0025814383
+    - -0.00057448255
+    - 0.0004184579
+    - 0.00020280678
+    - -0.00008401965
+    - -0.00007109971
+    - 0.0149284415
+    - 0.007882476
+    - 0.0017649581
+    - -0.003543982
+    - -0.0008056638
+    - 0.00045018995
+    - 0.00022543888
+    - -0.00005481264
+    - -0.00012323867
+    - 0.009962321
+    - 0.004314614
+    - 0.0014512588
+    - -0.0020848427
+    - -0.00069299666
+    - 0.00018883921
+    - 0.00054097985
+    - -0.00023098881
+    - -0.00010881414
+    - 0.012786462
+    - 0.005572439
+    - 0.0012928825
+    - -0.0026973754
+    - -0.00088433287
+    - 0.0001336458
+    - 0.0005883607
+    - -0.00022465586
+    - -0.00017065344
+    - 0.016321873
+    - 0.008500358
+    - 0.0016383906
+    - -0.003614839
+    - -0.0012167484
+    - -0.00008253962
+    - 0.0006691075
+    - -0.00023823127
+    - -0.00025251278
+    - 0.010417771
+    - 0.0048201075
+    - 0.0007450293
+    - -0.002658809
+    - -0.0017269773
+    - 0.00084894645
+    - 0.001195515
+    - -0.0000711049
+    - -0.0005385059
+    - 0.013468866
+    - 0.006661103
+    - 0.00052478065
+    - -0.0035303412
+    - -0.0022519352
+    - 0.00079704705
+    - 0.0013862163
+    - 0.000064030966
+    - -0.00080929266
+    - 0.018116912
+    - 0.0100373505
+    - 0.0003179711
+    - -0.004994787
+    - -0.003184933
+    - 0.00074800395
+    - 0.0016212418
+    - 0.00023776619
+    - -0.0012980845
+    - 0.010115859
+    - 0.004466457
+    - 0.0007980475
+    - -0.0017137899
+    - -0.0009689849
+    - 0.00056540687
+    - 0.00073004555
+    - -0.00007096266
+    - -0.00017264002
+    - 0.01303943
+    - 0.00616034
+    - 0.0005829226
+    - -0.002371461
+    - -0.0013187398
+    - 0.0004521697
+    - 0.00079390453
+    - 0.000012137085
+    - -0.000249327
+    - 0.01748929
+    - 0.009267042
+    - 0.0004219536
+    - -0.0033828204
+    - -0.0019078144
+    - 0.00043496958
+    - 0.0008720271
+    - 0.00013631827
+    - -0.0003969654
+    - 0.013641119
+    - 0.006205462
+    - 0.00042510114
+    - -0.0007075535
+    - -0.000066776985
+    - 0.00014780951
+    - 0.0005558582
+    - 0.00004727332
+    - 0.0004653591
+    - 0.018156521
+    - 0.00835115
+    - 0.000091165966
+    - -0.0009659428
+    - -0.000014416452
+    - 0.00008070891
+    - 0.0006510945
+    - 0.000028420607
+    - 0.0005894002
+    - 0.024583645
+    - 0.012702436
+    - -0.00020592801
+    - -0.0011491838
+    - -0.000059334754
+    - -0.000059518865
+    - 0.000810897
+    - 0.000011759508
+    - 0.00083305675
+    - 0.013382651
+    - 0.00617609
+    - 0.0010519163
+    - -0.0003878347
+    - -0.000040974992
+    - 0.00026721694
+    - 0.0006403964
+    - -0.00008685707
+    - 0.00034386496
+    - 0.01764785
+    - 0.00831302
+    - 0.0006819492
+    - -0.00061384204
+    - 0.0000074814047
+    - 0.00017289248
+    - 0.00074866717
+    - -0.000117350864
+    - 0.0004291961
+    - 0.023784073
+    - 0.0124560315
+    - 0.0006504327
+    - -0.0008525318
+    - -0.000030333542
+    - -0.000041810647
+    - 0.0008962105
+    - -0.00021920084
+    - 0.00058461865
+    - 0.012801197
+    - 0.0057113245
+    - 0.00088073657
+    - -0.0016002366
+    - -0.00040718427
+    - 0.0005598567
+    - 0.00075515156
+    - 0.00013345925
+    - 0.0003357052
+    - 0.017065592
+    - 0.007998605
+    - 0.0007130288
+    - -0.001915026
+    - -0.00036650023
+    - 0.0005557605
+    - 0.0009065524
+    - 0.00019495685
+    - 0.0004113847
+    - 0.023348166
+    - 0.012131462
+    - 0.00061945396
+    - -0.0021527377
+    - -0.00032363698
+    - 0.00052605575
+    - 0.0010813586
+    - 0.0002742783
+    - 0.00050165475
+    - 0.01431315
+    - 0.006333683
+    - 0.0011386336
+    - -0.0011904661
+    - -0.00015032031
+    - 0.00068020343
+    - 0.00088360027
+    - 0.00021684392
+    - 0.00042887477
+    - 0.018712921
+    - 0.008582341
+    - 0.0010027474
+    - -0.0014369041
+    - -0.00006363295
+    - 0.00064573635
+    - 0.0010403461
+    - 0.00027719743
+    - 0.0005341202
+    - 0.025163587
+    - 0.012718627
+    - 0.0006703944
+    - -0.0016385955
+    - -0.000007210272
+    - 0.0007349663
+    - 0.0012311036
+    - 0.00043880433
+    - 0.00068338733
+    - 0.009163372
+    - 0.0041153566
+    - 0.00042268354
+    - 0.000052907937
+    - -0.00005721299
+    - 0.000110448076
+    - 0.00017594673
+    - 0.0004900353
+    - 0.000048705006
+    - 0.012252568
+    - 0.005403411
+    - 0.0005044384
+    - 0.000085430205
+    - -0.00007189396
+    - 0.00013165515
+    - 0.0001846437
+    - 0.0006940785
+    - 0.00003562221
+    - 0.015801078
+    - 0.008639708
+    - 0.00058065035
+    - 0.00019331895
+    - -0.00012740283
+    - 0.0002249235
+    - 0.00019963841
+    - 0.000959958
+    - 0.000035005294
+    - 0.01292686
+    - 0.005469795
+    - 0.0021779465
+    - -0.0014894435
+    - -0.00029994262
+    - 0.000584073
+    - 0.00039971864
+    - 0.0005886855
+    - 0.000391992
+    - 0.017217608
+    - 0.007288999
+    - 0.0024984763
+    - -0.0020196142
+    - -0.00039239455
+    - 0.000660577
+    - 0.00043994442
+    - 0.00086243346
+    - 0.0005170008
+    - 0.023049643
+    - 0.011175399
+    - 0.002973894
+    - -0.0027679077
+    - -0.00056111056
+    - 0.0008263692
+    - 0.0005141859
+    - 0.0011934827
+    - 0.00074295746
+    - 0.008356817
+    - 0.0036447505
+    - 0.001381441
+    - -0.0008206111
+    - -0.00024196076
+    - 0.00045149293
+    - 0.00018317813
+    - 0.00044047888
+    - 0.000016287338
+    - 0.011216536
+    - 0.004798693
+    - 0.0016925371
+    - -0.001104914
+    - -0.00032339522
+    - 0.0005638692
+    - 0.00020082688
+    - 0.0006377294
+    - 0.0000034409593
+    - 0.01450761
+    - 0.0077128895
+    - 0.0021482466
+    - -0.0013050721
+    - -0.0004958837
+    - 0.00074081385
+    - 0.00022428903
+    - 0.0009077716
+    - -0.0000040637087
+    - 0.012200582
+    - 0.0050865924
+    - 0.002406282
+    - -0.0020468328
+    - -0.0005169113
+    - 0.00049998274
+    - 0.00042818754
+    - 0.0007434595
+    - 0.0003776232
+    - 0.016070671
+    - 0.006719194
+    - 0.0029610186
+    - -0.0029049222
+    - -0.00069543323
+    - 0.000583934
+    - 0.0004818175
+    - 0.0010497844
+    - 0.0004784976
+    - 0.021316132
+    - 0.010182474
+    - 0.0038977969
+    - -0.0040546125
+    - -0.0010534542
+    - 0.0008169066
+    - 0.0005678571
+    - 0.0014042095
+    - 0.0006668442
+    - 0.008679469
+    - 0.0038781825
+    - 0.00051264174
+    - -0.0007639038
+    - -0.00029987335
+    - 0.00013797964
+    - 0.00016675456
+    - -0.00059318455
+    - 0.000059964084
+    - 0.011635893
+    - 0.0051374394
+    - 0.00026260238
+    - -0.0008488432
+    - -0.0003347975
+    - 0.000051314146
+    - 0.00016440313
+    - -0.00080498186
+    - 0.000056370685
+    - 0.015170086
+    - 0.008178901
+    - -0.000032913198
+    - -0.00088789396
+    - -0.00040840564
+    - -0.00009607733
+    - 0.00015940107
+    - -0.0011086166
+    - 0.00005658404
+    - 0.009833919
+    - 0.00442764
+    - 0.000524557
+    - -0.0010718902
+    - -0.00040294745
+    - 0.00021592657
+    - 0.0003469053
+    - -0.0007007167
+    - -0.000013023018
+    - 0.0127452295
+    - 0.005688208
+    - 0.000013868897
+    - -0.0013963473
+    - -0.0005202552
+    - 0.00010230018
+    - 0.00038020307
+    - -0.0008962269
+    - -0.000029280836
+    - 0.016303765
+    - 0.008598854
+    - -0.00049214443
+    - -0.0017790579
+    - -0.0007386349
+    - -0.000042890115
+    - 0.00043086094
+    - -0.0011840529
+    - -0.000062332445
+    - 0.008206728
+    - 0.0036302556
+    - 0.0011116405
+    - -0.0021935303
+    - -0.00060854404
+    - 0.00029415294
+    - 0.0003118622
+    - -0.00021854434
+    - -0.00010644988
+    - 0.010770227
+    - 0.004691104
+    - 0.0010244941
+    - -0.0028947063
+    - -0.00079465506
+    - 0.00026540825
+    - 0.0003726909
+    - -0.00025147534
+    - -0.00017118461
+    - 0.01370583
+    - 0.0073081036
+    - 0.0008822059
+    - -0.0036705013
+    - -0.001138122
+    - 0.00021896168
+    - 0.00045356806
+    - -0.00029747278
+    - -0.00025166804
+    - 0.008690501
+    - 0.0038336287
+    - 0.001585639
+    - -0.0015886967
+    - -0.00046341354
+    - 0.00039612595
+    - 0.00040715814
+    - 0.000115495124
+    - -0.000063478314
+    - 0.011387421
+    - 0.004944342
+    - 0.0017696325
+    - -0.0022112315
+    - -0.0006429548
+    - 0.00045400695
+    - 0.00048046163
+    - 0.0001773371
+    - -0.00011346008
+    - 0.014546197
+    - 0.007625295
+    - 0.0021166666
+    - -0.0028146654
+    - -0.0009689407
+    - 0.0005677612
+    - 0.000580506
+    - 0.00029181255
+    - -0.00018011591
+    - 0.013144353
+    - 0.005438887
+    - -0.00011472753
+    - -0.002293062
+    - -0.0005136416
+    - 0.00009126557
+    - 0.0004242928
+    - -0.0008987631
+    - 0.00042931558
+    - 0.017520146
+    - 0.007262191
+    - -0.0007036124
+    - -0.0030148728
+    - -0.0006418548
+    - -0.000009656573
+    - 0.00047976658
+    - -0.0012274795
+    - 0.0005596705
+    - 0.023526296
+    - 0.011119081
+    - -0.0013992954
+    - -0.004024556
+    - -0.00085337285
+    - -0.00017127459
+    - 0.000569111
+    - -0.001670236
+    - 0.00079700124
+    - 0.011907991
+    - 0.004790929
+    - 0.000015247786
+    - -0.0028051003
+    - -0.00062486646
+    - 0.00018792051
+    - 0.00040853216
+    - -0.0009064129
+    - 0.0003165147
+    - 0.015919665
+    - 0.006452513
+    - -0.00064596557
+    - -0.003681324
+    - -0.000778328
+    - 0.00008467711
+    - 0.0004799764
+    - -0.0012245864
+    - 0.0004051696
+    - 0.021474458
+    - 0.009984342
+    - -0.0013447386
+    - -0.004849749
+    - -0.0010771268
+    - -0.00009072224
+    - 0.0005835937
+    - -0.0016664529
+    - 0.00058296055
+    - 0.010643091
+    - 0.004445663
+    - 0.0015829104
+    - -0.0031723934
+    - -0.0006919167
+    - 0.00047650246
+    - 0.00041676825
+    - -0.00061685516
+    - 0.00006026314
+    - 0.014057053
+    - 0.0058713686
+    - 0.0015560162
+    - -0.004365355
+    - -0.0009191389
+    - 0.0004883515
+    - 0.0005038895
+    - -0.0007738983
+    - 0.000067479596
+    - 0.018750278
+    - 0.008866804
+    - 0.0015622624
+    - -0.0059315804
+    - -0.0013586157
+    - 0.0004964175
+    - 0.00061077427
+    - -0.0009843796
+    - 0.00012529023
+    - 0.011044244
+    - 0.0048385076
+    - 0.0015962243
+    - -0.0035974083
+    - -0.0007815596
+    - 0.00051802467
+    - 0.00035961493
+    - 0.00007842011
+    - 0.000097957425
+    - 0.014351565
+    - 0.0062660086
+    - 0.0016179065
+    - -0.0048636654
+    - -0.0010062909
+    - 0.00053912937
+    - 0.00041887263
+    - 0.00016167163
+    - 0.000110921814
+    - 0.018943483
+    - 0.009269482
+    - 0.0017337842
+    - -0.006494373
+    - -0.0014423357
+    - 0.00061510084
+    - 0.0004999224
+    - 0.00024805643
+    - 0.00016886514
+    - 0.0084088715
+    - 0.0032358812
+    - -0.0029892903
+    - 0.001009487
+    - 0.000057661528
+    - -0.00074723864
+    - -0.0000101286105
+    - 0.00015273751
+    - 0.00039825993
+    - 0.011535707
+    - 0.0045865173
+    - -0.0042674546
+    - 0.0014421484
+    - 0.00011528609
+    - -0.001003189
+    - -0.000058323545
+    - 0.00020451161
+    - 0.00051863195
+    - 0.015928814
+    - 0.0074792844
+    - -0.0057548885
+    - 0.002148211
+    - 0.00022610574
+    - -0.0014752665
+    - -0.00010461773
+    - 0.00026392948
+    - 0.00070643757
+    - 0.0070158266
+    - 0.0028585398
+    - -0.0026404858
+    - 0.00018145448
+    - 0.00003498612
+    - -0.0007107811
+    - -0.0000058367727
+    - 0.00015516598
+    - 0.00019534283
+    - 0.00963602
+    - 0.0038749948
+    - -0.003629626
+    - 0.00021973754
+    - 0.000054534936
+    - -0.000980809
+    - -0.00004587522
+    - 0.00021111415
+    - 0.00025034073
+    - 0.012714102
+    - 0.0064250887
+    - -0.0048851105
+    - 0.00027834674
+    - 0.00009117333
+    - -0.0013876737
+    - -0.00010020143
+    - 0.00026974842
+    - 0.00032916875
+    - 0.009311496
+    - 0.004194107
+    - 0.00045449013
+    - 0.00036426846
+    - 0.00012776582
+    - -0.0000033002154
+    - 0.00025721177
+    - 0.00045626488
+    - 0.00004364083
+    - 0.0124221975
+    - 0.005540498
+    - 0.0002603471
+    - 0.00057568523
+    - 0.00020490485
+    - -0.00008933304
+    - 0.0002765205
+    - 0.00064899906
+    - 0.000034471934
+    - 0.016159564
+    - 0.008737181
+    - 0.00013188977
+    - 0.00089641806
+    - 0.00033151617
+    - -0.00020404514
+    - 0.00029822215
+    - 0.00093184115
+    - 0.000010891106
+    - 0.012459041
+    - 0.005660228
+    - 0.000069211346
+    - 0.0006588316
+    - -0.00007833088
+    - 0.00018248864
+    - 0.0004699
+    - 0.00071991934
+    - 0.0003901754
+    - 0.016646527
+    - 0.0075828615
+    - -0.00048031402
+    - 0.0010591651
+    - 0.00000001601581
+    - 0.00008182743
+    - 0.00053478935
+    - 0.0010333215
+    - 0.0004887138
+    - 0.022288678
+    - 0.011612717
+    - -0.0009730274
+    - 0.0016339441
+    - 0.00017111997
+    - -0.00013891676
+    - 0.0006530778
+    - 0.0014755198
+    - 0.0006801557
+    - 0.012562969
+    - 0.0050450405
+    - 0.00062812003
+    - 0.0022795808
+    - 0.00042224338
+    - 0.000021372765
+    - 0.000595611
+    - 0.00076493644
+    - 0.00039536718
+    - 0.016583543
+    - 0.0068031843
+    - 0.00018234909
+    - 0.003377232
+    - 0.00070389186
+    - -0.000118704294
+    - 0.00069946103
+    - 0.0010591208
+    - 0.0004936106
+    - 0.022243641
+    - 0.010312029
+    - -0.00000931298
+    - 0.0048433896
+    - 0.001137779
+    - -0.0004465967
+    - 0.0008451869
+    - 0.0014840555
+    - 0.000665298
+    - 0.009638159
+    - 0.0041917325
+    - 0.0007725132
+    - 0.00012600375
+    - 0.00006753564
+    - -0.00010326803
+    - 0.00048354088
+    - 0.0005574844
+    - -0.000056012872
+    - 0.0127039375
+    - 0.005657118
+    - 0.00044142266
+    - 0.00041581254
+    - 0.00021818586
+    - -0.00024526127
+    - 0.0005473704
+    - 0.0007563998
+    - -0.00010498391
+    - 0.016804878
+    - 0.008778945
+    - 0.00031532708
+    - 0.0008534321
+    - 0.00044105464
+    - -0.00060028164
+    - 0.0006364076
+    - 0.0010654287
+    - -0.00017650408
+    - 0.0121400915
+    - 0.0050547067
+    - 0.0010299388
+    - 0.0024907412
+    - 0.00056545454
+    - 0.0005208727
+    - 0.00092297257
+    - 0.0004442019
+    - 0.00005180932
+    - 0.016042948
+    - 0.0069619045
+    - 0.0007483647
+    - 0.0038443939
+    - 0.0010347319
+    - 0.00046669078
+    - 0.0011335491
+    - 0.0006514553
+    - 0.00006200953
+    - 0.021678144
+    - 0.010432364
+    - 0.00045006015
+    - 0.0055628847
+    - 0.0017700209
+    - 0.0003097922
+    - 0.0013767125
+    - 0.0009649623
+    - 0.000053120715
+    - 0.011295182
+    - 0.004953997
+    - 0.0015145926
+    - 0.0020888567
+    - 0.0012780601
+    - 0.0012344306
+    - 0.0016373985
+    - -0.000113062866
+    - -0.00039602077
+    - 0.014450341
+    - 0.0066904076
+    - 0.0012027409
+    - 0.0031050534
+    - 0.0021008283
+    - 0.0011343503
+    - 0.0018591403
+    - 0.000025546236
+    - -0.000566961
+    - 0.019279974
+    - 0.009861206
+    - 0.0010998469
+    - 0.004612517
+    - 0.0033547299
+    - 0.0011648462
+    - 0.002179814
+    - 0.00022990619
+    - -0.00089836685
+    - 0.009691095
+    - 0.0042572697
+    - 0.0015908501
+    - 0.001684592
+    - 0.0007043019
+    - 0.0013858703
+    - 0.00083051994
+    - -0.0006721435
+    - -0.00019165764
+    - 0.012691044
+    - 0.0060348054
+    - 0.0015643268
+    - 0.0027374336
+    - 0.0013666769
+    - 0.0014316287
+    - 0.0009889619
+    - -0.000751173
+    - -0.0003009088
+    - 0.01719251
+    - 0.009256105
+    - 0.0016250686
+    - 0.0043264083
+    - 0.0024090842
+    - 0.0016284818
+    - 0.0011780146
+    - -0.00085407903
+    - -0.0005100584
+    - 0.011670612
+    - 0.00482067
+    - 0.0020718302
+    - 0.0029809845
+    - 0.00071434694
+    - 0.0012167953
+    - 0.000830935
+    - -0.0013091507
+    - 0.00031130982
+    - 0.01532102
+    - 0.0066275815
+    - 0.0022822556
+    - 0.004238893
+    - 0.0011607026
+    - 0.0013147976
+    - 0.0010035307
+    - -0.0016250871
+    - 0.00035462307
+    - 0.020743934
+    - 0.010133235
+    - 0.0024267915
+    - 0.0059611346
+    - 0.0019059738
+    - 0.0016424138
+    - 0.0012026352
+    - -0.002123365
+    - 0.0004485849
+    - 0.012819083
+    - 0.0052990355
+    - 0.0022666997
+    - 0.0016424181
+    - 0.00018792902
+    - 0.0010313584
+    - 0.0004903029
+    - -0.0010460458
+    - 0.00041669823
+    - 0.017003382
+    - 0.0070976485
+    - 0.0025457405
+    - 0.0024707196
+    - 0.0003765351
+    - 0.0011003078
+    - 0.000568419
+    - -0.001348395
+    - 0.00052763993
+    - 0.022938188
+    - 0.010902015
+    - 0.0027406649
+    - 0.0035873635
+    - 0.0006877952
+    - 0.0013994257
+    - 0.00069229316
+    - -0.0017541763
+    - 0.0007505756
+    - 0.008619322
+    - 0.0036724478
+    - 0.0011499397
+    - 0.0001353004
+    - 0.00012045831
+    - 0.0004548888
+    - 0.00020985665
+    - -0.0005461894
+    - -0.0000031674435
+    - 0.011730171
+    - 0.0049371915
+    - 0.0013093262
+    - 0.00033976272
+    - 0.00023273879
+    - 0.0005121764
+    - 0.0002172183
+    - -0.00071084447
+    - -0.000012090475
+    - 0.015336725
+    - 0.008167979
+    - 0.0013973492
+    - 0.0006412194
+    - 0.00039925904
+    - 0.00065141957
+    - 0.00023278315
+    - -0.0009628052
+    - -0.000020461046
+    - 0.014336057
+    - 0.0061157835
+    - 0.0013401888
+    - 0.0003298324
+    - 0.000012972184
+    - 0.0004782763
+    - 0.00051893346
+    - -0.0005427503
+    - 0.0004537703
+    - 0.018975642
+    - 0.008109214
+    - 0.0014763947
+    - 0.0004135597
+    - 0.000060741677
+    - 0.0005258045
+    - 0.00057731237
+    - -0.0007382428
+    - 0.0005853174
+    - 0.025290191
+    - 0.012347338
+    - 0.0017349441
+    - 0.00065273046
+    - 0.000088621855
+    - 0.0006871166
+    - 0.00068910193
+    - -0.0009969177
+    - 0.0008319355
+    - 0.00872467
+    - 0.00387296
+    - 0.00052117155
+    - -0.00109114
+    - -0.000266302
+    - 0.00026763734
+    - 0.00012915151
+    - -0.00023392153
+    - -0.0000630322
+    - 0.011975758
+    - 0.0051754606
+    - 0.0005689385
+    - -0.0013567625
+    - -0.00030136417
+    - 0.00029362924
+    - 0.00013262073
+    - -0.000300004
+    - -0.000094407915
+    - 0.015495149
+    - 0.008461771
+    - 0.0006214088
+    - -0.0017110769
+    - -0.0003460943
+    - 0.00033169094
+    - 0.00014212319
+    - -0.00040220894
+    - -0.00013723836
+    - 0.009592741
+    - 0.0043241284
+    - 0.0011612448
+    - -0.0009916126
+    - -0.00020368963
+    - 0.00034177926
+    - 0.0002337485
+    - 0.00015602652
+    - 0.0000022052843
+    - 0.01286739
+    - 0.0057204026
+    - 0.0010908988
+    - -0.0011768239
+    - -0.0002060446
+    - 0.00033592092
+    - 0.00024521546
+    - 0.0002503946
+    - -0.000013229704
+    - 0.016723575
+    - 0.009094484
+    - 0.0011762236
+    - -0.001484051
+    - -0.0001955403
+    - 0.0003411182
+    - 0.00026929443
+    - 0.00040424307
+    - -0.000044269967
+    - 0.014102383
+    - 0.0063037584
+    - -0.000044398654
+    - 0.0008428924
+    - 0.00014177091
+    - 0.000052717005
+    - 0.00064867566
+    - 0.00043249092
+    - 0.0005400488
+    - 0.018675826
+    - 0.008402889
+    - -0.00055798306
+    - 0.0011064394
+    - 0.00024858784
+    - -0.000036269128
+    - 0.0007382792
+    - 0.00061712
+    - 0.00068983744
+    - 0.024911745
+    - 0.0127681345
+    - -0.000910462
+    - 0.0015857555
+    - 0.00039869433
+    - -0.00021291718
+    - 0.00088300416
+    - 0.00082169403
+    - 0.0009582201
+    - 0.013058273
+    - 0.0058118706
+    - 0.0015172295
+    - 0.0007137096
+    - 0.0000050121816
+    - 0.00047141267
+    - 0.00075250317
+    - 0.000034410405
+    - 0.0004062091
+    - 0.0173629
+    - 0.007918119
+    - 0.0011873639
+    - 0.0010874686
+    - 0.00014273135
+    - 0.00039418376
+    - 0.0008969374
+    - 0.00016082956
+    - 0.00049034925
+    - 0.023471966
+    - 0.012104186
+    - 0.0011291107
+    - 0.0018264145
+    - 0.0004043374
+    - 0.000120036086
+    - 0.0010927758
+    - 0.00031373266
+    - 0.00064133067
+    - 0.010019917
+    - 0.0044639143
+    - 0.0013834299
+    - -0.0017655923
+    - -0.0005117962
+    - 0.00028545578
+    - 0.0004437295
+    - 0.00022152707
+    - -0.000015728945
+    - 0.013388567
+    - 0.006055752
+    - 0.0013022604
+    - -0.0020515798
+    - -0.00051163416
+    - 0.0002705963
+    - 0.0005084965
+    - 0.00040709495
+    - -0.000041386797
+    - 0.017719112
+    - 0.009449746
+    - 0.0016339808
+    - -0.0023368737
+    - -0.00047729118
+    - 0.00008224539
+    - 0.000614271
+    - 0.00065480906
+    - -0.00009921259
+    - 0.012472133
+    - 0.00519977
+    - 0.0012245654
+    - 0.0003390626
+    - 0.000020139247
+    - 0.0005692301
+    - 0.00082377926
+    - -0.00016814006
+    - 0.00026564402
+    - 0.016536145
+    - 0.0072364886
+    - 0.0009859856
+    - 0.00068481494
+    - 0.0001699741
+    - 0.000515202
+    - 0.000986143
+    - -0.00016023334
+    - 0.00032186424
+    - 0.02246442
+    - 0.011027211
+    - 0.0008523836
+    - 0.0011869072
+    - 0.00038093474
+    - 0.00042562533
+    - 0.001153451
+    - -0.00012026822
+    - 0.00041179964
+    - 0.010495042
+    - 0.0045208135
+    - 0.00066765805
+    - -0.00033375536
+    - -0.0003314223
+    - 0.0008439686
+    - 0.0013421294
+    - -0.00034139436
+    - -0.00041715932
+    - 0.013689453
+    - 0.0064177644
+    - 0.00039381013
+    - -0.00021775084
+    - -0.0000939463
+    - 0.0007514855
+    - 0.0015288787
+    - -0.00031861512
+    - -0.00064636505
+    - 0.018618183
+    - 0.009908747
+    - 0.00019142148
+    - -0.000050052604
+    - 0.00031775402
+    - 0.00069239794
+    - 0.0017915427
+    - -0.0003059745
+    - -0.001064802
+    - 0.01037726
+    - 0.0047377036
+    - 0.00014386725
+    - -0.0006910504
+    - -0.00041728365
+    - 0.0004272426
+    - 0.0011114724
+    - -0.0006648005
+    - -0.00043495384
+    - 0.01345055
+    - 0.0066616
+    - -0.00008426488
+    - -0.0008012855
+    - -0.00038908407
+    - 0.00036582106
+    - 0.0013046383
+    - -0.00086556026
+    - -0.00063986133
+    - 0.01809172
+    - 0.010088581
+    - -0.0003889034
+    - -0.0008988763
+    - -0.00034225665
+    - 0.00035673872
+    - 0.0015324672
+    - -0.0011213953
+    - -0.001008868
+    - 0.01258823
+    - 0.005141675
+    - 0.0010764027
+    - 0.0003847737
+    - 0.00020584866
+    - 0.0007445698
+    - 0.0007444896
+    - -0.00023972071
+    - 0.00022216933
+    - 0.016648369
+    - 0.0071219085
+    - 0.0008557487
+    - 0.00064980856
+    - 0.00034571884
+    - 0.0007153174
+    - 0.0008832154
+    - -0.00034293387
+    - 0.00027452514
+    - 0.022518007
+    - 0.010877117
+    - 0.0004755181
+    - 0.0010548412
+    - 0.00054425147
+    - 0.0008590058
+    - 0.0010468006
+    - -0.0004885166
+    - 0.0003524343
+    - 0.013067813
+    - 0.0053055747
+    - 0.0013767785
+    - 0.00014809094
+    - -0.000024896657
+    - 0.00063720846
+    - 0.00060807023
+    - -0.000903441
+    - 0.00042135236
+    - 0.017442068
+    - 0.0072634495
+    - 0.0014579566
+    - 0.0004044005
+    - 0.00007991719
+    - 0.0006484083
+    - 0.00068928534
+    - -0.0012248959
+    - 0.0005482307
+    - 0.023613133
+    - 0.011294881
+    - 0.001453602
+    - 0.0009015056
+    - 0.00018615017
+    - 0.0008467169
+    - 0.0008210199
+    - -0.0016428776
+    - 0.0007870066
+    - 0.009799474
+    - 0.004322867
+    - 0.00061965606
+    - -0.0008492808
+    - -0.00023616402
+    - 0.00028376785
+    - 0.0002958525
+    - -0.00048264183
+    - -0.000039781644
+    - 0.013155224
+    - 0.0057476875
+    - 0.0005548469
+    - -0.0010665598
+    - -0.00026298073
+    - 0.00028493206
+    - 0.00032600132
+    - -0.0006320785
+    - -0.00006986472
+    - 0.01715756
+    - 0.009162424
+    - 0.0003970809
+    - -0.001420495
+    - -0.00030267844
+    - 0.00035425255
+    - 0.0003750841
+    - -0.0008384138
+    - -0.0001201385
+    - 0.00956698
+    - 0.0041875564
+    - 0.0003399136
+    - 0.00066419854
+    - 0.00023386026
+    - 0.00018341752
+    - 0.00021880417
+    - -0.00035437194
+    - 0.00005884509
+    - 0.01298338
+    - 0.005596284
+    - 0.00029699874
+    - 0.0008598274
+    - 0.00031863147
+    - 0.00020621093
+    - 0.00023032096
+    - -0.0005151637
+    - 0.00007202749
+    - 0.016947873
+    - 0.009070039
+    - 0.00033230748
+    - 0.0011315416
+    - 0.00045084578
+    - 0.00025040488
+    - 0.00025184735
+    - -0.00074901147
+    - 0.00008212557
+    - 0.013350285
+    - 0.005566797
+    - 0.0022332561
+    - 0.0009573782
+    - 0.000025087438
+    - 0.00067941245
+    - 0.0003767624
+    - -0.00042198022
+    - 0.00044378464
+    - 0.017713653
+    - 0.00736507
+    - 0.0026097589
+    - 0.0012728097
+    - 0.00006224568
+    - 0.0007691367
+    - 0.00041513296
+    - -0.0006248266
+    - 0.0005627544
+    - 0.023589391
+    - 0.011295095
+    - 0.0031176568
+    - 0.0016699425
+    - 0.00013505651
+    - 0.00096447987
+    - 0.00049021526
+    - -0.0008723563
+    - 0.0007899611
+    - 0.007685212
+    - 0.00334977
+    - -0.0011457939
+    - 0.000014038963
+    - 0.000060532886
+    - -0.000352268
+    - 0.00005223718
+    - 0.00053082884
+    - 0.00010533631
+    - 0.010710411
+    - 0.0046498496
+    - -0.0015384018
+    - 0.00020143054
+    - 0.00014155291
+    - -0.0004664563
+    - 0.000038240698
+    - 0.0007019718
+    - 0.00012309455
+    - 0.0144114895
+    - 0.0076154987
+    - -0.0019041598
+    - 0.0004130261
+    - 0.00024432185
+    - -0.000646988
+    - 0.00002310302
+    - 0.0009821745
+    - 0.00013690323
+    - 0.011800361
+    - 0.004709995
+    - -0.0019173356
+    - 0.0015027614
+    - 0.00016968371
+    - -0.00058301433
+    - 0.00024707898
+    - 0.0007768505
+    - 0.00055025425
+    - 0.015951866
+    - 0.006497753
+    - -0.0027587772
+    - 0.002111416
+    - 0.00026175604
+    - -0.00077236193
+    - 0.00025999546
+    - 0.0010364887
+    - 0.0007088351
+    - 0.02166047
+    - 0.010183987
+    - -0.0036685227
+    - 0.0028203283
+    - 0.000434162
+    - -0.0011050077
+    - 0.00029948904
+    - 0.0013902382
+    - 0.0009615558
+    - 0.0074774637
+    - 0.0031981415
+    - 0.0027097897
+    - -0.00011889333
+    - -0.00004014275
+    - 0.00061814836
+    - -0.000015696327
+    - -0.00024611107
+    - 0.00017698295
+    - 0.010133734
+    - 0.0042688074
+    - 0.0034486938
+    - -0.00004753825
+    - 0.0000027264678
+    - 0.0007696147
+    - -0.000066046596
+    - -0.0003017394
+    - 0.00023755064
+    - 0.013517234
+    - 0.006791065
+    - 0.004322989
+    - 0.000052148454
+    - 0.000043991524
+    - 0.0010733829
+    - -0.00014159063
+    - -0.00040509988
+    - 0.00032206858
+    - 0.009923745
+    - 0.0038901875
+    - 0.0039756326
+    - 0.000344961
+    - -0.00012284692
+    - 0.00089351257
+    - 0.000036739973
+    - -0.00042001976
+    - 0.00037135935
+    - 0.013265964
+    - 0.005252559
+    - 0.0051454226
+    - 0.0005255071
+    - -0.00012217538
+    - 0.0010861235
+    - -0.000010183291
+    - -0.00053684425
+    - 0.0004888478
+    - 0.017961806
+    - 0.0081798015
+    - 0.0066433996
+    - 0.000755929
+    - -0.00010708668
+    - 0.0014864657
+    - -0.000057112393
+    - -0.0006985384
+    - 0.0006824553
+    - 0.007922665
+    - 0.0033321965
+    - 0.0012714581
+    - 0.0004005968
+    - 0.00006948367
+    - 0.00042055963
+    - 0.00008542416
+    - -0.00042334854
+    - 0.00008112549
+    - 0.010920647
+    - 0.0045257355
+    - 0.0015031141
+    - 0.00070147053
+    - 0.00014718928
+    - 0.0005129832
+    - 0.000072191615
+    - -0.00058038166
+    - 0.000090538735
+    - 0.014335739
+    - 0.007599012
+    - 0.0018883904
+    - 0.0010047328
+    - 0.00028156248
+    - 0.00066589244
+    - 0.000051305593
+    - -0.000797402
+    - 0.00010980757
+    - 0.012324264
+    - 0.005113675
+    - 0.0021117565
+    - 0.000920415
+    - 0.000053907293
+    - 0.00060434925
+    - 0.0003838841
+    - -0.0008845879
+    - 0.0003917363
+    - 0.016450087
+    - 0.006850857
+    - 0.0026292698
+    - 0.001405747
+    - 0.0001275562
+    - 0.0007201982
+    - 0.00040932125
+    - -0.0011940147
+    - 0.00052523427
+    - 0.02214825
+    - 0.010582369
+    - 0.003364972
+    - 0.0019479593
+    - 0.0002700473
+    - 0.0010051313
+    - 0.00048038227
+    - -0.0015886095
+    - 0.0007580445
+    initialLightProbesArrayPosition: 102
+    fogSettings:
+      enabled: 0
+      fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      fogDensity: 0.01
+    environmentSettings:
+      source: 0
+      ambientColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+      skyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+      equatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+      groundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+      intensityMultiplier: 1
+  workflow: 1
+  prevBlendIndex: 0
+  removed: 0
